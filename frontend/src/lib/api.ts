@@ -48,6 +48,7 @@ export interface ChurnPrediction {
   age: number;
   gender: string;
   subscription_status: string;
+  cancellations_count?: number;
 }
 
 export interface ChurnSegment {
@@ -55,6 +56,19 @@ export interface ChurnSegment {
   customer_count: string;
   avg_probability: string;
   avg_cancellations: string;
+}
+
+export interface ChurnTrendPoint {
+  cohort_month: string;
+  total_customers: string;
+  cancelled_count: string;
+  churn_rate_pct: string;
+}
+
+export interface ChurnDriver {
+  top_factor: string;
+  customer_count: string;
+  pct: string;
 }
 
 export interface SalesForecast {
@@ -72,6 +86,12 @@ export interface DemandByCategory {
   total_units: string;
   total_revenue: string;
   avg_units_per_order: string;
+}
+
+export interface SalesTrendPoint {
+  month: string;
+  order_count: string;
+  total_revenue: string;
 }
 
 export interface InventoryItem {
@@ -97,6 +117,11 @@ export const api = {
   churnSegments: () =>
     request<{ segments: ChurnSegment[]; source: string }>("/api/churn/segments"),
 
+  churnTrends: () => request<{ data: ChurnTrendPoint[] }>("/api/churn/trends"),
+
+  churnDrivers: () =>
+    request<{ data: ChurnDriver[]; note: string; source: string }>("/api/churn/drivers"),
+
   churnPredictions: (params: { page?: number; limit?: number; risk_tier?: string } = {}) => {
     const qs = new URLSearchParams();
     if (params.page) qs.set("page", String(params.page));
@@ -112,6 +137,8 @@ export const api = {
 
   salesDemandByCategory: () =>
     request<{ data: DemandByCategory[]; source: string }>("/api/sales/demand-by-category"),
+
+  salesTrends: () => request<{ data: SalesTrendPoint[]; source: string }>("/api/sales/trends"),
 
   inventory: (params: { page?: number; limit?: number; category?: string } = {}) => {
     const qs = new URLSearchParams();
