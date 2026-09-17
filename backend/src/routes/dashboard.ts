@@ -6,8 +6,9 @@ const router = Router();
 /**
  * GET /api/dashboard/summary
  * Single aggregate endpoint for the dashboard landing page: totals,
- * churn snapshot, sales snapshot, and top signals. Mixes real and mock
- * data — each block is labeled with its own `source`.
+ * churn snapshot, sales snapshot, and top signals. Each block's source
+ * is read from the actual data (not hardcoded), so it correctly
+ * reflects mock vs model once real ML output is seeded.
  */
 router.get("/summary", async (_req, res) => {
   try {
@@ -29,11 +30,11 @@ router.get("/summary", async (_req, res) => {
          FROM churn_predictions GROUP BY risk_tier`
       ),
       pool.query(
-        `SELECT customer_id, churn_probability, risk_tier
+        `SELECT customer_id, churn_probability, risk_tier, source
          FROM churn_predictions ORDER BY churn_probability DESC LIMIT 5`
       ),
       pool.query(
-        `SELECT product_name, predicted_units, predicted_revenue
+        `SELECT product_name, predicted_units, predicted_revenue, source
          FROM sales_forecasts ORDER BY predicted_revenue DESC LIMIT 5`
       ),
       pool.query(
@@ -52,12 +53,12 @@ router.get("/summary", async (_req, res) => {
       churn: {
         by_tier: churnTierCounts.rows,
         top_at_risk: topAtRisk.rows,
-        source: "mock",
+        source: topAtRisk.rows[0]?.source ?? "mock",
       },
       sales: {
         top_products: topProducts.rows,
         top_category_by_volume: categoryDemand.rows[0] ?? null,
-        source: "mock",
+        source: topProducts.rows[0]?.source ?? "mock",
       },
     });
   } catch (err) {
