@@ -124,4 +124,27 @@ router.get("/trends", async (_req, res) => {
   }
 });
 
+/**
+ * GET /api/churn/drivers
+ * Real distribution of top_factor across all churn predictions — a
+ * legitimate proxy for "churn drivers" since we don't store per-feature
+ * importance scores. This is an actual count/percentage of what factor
+ * the model flagged as most influential per customer, not a fabricated
+ * feature-importance ranking.
+ */
+router.get("/drivers", async (_req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT top_factor, COUNT(*) AS customer_count,
+              ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM churn_predictions) * 100, 1) AS pct
+       FROM churn_predictions
+       GROUP BY top_factor
+       ORDER BY customer_count DESC`
+    );
+    res.json({ data: result.rows, note: "Real distribution of model-flagged top factors, not per-feature importance scores.", source: "model" });
+  } catch (err) {
+    res.status(500).json({ error: (err as Error).message });
+  }
+});
+
 export default router;
