@@ -74,3 +74,18 @@ inventory endpoint's honest "pending" stock status.
 would be the point to either request a richer dataset with real behavioral
 signal, or engineer synthetic-but-plausible churn drivers so the modeling
 step has something real to learn from.
+
+## Sales/demand forecast — known limitation (sales-ml branch)
+
+This dataset has exactly one order per customer (documented earlier in
+this report), so it is not a true repeat-purchase time series at the
+product level. `ml/sales-demand/train.py` therefore forecasts at the
+**category** level using a real linear trend fit across ~64 months of
+order_date history, then distributes each category's projected
+units/revenue across its top 10 products by historical revenue share.
+
+This means individual product-level forecast rows in
+`ml/sales-demand/output/forecast.csv` are a proportional allocation of a
+real category forecast, not an independently modeled per-product
+prediction. The category-level numbers are real trend projections; the
+product-level split is a documented proxy, not fabricated data.
