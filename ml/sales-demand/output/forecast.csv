@@ -1,0 +1,41 @@
+product_name,period,predicted_units,predicted_revenue
+Lipstick,next_quarter,22,4443.02
+Perfume,next_quarter,22,4286.23
+Conditioner,next_quarter,21,4243.39
+Moisturizer,next_quarter,21,4127.38
+Face Wash,next_quarter,21,4073.08
+Foundation,next_quarter,18,3664.0
+Shampoo,next_quarter,17,3370.05
+Nail Polish,next_quarter,14,2765.77
+Sneakers,next_quarter,31,6156.37
+Skirt,next_quarter,29,5680.89
+Shirt,next_quarter,24,4714.43
+Jacket,next_quarter,23,4566.64
+Jeans,next_quarter,20,4001.31
+Hoodie,next_quarter,20,3901.08
+T-Shirt,next_quarter,17,3420.49
+Dress,next_quarter,17,3362.97
+Smartphone,next_quarter,22,4871.09
+Camera,next_quarter,21,4618.1
+Bluetooth Speaker,next_quarter,21,4591.14
+Laptop,next_quarter,20,4399.29
+Smartwatch,next_quarter,20,4364.54
+Headphones,next_quarter,19,4261.84
+Tablet,next_quarter,17,3725.52
+Gaming Console,next_quarter,15,3284.64
+Vacuum Cleaner,next_quarter,19,4226.04
+Blender,next_quarter,19,4222.54
+Sofa,next_quarter,19,4168.59
+Chair,next_quarter,17,3781.79
+Lamp,next_quarter,17,3755.26
+Refrigerator,next_quarter,17,3734.88
+Microwave,next_quarter,16,3584.74
+Dining Table,next_quarter,15,3212.49
+Dumbbells,next_quarter,24,4991.31
+Cricket Bat,next_quarter,21,4322.62
+Football,next_quarter,19,3982.41
+Cycling Helmet,next_quarter,17,3582.62
+Yoga Mat,next_quarter,17,3490.18
+Running Shoes,next_quarter,16,3383.14
+Basketball,next_quarter,16,3355.7
+Tennis Racket,next_quarter,14,2883.3

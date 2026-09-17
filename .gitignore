@@ -30,8 +30,8 @@ __pycache__/
 data/processed/
 ml/churn/output/*
 !ml/churn/output/predictions.csv
+ml/sales-demand/output/*
 !ml/sales-demand/output/forecast.csv
-ml/sales-demand/output/
 
 # OS / Editor
 .DS_Store
