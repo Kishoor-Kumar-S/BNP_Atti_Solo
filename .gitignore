@@ -28,7 +28,9 @@ __pycache__/
 
 # Data outputs (generated, not source-controlled)
 data/processed/
-ml/churn/output/
+ml/churn/output/*
+!ml/churn/output/predictions.csv
+!ml/sales-demand/output/forecast.csv
 ml/sales-demand/output/
 
 # OS / Editor
