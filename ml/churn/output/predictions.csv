@@ -1,0 +1,2001 @@
+customer_id,churn_probability,risk_tier,top_factor
+CUST1000,0.5048,high,regional pattern
+CUST1001,0.5875,high,recency of last purchase
+CUST1002,0.6483,high,regional pattern
+CUST1003,0.4802,medium,purchase frequency
+CUST1004,0.4863,medium,regional pattern
+CUST1005,0.4972,medium,regional pattern
+CUST1006,0.4423,medium,recency of last purchase
+CUST1007,0.417,medium,regional pattern
+CUST1008,0.5462,high,regional pattern
+CUST1009,0.4093,medium,purchase frequency
+CUST1010,0.4819,medium,regional pattern
+CUST1011,0.4152,medium,recency of last purchase
+CUST1012,0.4872,medium,regional pattern
+CUST1013,0.44,medium,purchase frequency
+CUST1014,0.3996,medium,regional pattern
+CUST1015,0.4247,medium,regional pattern
+CUST1016,0.4632,medium,recency of last purchase
+CUST1017,0.4899,medium,regional pattern
+CUST1018,0.4206,medium,recency of last purchase
+CUST1019,0.5302,high,recency of last purchase
+CUST1020,0.4181,medium,purchase frequency
+CUST1021,0.5046,high,recency of last purchase
+CUST1022,0.5635,high,recency of last purchase
+CUST1023,0.3995,medium,recency of last purchase
+CUST1024,0.4707,medium,gender segment pattern
+CUST1025,0.5674,high,regional pattern
+CUST1026,0.4317,medium,recency of last purchase
+CUST1027,0.6247,high,regional pattern
+CUST1028,0.4931,medium,regional pattern
+CUST1029,0.4218,medium,regional pattern
+CUST1030,0.4972,medium,recency of last purchase
+CUST1031,0.4255,medium,purchase frequency
+CUST1032,0.5557,high,recency of last purchase
+CUST1033,0.4783,medium,recency of last purchase
+CUST1034,0.4026,medium,regional pattern
+CUST1035,0.5729,high,regional pattern
+CUST1036,0.3633,medium,regional pattern
+CUST1037,0.6107,high,purchase frequency
+CUST1038,0.535,high,regional pattern
+CUST1039,0.57,high,purchase frequency
+CUST1040,0.4444,medium,recency of last purchase
+CUST1041,0.4951,medium,regional pattern
+CUST1042,0.5073,high,recency of last purchase
+CUST1043,0.4831,medium,regional pattern
+CUST1044,0.5469,high,purchase frequency
+CUST1045,0.5716,high,satisfaction rating
+CUST1046,0.5553,high,regional pattern
+CUST1047,0.4336,medium,recency of last purchase
+CUST1048,0.5827,high,regional pattern
+CUST1049,0.4559,medium,recency of last purchase
+CUST1050,0.5154,high,regional pattern
+CUST1051,0.432,medium,regional pattern
+CUST1052,0.4093,medium,purchase frequency
+CUST1053,0.4918,medium,recency of last purchase
+CUST1054,0.3673,medium,regional pattern
+CUST1055,0.593,high,recency of last purchase
+CUST1056,0.4498,medium,gender segment pattern
+CUST1057,0.414,medium,recency of last purchase
+CUST1058,0.4374,medium,gender segment pattern
+CUST1059,0.4407,medium,regional pattern
+CUST1060,0.5969,high,recency of last purchase
+CUST1061,0.3979,medium,purchase frequency
+CUST1062,0.4224,medium,regional pattern
+CUST1063,0.4599,medium,purchase frequency
+CUST1064,0.5053,high,recency of last purchase
+CUST1065,0.4026,medium,regional pattern
+CUST1066,0.539,high,regional pattern
+CUST1067,0.4478,medium,regional pattern
+CUST1068,0.4905,medium,purchase frequency
+CUST1069,0.391,medium,recency of last purchase
+CUST1070,0.5059,high,regional pattern
+CUST1071,0.5347,high,regional pattern
+CUST1072,0.5017,high,recency of last purchase
+CUST1073,0.532,high,regional pattern
+CUST1074,0.5008,high,regional pattern
+CUST1075,0.5193,high,gender segment pattern
+CUST1076,0.5119,high,recency of last purchase
+CUST1077,0.4612,medium,regional pattern
+CUST1078,0.5045,high,regional pattern
+CUST1079,0.4276,medium,recency of last purchase
+CUST1080,0.4151,medium,purchase frequency
+CUST1081,0.4454,medium,purchase frequency
+CUST1082,0.4805,medium,regional pattern
+CUST1083,0.3975,medium,regional pattern
+CUST1084,0.4035,medium,regional pattern
+CUST1085,0.4583,medium,purchase frequency
+CUST1086,0.4292,medium,purchase frequency
+CUST1087,0.6065,high,regional pattern
+CUST1088,0.534,high,satisfaction rating
+CUST1089,0.5282,high,regional pattern
+CUST1090,0.6175,high,regional pattern
+CUST1091,0.4339,medium,purchase frequency
+CUST1092,0.5247,high,recency of last purchase
+CUST1093,0.4361,medium,regional pattern
+CUST1094,0.5757,high,regional pattern
+CUST1095,0.5029,high,satisfaction rating
+CUST1096,0.5832,high,recency of last purchase
+CUST1097,0.5811,high,regional pattern
+CUST1098,0.5218,high,recency of last purchase
+CUST1099,0.4403,medium,regional pattern
+CUST1100,0.423,medium,regional pattern
+CUST1101,0.4794,medium,purchase frequency
+CUST1102,0.5441,high,purchase frequency
+CUST1103,0.5129,high,recency of last purchase
+CUST1104,0.4477,medium,purchase frequency
+CUST1105,0.523,high,regional pattern
+CUST1106,0.4167,medium,regional pattern
+CUST1107,0.5382,high,recency of last purchase
+CUST1108,0.5101,high,regional pattern
+CUST1109,0.5566,high,regional pattern
+CUST1110,0.457,medium,regional pattern
+CUST1111,0.5824,high,regional pattern
+CUST1112,0.4726,medium,regional pattern
+CUST1113,0.4665,medium,recency of last purchase
+CUST1114,0.521,high,regional pattern
+CUST1115,0.5882,high,recency of last purchase
+CUST1116,0.456,medium,purchase frequency
+CUST1117,0.523,high,recency of last purchase
+CUST1118,0.4217,medium,regional pattern
+CUST1119,0.4996,medium,satisfaction rating
+CUST1120,0.4986,medium,regional pattern
+CUST1121,0.3923,medium,regional pattern
+CUST1122,0.3987,medium,regional pattern
+CUST1123,0.497,medium,purchase frequency
+CUST1124,0.423,medium,purchase frequency
+CUST1125,0.4102,medium,regional pattern
+CUST1126,0.4264,medium,regional pattern
+CUST1127,0.5788,high,purchase frequency
+CUST1128,0.5771,high,purchase frequency
+CUST1129,0.3581,medium,regional pattern
+CUST1130,0.4008,medium,purchase frequency
+CUST1131,0.3551,medium,regional pattern
+CUST1132,0.489,medium,purchase frequency
+CUST1133,0.5863,high,recency of last purchase
+CUST1134,0.3931,medium,regional pattern
+CUST1135,0.4705,medium,gender segment pattern
+CUST1136,0.6152,high,regional pattern
+CUST1137,0.4009,medium,satisfaction rating
+CUST1138,0.5338,high,purchase frequency
+CUST1139,0.557,high,regional pattern
+CUST1140,0.3665,medium,regional pattern
+CUST1141,0.4521,medium,purchase frequency
+CUST1142,0.5404,high,satisfaction rating
+CUST1143,0.5286,high,regional pattern
+CUST1144,0.5174,high,regional pattern
+CUST1145,0.4871,medium,satisfaction rating
+CUST1146,0.4626,medium,satisfaction rating
+CUST1147,0.4681,medium,recency of last purchase
+CUST1148,0.447,medium,regional pattern
+CUST1149,0.4765,medium,purchase frequency
+CUST1150,0.5243,high,recency of last purchase
+CUST1151,0.5642,high,recency of last purchase
+CUST1152,0.5984,high,regional pattern
+CUST1153,0.5158,high,regional pattern
+CUST1154,0.4713,medium,regional pattern
+CUST1155,0.3754,medium,regional pattern
+CUST1156,0.4127,medium,regional pattern
+CUST1157,0.5014,high,purchase frequency
+CUST1158,0.6079,high,recency of last purchase
+CUST1159,0.4778,medium,regional pattern
+CUST1160,0.5091,high,recency of last purchase
+CUST1161,0.5253,high,recency of last purchase
+CUST1162,0.5163,high,purchase frequency
+CUST1163,0.5957,high,regional pattern
+CUST1164,0.4989,medium,satisfaction rating
+CUST1165,0.465,medium,purchase frequency
+CUST1166,0.3232,medium,regional pattern
+CUST1167,0.5063,high,regional pattern
+CUST1168,0.5216,high,purchase frequency
+CUST1169,0.5971,high,purchase frequency
+CUST1170,0.4784,medium,regional pattern
+CUST1171,0.3455,medium,regional pattern
+CUST1172,0.5224,high,regional pattern
+CUST1173,0.5527,high,regional pattern
+CUST1174,0.4189,medium,satisfaction rating
+CUST1175,0.5717,high,regional pattern
+CUST1176,0.5127,high,regional pattern
+CUST1177,0.5235,high,recency of last purchase
+CUST1178,0.5159,high,recency of last purchase
+CUST1179,0.5839,high,satisfaction rating
+CUST1180,0.5828,high,regional pattern
+CUST1181,0.5604,high,regional pattern
+CUST1182,0.4088,medium,recency of last purchase
+CUST1183,0.443,medium,recency of last purchase
+CUST1184,0.4405,medium,recency of last purchase
+CUST1185,0.4089,medium,recency of last purchase
+CUST1186,0.388,medium,recency of last purchase
+CUST1187,0.533,high,regional pattern
+CUST1188,0.553,high,regional pattern
+CUST1189,0.5283,high,purchase frequency
+CUST1190,0.5477,high,regional pattern
+CUST1191,0.4046,medium,regional pattern
+CUST1192,0.5357,high,regional pattern
+CUST1193,0.4944,medium,satisfaction rating
+CUST1194,0.4932,medium,recency of last purchase
+CUST1195,0.5732,high,purchase frequency
+CUST1196,0.5755,high,purchase frequency
+CUST1197,0.512,high,purchase frequency
+CUST1198,0.4934,medium,satisfaction rating
+CUST1199,0.5879,high,regional pattern
+CUST1200,0.5095,high,satisfaction rating
+CUST1201,0.5702,high,purchase frequency
+CUST1202,0.4347,medium,regional pattern
+CUST1203,0.4993,medium,purchase frequency
+CUST1204,0.441,medium,satisfaction rating
+CUST1205,0.4645,medium,regional pattern
+CUST1206,0.5122,high,gender segment pattern
+CUST1207,0.5836,high,regional pattern
+CUST1208,0.5729,high,regional pattern
+CUST1209,0.5131,high,regional pattern
+CUST1210,0.4955,medium,regional pattern
+CUST1211,0.516,high,regional pattern
+CUST1212,0.4745,medium,purchase frequency
+CUST1213,0.569,high,regional pattern
+CUST1214,0.5549,high,satisfaction rating
+CUST1215,0.5753,high,regional pattern
+CUST1216,0.6147,high,regional pattern
+CUST1217,0.4595,medium,purchase frequency
+CUST1218,0.4369,medium,recency of last purchase
+CUST1219,0.5343,high,regional pattern
+CUST1220,0.5735,high,regional pattern
+CUST1221,0.5136,high,purchase frequency
+CUST1222,0.4458,medium,regional pattern
+CUST1223,0.5564,high,regional pattern
+CUST1224,0.4415,medium,recency of last purchase
+CUST1225,0.4722,medium,regional pattern
+CUST1226,0.5822,high,purchase frequency
+CUST1227,0.4323,medium,recency of last purchase
+CUST1228,0.5084,high,purchase frequency
+CUST1229,0.3726,medium,regional pattern
+CUST1230,0.5555,high,regional pattern
+CUST1231,0.579,high,regional pattern
+CUST1232,0.4565,medium,regional pattern
+CUST1233,0.6,high,satisfaction rating
+CUST1234,0.434,medium,recency of last purchase
+CUST1235,0.5722,high,regional pattern
+CUST1236,0.6396,high,satisfaction rating
+CUST1237,0.563,high,account tenure
+CUST1238,0.465,medium,purchase frequency
+CUST1239,0.4369,medium,purchase frequency
+CUST1240,0.5211,high,gender segment pattern
+CUST1241,0.524,high,recency of last purchase
+CUST1242,0.523,high,regional pattern
+CUST1243,0.4951,medium,purchase frequency
+CUST1244,0.5351,high,satisfaction rating
+CUST1245,0.5086,high,regional pattern
+CUST1246,0.4553,medium,gender segment pattern
+CUST1247,0.4625,medium,regional pattern
+CUST1248,0.4936,medium,recency of last purchase
+CUST1249,0.4844,medium,satisfaction rating
+CUST1250,0.6001,high,regional pattern
+CUST1251,0.571,high,satisfaction rating
+CUST1252,0.4473,medium,regional pattern
+CUST1253,0.6402,high,recency of last purchase
+CUST1254,0.516,high,regional pattern
+CUST1255,0.5551,high,purchase frequency
+CUST1256,0.4988,medium,purchase frequency
+CUST1257,0.3785,medium,recency of last purchase
+CUST1258,0.5184,high,regional pattern
+CUST1259,0.4488,medium,purchase frequency
+CUST1260,0.415,medium,regional pattern
+CUST1261,0.3809,medium,regional pattern
+CUST1262,0.545,high,regional pattern
+CUST1263,0.5207,high,satisfaction rating
+CUST1264,0.5447,high,regional pattern
+CUST1265,0.5369,high,purchase frequency
+CUST1266,0.4896,medium,regional pattern
+CUST1267,0.4661,medium,regional pattern
+CUST1268,0.3993,medium,purchase frequency
+CUST1269,0.5545,high,regional pattern
+CUST1270,0.486,medium,recency of last purchase
+CUST1271,0.5366,high,regional pattern
+CUST1272,0.5601,high,purchase frequency
+CUST1273,0.6282,high,regional pattern
+CUST1274,0.4991,medium,recency of last purchase
+CUST1275,0.6625,high,satisfaction rating
+CUST1276,0.4012,medium,regional pattern
+CUST1277,0.5839,high,regional pattern
+CUST1278,0.4497,medium,regional pattern
+CUST1279,0.5529,high,purchase frequency
+CUST1280,0.44,medium,regional pattern
+CUST1281,0.5283,high,recency of last purchase
+CUST1282,0.6058,high,satisfaction rating
+CUST1283,0.4798,medium,recency of last purchase
+CUST1284,0.4496,medium,satisfaction rating
+CUST1285,0.6126,high,regional pattern
+CUST1286,0.388,medium,regional pattern
+CUST1287,0.3782,medium,regional pattern
+CUST1288,0.5012,high,regional pattern
+CUST1289,0.504,high,recency of last purchase
+CUST1290,0.5367,high,satisfaction rating
+CUST1291,0.5489,high,purchase frequency
+CUST1292,0.5568,high,recency of last purchase
+CUST1293,0.4124,medium,regional pattern
+CUST1294,0.497,medium,recency of last purchase
+CUST1295,0.3434,medium,regional pattern
+CUST1296,0.3587,medium,regional pattern
+CUST1297,0.4942,medium,regional pattern
+CUST1298,0.4852,medium,purchase frequency
+CUST1299,0.5141,high,regional pattern
+CUST1300,0.5138,high,satisfaction rating
+CUST1301,0.4849,medium,purchase frequency
+CUST1302,0.5249,high,gender segment pattern
+CUST1303,0.4693,medium,purchase frequency
+CUST1304,0.4666,medium,regional pattern
+CUST1305,0.4738,medium,recency of last purchase
+CUST1306,0.5801,high,purchase frequency
+CUST1307,0.4498,medium,recency of last purchase
+CUST1308,0.6132,high,recency of last purchase
+CUST1309,0.3921,medium,regional pattern
+CUST1310,0.4713,medium,purchase frequency
+CUST1311,0.5272,high,recency of last purchase
+CUST1312,0.4986,medium,regional pattern
+CUST1313,0.5594,high,regional pattern
+CUST1314,0.36,medium,recency of last purchase
+CUST1315,0.5494,high,regional pattern
+CUST1316,0.5052,high,regional pattern
+CUST1317,0.5067,high,purchase frequency
+CUST1318,0.6408,high,satisfaction rating
+CUST1319,0.5734,high,regional pattern
+CUST1320,0.5776,high,purchase frequency
+CUST1321,0.431,medium,gender segment pattern
+CUST1322,0.6703,high,purchase frequency
+CUST1323,0.5981,high,regional pattern
+CUST1324,0.487,medium,satisfaction rating
+CUST1325,0.4867,medium,regional pattern
+CUST1326,0.4514,medium,regional pattern
+CUST1327,0.57,high,regional pattern
+CUST1328,0.6021,high,regional pattern
+CUST1329,0.5954,high,regional pattern
+CUST1330,0.4848,medium,purchase frequency
+CUST1331,0.4567,medium,regional pattern
+CUST1332,0.3743,medium,purchase frequency
+CUST1333,0.5446,high,regional pattern
+CUST1334,0.4217,medium,regional pattern
+CUST1335,0.5443,high,recency of last purchase
+CUST1336,0.3752,medium,regional pattern
+CUST1337,0.448,medium,purchase frequency
+CUST1338,0.4339,medium,regional pattern
+CUST1339,0.4352,medium,regional pattern
+CUST1340,0.4322,medium,recency of last purchase
+CUST1341,0.5309,high,regional pattern
+CUST1342,0.5376,high,recency of last purchase
+CUST1343,0.4648,medium,regional pattern
+CUST1344,0.4216,medium,recency of last purchase
+CUST1345,0.4274,medium,regional pattern
+CUST1346,0.529,high,recency of last purchase
+CUST1347,0.4952,medium,regional pattern
+CUST1348,0.4328,medium,purchase frequency
+CUST1349,0.4083,medium,purchase frequency
+CUST1350,0.4797,medium,regional pattern
+CUST1351,0.5743,high,regional pattern
+CUST1352,0.4508,medium,recency of last purchase
+CUST1353,0.5522,high,purchase frequency
+CUST1354,0.3866,medium,regional pattern
+CUST1355,0.5472,high,regional pattern
+CUST1356,0.3746,medium,regional pattern
+CUST1357,0.4636,medium,regional pattern
+CUST1358,0.4642,medium,regional pattern
+CUST1359,0.559,high,regional pattern
+CUST1360,0.5713,high,regional pattern
+CUST1361,0.577,high,purchase frequency
+CUST1362,0.4794,medium,recency of last purchase
+CUST1363,0.4126,medium,regional pattern
+CUST1364,0.5915,high,recency of last purchase
+CUST1365,0.5266,high,regional pattern
+CUST1366,0.5548,high,regional pattern
+CUST1367,0.5483,high,regional pattern
+CUST1368,0.4123,medium,recency of last purchase
+CUST1369,0.5006,high,gender segment pattern
+CUST1370,0.3598,medium,regional pattern
+CUST1371,0.4586,medium,recency of last purchase
+CUST1372,0.4474,medium,purchase frequency
+CUST1373,0.5439,high,purchase frequency
+CUST1374,0.5051,high,regional pattern
+CUST1375,0.486,medium,recency of last purchase
+CUST1376,0.5488,high,purchase frequency
+CUST1377,0.4707,medium,gender segment pattern
+CUST1378,0.4729,medium,purchase frequency
+CUST1379,0.5977,high,purchase frequency
+CUST1380,0.5221,high,regional pattern
+CUST1381,0.5502,high,recency of last purchase
+CUST1382,0.4861,medium,regional pattern
+CUST1383,0.4206,medium,regional pattern
+CUST1384,0.5681,high,regional pattern
+CUST1385,0.4172,medium,regional pattern
+CUST1386,0.527,high,regional pattern
+CUST1387,0.4671,medium,regional pattern
+CUST1388,0.4693,medium,recency of last purchase
+CUST1389,0.5294,high,recency of last purchase
+CUST1390,0.4184,medium,regional pattern
+CUST1391,0.5757,high,regional pattern
+CUST1392,0.4417,medium,regional pattern
+CUST1393,0.6463,high,recency of last purchase
+CUST1394,0.5538,high,recency of last purchase
+CUST1395,0.5687,high,regional pattern
+CUST1396,0.6381,high,recency of last purchase
+CUST1397,0.4417,medium,purchase frequency
+CUST1398,0.4994,medium,regional pattern
+CUST1399,0.5515,high,regional pattern
+CUST1400,0.5201,high,recency of last purchase
+CUST1401,0.547,high,regional pattern
+CUST1402,0.4864,medium,satisfaction rating
+CUST1403,0.5242,high,regional pattern
+CUST1404,0.5228,high,regional pattern
+CUST1405,0.4957,medium,regional pattern
+CUST1406,0.4763,medium,recency of last purchase
+CUST1407,0.4222,medium,regional pattern
+CUST1408,0.5483,high,satisfaction rating
+CUST1409,0.4628,medium,recency of last purchase
+CUST1410,0.4813,medium,recency of last purchase
+CUST1411,0.4632,medium,recency of last purchase
+CUST1412,0.5118,high,regional pattern
+CUST1413,0.5401,high,regional pattern
+CUST1414,0.4161,medium,regional pattern
+CUST1415,0.5478,high,satisfaction rating
+CUST1416,0.5155,high,regional pattern
+CUST1417,0.4356,medium,recency of last purchase
+CUST1418,0.3697,medium,regional pattern
+CUST1419,0.5082,high,regional pattern
+CUST1420,0.4796,medium,regional pattern
+CUST1421,0.4343,medium,recency of last purchase
+CUST1422,0.4881,medium,recency of last purchase
+CUST1423,0.4754,medium,regional pattern
+CUST1424,0.4909,medium,regional pattern
+CUST1425,0.4927,medium,purchase frequency
+CUST1426,0.4693,medium,regional pattern
+CUST1427,0.4421,medium,purchase frequency
+CUST1428,0.437,medium,recency of last purchase
+CUST1429,0.5258,high,recency of last purchase
+CUST1430,0.558,high,regional pattern
+CUST1431,0.4209,medium,regional pattern
+CUST1432,0.5183,high,regional pattern
+CUST1433,0.6586,high,regional pattern
+CUST1434,0.438,medium,purchase frequency
+CUST1435,0.5265,high,purchase frequency
+CUST1436,0.57,high,regional pattern
+CUST1437,0.5231,high,regional pattern
+CUST1438,0.5395,high,regional pattern
+CUST1439,0.4724,medium,gender segment pattern
+CUST1440,0.4642,medium,recency of last purchase
+CUST1441,0.5414,high,regional pattern
+CUST1442,0.4899,medium,regional pattern
+CUST1443,0.4449,medium,regional pattern
+CUST1444,0.4745,medium,recency of last purchase
+CUST1445,0.4484,medium,regional pattern
+CUST1446,0.5589,high,regional pattern
+CUST1447,0.5764,high,regional pattern
+CUST1448,0.4518,medium,purchase frequency
+CUST1449,0.3982,medium,regional pattern
+CUST1450,0.5144,high,purchase frequency
+CUST1451,0.5079,high,regional pattern
+CUST1452,0.5665,high,purchase frequency
+CUST1453,0.5184,high,recency of last purchase
+CUST1454,0.613,high,regional pattern
+CUST1455,0.592,high,regional pattern
+CUST1456,0.5915,high,regional pattern
+CUST1457,0.4229,medium,purchase frequency
+CUST1458,0.5897,high,regional pattern
+CUST1459,0.5324,high,regional pattern
+CUST1460,0.5322,high,regional pattern
+CUST1461,0.5802,high,regional pattern
+CUST1462,0.4974,medium,recency of last purchase
+CUST1463,0.5077,high,satisfaction rating
+CUST1464,0.4204,medium,recency of last purchase
+CUST1465,0.6324,high,regional pattern
+CUST1466,0.5665,high,regional pattern
+CUST1467,0.5786,high,recency of last purchase
+CUST1468,0.4855,medium,purchase frequency
+CUST1469,0.4803,medium,gender segment pattern
+CUST1470,0.5705,high,purchase frequency
+CUST1471,0.4626,medium,recency of last purchase
+CUST1472,0.3989,medium,regional pattern
+CUST1473,0.5964,high,regional pattern
+CUST1474,0.5447,high,purchase frequency
+CUST1475,0.4362,medium,purchase frequency
+CUST1476,0.5014,high,regional pattern
+CUST1477,0.5607,high,satisfaction rating
+CUST1478,0.5136,high,regional pattern
+CUST1479,0.4722,medium,purchase frequency
+CUST1480,0.5058,high,regional pattern
+CUST1481,0.4561,medium,purchase frequency
+CUST1482,0.5657,high,regional pattern
+CUST1483,0.4035,medium,regional pattern
+CUST1484,0.4057,medium,purchase frequency
+CUST1485,0.4774,medium,regional pattern
+CUST1486,0.4609,medium,purchase frequency
+CUST1487,0.5332,high,satisfaction rating
+CUST1488,0.4445,medium,regional pattern
+CUST1489,0.4664,medium,recency of last purchase
+CUST1490,0.5518,high,gender segment pattern
+CUST1491,0.5153,high,recency of last purchase
+CUST1492,0.5356,high,satisfaction rating
+CUST1493,0.4843,medium,recency of last purchase
+CUST1494,0.4603,medium,regional pattern
+CUST1495,0.6545,high,recency of last purchase
+CUST1496,0.5021,high,regional pattern
+CUST1497,0.3785,medium,regional pattern
+CUST1498,0.4286,medium,recency of last purchase
+CUST1499,0.5823,high,regional pattern
+CUST1500,0.4639,medium,recency of last purchase
+CUST1501,0.5922,high,regional pattern
+CUST1502,0.4633,medium,recency of last purchase
+CUST1503,0.4584,medium,gender segment pattern
+CUST1504,0.5434,high,regional pattern
+CUST1505,0.3854,medium,purchase frequency
+CUST1506,0.6631,high,satisfaction rating
+CUST1507,0.4147,medium,regional pattern
+CUST1508,0.5592,high,regional pattern
+CUST1509,0.4879,medium,gender segment pattern
+CUST1510,0.5348,high,recency of last purchase
+CUST1511,0.4876,medium,regional pattern
+CUST1512,0.3708,medium,recency of last purchase
+CUST1513,0.474,medium,recency of last purchase
+CUST1514,0.5512,high,regional pattern
+CUST1515,0.5321,high,regional pattern
+CUST1516,0.5567,high,regional pattern
+CUST1517,0.486,medium,gender segment pattern
+CUST1518,0.3999,medium,regional pattern
+CUST1519,0.4971,medium,recency of last purchase
+CUST1520,0.488,medium,satisfaction rating
+CUST1521,0.4934,medium,recency of last purchase
+CUST1522,0.5174,high,purchase frequency
+CUST1523,0.455,medium,recency of last purchase
+CUST1524,0.5489,high,recency of last purchase
+CUST1525,0.404,medium,regional pattern
+CUST1526,0.5583,high,recency of last purchase
+CUST1527,0.5139,high,regional pattern
+CUST1528,0.5124,high,satisfaction rating
+CUST1529,0.3706,medium,regional pattern
+CUST1530,0.4076,medium,regional pattern
+CUST1531,0.5575,high,recency of last purchase
+CUST1532,0.5135,high,purchase frequency
+CUST1533,0.4815,medium,regional pattern
+CUST1534,0.4029,medium,regional pattern
+CUST1535,0.5548,high,regional pattern
+CUST1536,0.5807,high,regional pattern
+CUST1537,0.4816,medium,regional pattern
+CUST1538,0.4938,medium,purchase frequency
+CUST1539,0.4704,medium,recency of last purchase
+CUST1540,0.4997,medium,recency of last purchase
+CUST1541,0.6134,high,regional pattern
+CUST1542,0.4449,medium,regional pattern
+CUST1543,0.6243,high,regional pattern
+CUST1544,0.3626,medium,regional pattern
+CUST1545,0.5892,high,satisfaction rating
+CUST1546,0.4377,medium,regional pattern
+CUST1547,0.4218,medium,recency of last purchase
+CUST1548,0.348,medium,regional pattern
+CUST1549,0.4345,medium,regional pattern
+CUST1550,0.555,high,satisfaction rating
+CUST1551,0.435,medium,regional pattern
+CUST1552,0.6116,high,regional pattern
+CUST1553,0.4197,medium,recency of last purchase
+CUST1554,0.4901,medium,recency of last purchase
+CUST1555,0.459,medium,regional pattern
+CUST1556,0.6176,high,recency of last purchase
+CUST1557,0.48,medium,purchase frequency
+CUST1558,0.4763,medium,regional pattern
+CUST1559,0.5921,high,recency of last purchase
+CUST1560,0.4576,medium,regional pattern
+CUST1561,0.4942,medium,regional pattern
+CUST1562,0.4466,medium,purchase frequency
+CUST1563,0.4295,medium,gender segment pattern
+CUST1564,0.4176,medium,purchase frequency
+CUST1565,0.4687,medium,regional pattern
+CUST1566,0.4984,medium,regional pattern
+CUST1567,0.5784,high,regional pattern
+CUST1568,0.5923,high,regional pattern
+CUST1569,0.503,high,regional pattern
+CUST1570,0.4643,medium,gender segment pattern
+CUST1571,0.5129,high,regional pattern
+CUST1572,0.4873,medium,regional pattern
+CUST1573,0.51,high,purchase frequency
+CUST1574,0.4283,medium,regional pattern
+CUST1575,0.4304,medium,recency of last purchase
+CUST1576,0.5728,high,purchase frequency
+CUST1577,0.4769,medium,recency of last purchase
+CUST1578,0.4824,medium,gender segment pattern
+CUST1579,0.4459,medium,satisfaction rating
+CUST1580,0.4225,medium,satisfaction rating
+CUST1581,0.4847,medium,regional pattern
+CUST1582,0.3939,medium,regional pattern
+CUST1583,0.4282,medium,satisfaction rating
+CUST1584,0.462,medium,recency of last purchase
+CUST1585,0.5508,high,regional pattern
+CUST1586,0.5138,high,recency of last purchase
+CUST1587,0.5771,high,recency of last purchase
+CUST1588,0.4537,medium,gender segment pattern
+CUST1589,0.3818,medium,recency of last purchase
+CUST1590,0.4757,medium,purchase frequency
+CUST1591,0.5393,high,regional pattern
+CUST1592,0.5529,high,satisfaction rating
+CUST1593,0.5623,high,regional pattern
+CUST1594,0.4202,medium,purchase frequency
+CUST1595,0.6295,high,regional pattern
+CUST1596,0.5883,high,regional pattern
+CUST1597,0.5356,high,recency of last purchase
+CUST1598,0.5471,high,regional pattern
+CUST1599,0.5528,high,purchase frequency
+CUST1600,0.5224,high,recency of last purchase
+CUST1601,0.4461,medium,purchase frequency
+CUST1602,0.4921,medium,purchase frequency
+CUST1603,0.4757,medium,regional pattern
+CUST1604,0.4382,medium,recency of last purchase
+CUST1605,0.5042,high,recency of last purchase
+CUST1606,0.5313,high,regional pattern
+CUST1607,0.5024,high,regional pattern
+CUST1608,0.4176,medium,regional pattern
+CUST1609,0.5674,high,regional pattern
+CUST1610,0.5373,high,regional pattern
+CUST1611,0.5484,high,recency of last purchase
+CUST1612,0.4378,medium,satisfaction rating
+CUST1613,0.5338,high,regional pattern
+CUST1614,0.4836,medium,purchase frequency
+CUST1615,0.4931,medium,regional pattern
+CUST1616,0.4042,medium,purchase frequency
+CUST1617,0.4576,medium,recency of last purchase
+CUST1618,0.4385,medium,recency of last purchase
+CUST1619,0.5863,high,recency of last purchase
+CUST1620,0.4352,medium,regional pattern
+CUST1621,0.5502,high,regional pattern
+CUST1622,0.587,high,regional pattern
+CUST1623,0.4881,medium,gender segment pattern
+CUST1624,0.5251,high,purchase frequency
+CUST1625,0.4968,medium,recency of last purchase
+CUST1626,0.5566,high,regional pattern
+CUST1627,0.6363,high,regional pattern
+CUST1628,0.509,high,gender segment pattern
+CUST1629,0.5534,high,satisfaction rating
+CUST1630,0.4835,medium,purchase frequency
+CUST1631,0.4679,medium,purchase frequency
+CUST1632,0.5347,high,regional pattern
+CUST1633,0.475,medium,regional pattern
+CUST1634,0.4562,medium,recency of last purchase
+CUST1635,0.5443,high,recency of last purchase
+CUST1636,0.5247,high,gender segment pattern
+CUST1637,0.3449,medium,regional pattern
+CUST1638,0.3567,medium,regional pattern
+CUST1639,0.5764,high,recency of last purchase
+CUST1640,0.5569,high,regional pattern
+CUST1641,0.529,high,purchase frequency
+CUST1642,0.5364,high,regional pattern
+CUST1643,0.3935,medium,regional pattern
+CUST1644,0.4797,medium,recency of last purchase
+CUST1645,0.6071,high,regional pattern
+CUST1646,0.4795,medium,regional pattern
+CUST1647,0.4092,medium,regional pattern
+CUST1648,0.4307,medium,satisfaction rating
+CUST1649,0.5353,high,satisfaction rating
+CUST1650,0.506,high,satisfaction rating
+CUST1651,0.4605,medium,regional pattern
+CUST1652,0.4408,medium,satisfaction rating
+CUST1653,0.443,medium,regional pattern
+CUST1654,0.4426,medium,satisfaction rating
+CUST1655,0.4741,medium,regional pattern
+CUST1656,0.6028,high,regional pattern
+CUST1657,0.5028,high,purchase frequency
+CUST1658,0.562,high,regional pattern
+CUST1659,0.4419,medium,recency of last purchase
+CUST1660,0.5405,high,regional pattern
+CUST1661,0.494,medium,regional pattern
+CUST1662,0.4409,medium,regional pattern
+CUST1663,0.3735,medium,recency of last purchase
+CUST1664,0.4921,medium,regional pattern
+CUST1665,0.5674,high,purchase frequency
+CUST1666,0.5612,high,satisfaction rating
+CUST1667,0.5092,high,satisfaction rating
+CUST1668,0.3791,medium,regional pattern
+CUST1669,0.4212,medium,recency of last purchase
+CUST1670,0.3984,medium,regional pattern
+CUST1671,0.6444,high,regional pattern
+CUST1672,0.5912,high,regional pattern
+CUST1673,0.5918,high,regional pattern
+CUST1674,0.3904,medium,recency of last purchase
+CUST1675,0.4854,medium,gender segment pattern
+CUST1676,0.4974,medium,purchase frequency
+CUST1677,0.4074,medium,recency of last purchase
+CUST1678,0.4322,medium,purchase frequency
+CUST1679,0.5691,high,recency of last purchase
+CUST1680,0.457,medium,recency of last purchase
+CUST1681,0.5178,high,regional pattern
+CUST1682,0.6312,high,purchase frequency
+CUST1683,0.4536,medium,regional pattern
+CUST1684,0.4477,medium,regional pattern
+CUST1685,0.4695,medium,purchase frequency
+CUST1686,0.6138,high,recency of last purchase
+CUST1687,0.4091,medium,regional pattern
+CUST1688,0.4244,medium,recency of last purchase
+CUST1689,0.5008,high,recency of last purchase
+CUST1690,0.4964,medium,regional pattern
+CUST1691,0.4343,medium,purchase frequency
+CUST1692,0.4547,medium,gender segment pattern
+CUST1693,0.577,high,regional pattern
+CUST1694,0.4603,medium,regional pattern
+CUST1695,0.5476,high,regional pattern
+CUST1696,0.4496,medium,regional pattern
+CUST1697,0.4755,medium,regional pattern
+CUST1698,0.3007,medium,regional pattern
+CUST1699,0.3959,medium,purchase frequency
+CUST1700,0.3878,medium,satisfaction rating
+CUST1701,0.4951,medium,regional pattern
+CUST1702,0.5626,high,regional pattern
+CUST1703,0.4731,medium,satisfaction rating
+CUST1704,0.394,medium,regional pattern
+CUST1705,0.4485,medium,recency of last purchase
+CUST1706,0.5016,high,regional pattern
+CUST1707,0.5205,high,purchase frequency
+CUST1708,0.4819,medium,regional pattern
+CUST1709,0.5207,high,recency of last purchase
+CUST1710,0.5546,high,regional pattern
+CUST1711,0.4448,medium,purchase frequency
+CUST1712,0.549,high,recency of last purchase
+CUST1713,0.4111,medium,recency of last purchase
+CUST1714,0.5175,high,recency of last purchase
+CUST1715,0.464,medium,regional pattern
+CUST1716,0.4708,medium,satisfaction rating
+CUST1717,0.5875,high,regional pattern
+CUST1718,0.4063,medium,regional pattern
+CUST1719,0.5007,high,regional pattern
+CUST1720,0.545,high,purchase frequency
+CUST1721,0.4559,medium,regional pattern
+CUST1722,0.4056,medium,regional pattern
+CUST1723,0.4942,medium,regional pattern
+CUST1724,0.3607,medium,regional pattern
+CUST1725,0.5891,high,regional pattern
+CUST1726,0.4633,medium,purchase frequency
+CUST1727,0.5764,high,regional pattern
+CUST1728,0.4802,medium,satisfaction rating
+CUST1729,0.5351,high,purchase frequency
+CUST1730,0.453,medium,gender segment pattern
+CUST1731,0.4734,medium,purchase frequency
+CUST1732,0.5706,high,regional pattern
+CUST1733,0.5587,high,regional pattern
+CUST1734,0.3799,medium,regional pattern
+CUST1735,0.4438,medium,recency of last purchase
+CUST1736,0.5868,high,recency of last purchase
+CUST1737,0.4968,medium,regional pattern
+CUST1738,0.4188,medium,purchase frequency
+CUST1739,0.3923,medium,regional pattern
+CUST1740,0.4889,medium,satisfaction rating
+CUST1741,0.5208,high,recency of last purchase
+CUST1742,0.4084,medium,regional pattern
+CUST1743,0.4681,medium,purchase frequency
+CUST1744,0.4672,medium,regional pattern
+CUST1745,0.5133,high,regional pattern
+CUST1746,0.5744,high,satisfaction rating
+CUST1747,0.3969,medium,regional pattern
+CUST1748,0.5525,high,regional pattern
+CUST1749,0.4986,medium,regional pattern
+CUST1750,0.485,medium,recency of last purchase
+CUST1751,0.3838,medium,regional pattern
+CUST1752,0.512,high,regional pattern
+CUST1753,0.4024,medium,recency of last purchase
+CUST1754,0.4343,medium,regional pattern
+CUST1755,0.471,medium,regional pattern
+CUST1756,0.5175,high,purchase frequency
+CUST1757,0.4798,medium,purchase frequency
+CUST1758,0.436,medium,recency of last purchase
+CUST1759,0.5566,high,regional pattern
+CUST1760,0.4952,medium,recency of last purchase
+CUST1761,0.4799,medium,satisfaction rating
+CUST1762,0.4953,medium,regional pattern
+CUST1763,0.396,medium,regional pattern
+CUST1764,0.5177,high,regional pattern
+CUST1765,0.4244,medium,regional pattern
+CUST1766,0.3569,medium,regional pattern
+CUST1767,0.3977,medium,regional pattern
+CUST1768,0.5337,high,purchase frequency
+CUST1769,0.4465,medium,recency of last purchase
+CUST1770,0.4921,medium,recency of last purchase
+CUST1771,0.4453,medium,gender segment pattern
+CUST1772,0.5462,high,satisfaction rating
+CUST1773,0.4708,medium,regional pattern
+CUST1774,0.5752,high,recency of last purchase
+CUST1775,0.3738,medium,satisfaction rating
+CUST1776,0.5114,high,regional pattern
+CUST1777,0.5176,high,purchase frequency
+CUST1778,0.5379,high,regional pattern
+CUST1779,0.332,medium,regional pattern
+CUST1780,0.5751,high,regional pattern
+CUST1781,0.5717,high,recency of last purchase
+CUST1782,0.6093,high,regional pattern
+CUST1783,0.5867,high,regional pattern
+CUST1784,0.4131,medium,regional pattern
+CUST1785,0.5251,high,regional pattern
+CUST1786,0.4181,medium,recency of last purchase
+CUST1787,0.4731,medium,regional pattern
+CUST1788,0.4133,medium,purchase frequency
+CUST1789,0.4593,medium,recency of last purchase
+CUST1790,0.5875,high,regional pattern
+CUST1791,0.4448,medium,regional pattern
+CUST1792,0.527,high,regional pattern
+CUST1793,0.5265,high,purchase frequency
+CUST1794,0.4337,medium,recency of last purchase
+CUST1795,0.4701,medium,regional pattern
+CUST1796,0.4519,medium,regional pattern
+CUST1797,0.5938,high,regional pattern
+CUST1798,0.4169,medium,regional pattern
+CUST1799,0.5103,high,gender segment pattern
+CUST1800,0.4671,medium,regional pattern
+CUST1801,0.4263,medium,regional pattern
+CUST1802,0.3509,medium,regional pattern
+CUST1803,0.4151,medium,regional pattern
+CUST1804,0.4451,medium,gender segment pattern
+CUST1805,0.493,medium,purchase frequency
+CUST1806,0.5193,high,regional pattern
+CUST1807,0.5509,high,regional pattern
+CUST1808,0.4967,medium,purchase frequency
+CUST1809,0.515,high,regional pattern
+CUST1810,0.3899,medium,regional pattern
+CUST1811,0.4849,medium,gender segment pattern
+CUST1812,0.5115,high,recency of last purchase
+CUST1813,0.5792,high,satisfaction rating
+CUST1814,0.4473,medium,satisfaction rating
+CUST1815,0.4739,medium,regional pattern
+CUST1816,0.4361,medium,regional pattern
+CUST1817,0.5354,high,gender segment pattern
+CUST1818,0.4051,medium,purchase frequency
+CUST1819,0.489,medium,purchase frequency
+CUST1820,0.4941,medium,satisfaction rating
+CUST1821,0.3839,medium,purchase frequency
+CUST1822,0.5092,high,purchase frequency
+CUST1823,0.4094,medium,purchase frequency
+CUST1824,0.4251,medium,recency of last purchase
+CUST1825,0.5076,high,satisfaction rating
+CUST1826,0.4966,medium,regional pattern
+CUST1827,0.5094,high,recency of last purchase
+CUST1828,0.4411,medium,regional pattern
+CUST1829,0.5061,high,regional pattern
+CUST1830,0.5254,high,purchase frequency
+CUST1831,0.4661,medium,purchase frequency
+CUST1832,0.3863,medium,recency of last purchase
+CUST1833,0.4878,medium,regional pattern
+CUST1834,0.4798,medium,regional pattern
+CUST1835,0.4294,medium,regional pattern
+CUST1836,0.5962,high,regional pattern
+CUST1837,0.4349,medium,purchase frequency
+CUST1838,0.6037,high,regional pattern
+CUST1839,0.4841,medium,regional pattern
+CUST1840,0.5788,high,recency of last purchase
+CUST1841,0.5815,high,satisfaction rating
+CUST1842,0.5994,high,regional pattern
+CUST1843,0.451,medium,recency of last purchase
+CUST1844,0.4302,medium,regional pattern
+CUST1845,0.5341,high,purchase frequency
+CUST1846,0.5049,high,regional pattern
+CUST1847,0.4878,medium,recency of last purchase
+CUST1848,0.5422,high,purchase frequency
+CUST1849,0.4396,medium,purchase frequency
+CUST1850,0.438,medium,gender segment pattern
+CUST1851,0.4871,medium,recency of last purchase
+CUST1852,0.4506,medium,regional pattern
+CUST1853,0.4167,medium,satisfaction rating
+CUST1854,0.4871,medium,purchase frequency
+CUST1855,0.4926,medium,recency of last purchase
+CUST1856,0.5841,high,purchase frequency
+CUST1857,0.6339,high,satisfaction rating
+CUST1858,0.4411,medium,recency of last purchase
+CUST1859,0.5921,high,recency of last purchase
+CUST1860,0.5673,high,purchase frequency
+CUST1861,0.3859,medium,purchase frequency
+CUST1862,0.615,high,recency of last purchase
+CUST1863,0.5089,high,purchase frequency
+CUST1864,0.4401,medium,regional pattern
+CUST1865,0.4513,medium,purchase frequency
+CUST1866,0.4914,medium,regional pattern
+CUST1867,0.654,high,recency of last purchase
+CUST1868,0.4491,medium,purchase frequency
+CUST1869,0.4799,medium,purchase frequency
+CUST1870,0.6476,high,satisfaction rating
+CUST1871,0.628,high,regional pattern
+CUST1872,0.4873,medium,recency of last purchase
+CUST1873,0.4985,medium,satisfaction rating
+CUST1874,0.4704,medium,purchase frequency
+CUST1875,0.4799,medium,purchase frequency
+CUST1876,0.4985,medium,purchase frequency
+CUST1877,0.5403,high,regional pattern
+CUST1878,0.506,high,purchase frequency
+CUST1879,0.5497,high,recency of last purchase
+CUST1880,0.4658,medium,recency of last purchase
+CUST1881,0.4687,medium,gender segment pattern
+CUST1882,0.3497,medium,recency of last purchase
+CUST1883,0.4874,medium,regional pattern
+CUST1884,0.5454,high,purchase frequency
+CUST1885,0.6066,high,regional pattern
+CUST1886,0.5274,high,regional pattern
+CUST1887,0.4971,medium,satisfaction rating
+CUST1888,0.5538,high,regional pattern
+CUST1889,0.3528,medium,regional pattern
+CUST1890,0.4769,medium,satisfaction rating
+CUST1891,0.4872,medium,satisfaction rating
+CUST1892,0.3881,medium,regional pattern
+CUST1893,0.5036,high,recency of last purchase
+CUST1894,0.4798,medium,regional pattern
+CUST1895,0.5298,high,satisfaction rating
+CUST1896,0.5671,high,regional pattern
+CUST1897,0.4968,medium,regional pattern
+CUST1898,0.4966,medium,regional pattern
+CUST1899,0.5606,high,recency of last purchase
+CUST1900,0.4481,medium,purchase frequency
+CUST1901,0.4841,medium,purchase frequency
+CUST1902,0.3769,medium,regional pattern
+CUST1903,0.5047,high,regional pattern
+CUST1904,0.4002,medium,recency of last purchase
+CUST1905,0.4544,medium,recency of last purchase
+CUST1906,0.4715,medium,recency of last purchase
+CUST1907,0.3375,medium,regional pattern
+CUST1908,0.5182,high,purchase frequency
+CUST1909,0.435,medium,satisfaction rating
+CUST1910,0.4963,medium,regional pattern
+CUST1911,0.4841,medium,regional pattern
+CUST1912,0.5037,high,purchase frequency
+CUST1913,0.4507,medium,regional pattern
+CUST1914,0.4493,medium,purchase frequency
+CUST1915,0.5443,high,satisfaction rating
+CUST1916,0.6031,high,recency of last purchase
+CUST1917,0.4618,medium,satisfaction rating
+CUST1918,0.6266,high,regional pattern
+CUST1919,0.6402,high,regional pattern
+CUST1920,0.6155,high,regional pattern
+CUST1921,0.5551,high,satisfaction rating
+CUST1922,0.5105,high,recency of last purchase
+CUST1923,0.4893,medium,recency of last purchase
+CUST1924,0.4123,medium,regional pattern
+CUST1925,0.5693,high,regional pattern
+CUST1926,0.4626,medium,regional pattern
+CUST1927,0.5008,high,purchase frequency
+CUST1928,0.4437,medium,regional pattern
+CUST1929,0.4982,medium,regional pattern
+CUST1930,0.6098,high,regional pattern
+CUST1931,0.5139,high,purchase frequency
+CUST1932,0.3878,medium,regional pattern
+CUST1933,0.4192,medium,purchase frequency
+CUST1934,0.4276,medium,recency of last purchase
+CUST1935,0.4867,medium,purchase frequency
+CUST1936,0.4221,medium,regional pattern
+CUST1937,0.457,medium,purchase frequency
+CUST1938,0.5705,high,purchase frequency
+CUST1939,0.5598,high,regional pattern
+CUST1940,0.5077,high,regional pattern
+CUST1941,0.3869,medium,purchase frequency
+CUST1942,0.4809,medium,regional pattern
+CUST1943,0.5704,high,purchase frequency
+CUST1944,0.4575,medium,regional pattern
+CUST1945,0.4388,medium,recency of last purchase
+CUST1946,0.5118,high,gender segment pattern
+CUST1947,0.5561,high,recency of last purchase
+CUST1948,0.499,medium,recency of last purchase
+CUST1949,0.553,high,regional pattern
+CUST1950,0.505,high,purchase frequency
+CUST1951,0.5393,high,purchase frequency
+CUST1952,0.4766,medium,regional pattern
+CUST1953,0.4641,medium,purchase frequency
+CUST1954,0.5656,high,regional pattern
+CUST1955,0.4541,medium,recency of last purchase
+CUST1956,0.4986,medium,regional pattern
+CUST1957,0.5817,high,recency of last purchase
+CUST1958,0.5468,high,regional pattern
+CUST1959,0.504,high,purchase frequency
+CUST1960,0.4775,medium,regional pattern
+CUST1961,0.5281,high,recency of last purchase
+CUST1962,0.4137,medium,recency of last purchase
+CUST1963,0.4668,medium,regional pattern
+CUST1964,0.3819,medium,satisfaction rating
+CUST1965,0.503,high,regional pattern
+CUST1966,0.4474,medium,purchase frequency
+CUST1967,0.5301,high,recency of last purchase
+CUST1968,0.5483,high,regional pattern
+CUST1969,0.4742,medium,regional pattern
+CUST1970,0.4554,medium,purchase frequency
+CUST1971,0.5183,high,regional pattern
+CUST1972,0.602,high,recency of last purchase
+CUST1973,0.5521,high,regional pattern
+CUST1974,0.4457,medium,regional pattern
+CUST1975,0.5287,high,regional pattern
+CUST1976,0.4591,medium,satisfaction rating
+CUST1977,0.4661,medium,recency of last purchase
+CUST1978,0.5463,high,regional pattern
+CUST1979,0.3622,medium,recency of last purchase
+CUST1980,0.5621,high,regional pattern
+CUST1981,0.4308,medium,regional pattern
+CUST1982,0.5581,high,regional pattern
+CUST1983,0.4655,medium,regional pattern
+CUST1984,0.4505,medium,regional pattern
+CUST1985,0.5228,high,regional pattern
+CUST1986,0.4501,medium,gender segment pattern
+CUST1987,0.4503,medium,regional pattern
+CUST1988,0.4691,medium,purchase frequency
+CUST1989,0.509,high,purchase frequency
+CUST1990,0.4461,medium,regional pattern
+CUST1991,0.4865,medium,regional pattern
+CUST1992,0.5613,high,regional pattern
+CUST1993,0.4132,medium,regional pattern
+CUST1994,0.5962,high,recency of last purchase
+CUST1995,0.5385,high,regional pattern
+CUST1996,0.3934,medium,recency of last purchase
+CUST1997,0.5059,high,regional pattern
+CUST1998,0.5371,high,regional pattern
+CUST1999,0.5137,high,purchase frequency
+CUST2000,0.49,medium,recency of last purchase
+CUST2001,0.4655,medium,regional pattern
+CUST2002,0.4605,medium,satisfaction rating
+CUST2003,0.4636,medium,regional pattern
+CUST2004,0.3811,medium,regional pattern
+CUST2005,0.5222,high,regional pattern
+CUST2006,0.4865,medium,regional pattern
+CUST2007,0.4019,medium,satisfaction rating
+CUST2008,0.583,high,regional pattern
+CUST2009,0.5482,high,recency of last purchase
+CUST2010,0.3728,medium,regional pattern
+CUST2011,0.4006,medium,regional pattern
+CUST2012,0.4411,medium,recency of last purchase
+CUST2013,0.526,high,regional pattern
+CUST2014,0.49,medium,purchase frequency
+CUST2015,0.4392,medium,regional pattern
+CUST2016,0.5564,high,regional pattern
+CUST2017,0.5927,high,regional pattern
+CUST2018,0.4158,medium,regional pattern
+CUST2019,0.6011,high,regional pattern
+CUST2020,0.4671,medium,purchase frequency
+CUST2021,0.4189,medium,regional pattern
+CUST2022,0.5208,high,purchase frequency
+CUST2023,0.5624,high,recency of last purchase
+CUST2024,0.5169,high,purchase frequency
+CUST2025,0.4629,medium,purchase frequency
+CUST2026,0.4606,medium,recency of last purchase
+CUST2027,0.4999,medium,regional pattern
+CUST2028,0.4374,medium,purchase frequency
+CUST2029,0.4879,medium,recency of last purchase
+CUST2030,0.5349,high,regional pattern
+CUST2031,0.5646,high,recency of last purchase
+CUST2032,0.5845,high,recency of last purchase
+CUST2033,0.4692,medium,purchase frequency
+CUST2034,0.5668,high,regional pattern
+CUST2035,0.6083,high,regional pattern
+CUST2036,0.5014,high,satisfaction rating
+CUST2037,0.4829,medium,recency of last purchase
+CUST2038,0.4677,medium,recency of last purchase
+CUST2039,0.5534,high,regional pattern
+CUST2040,0.602,high,purchase frequency
+CUST2041,0.5118,high,recency of last purchase
+CUST2042,0.5239,high,regional pattern
+CUST2043,0.4383,medium,regional pattern
+CUST2044,0.4619,medium,purchase frequency
+CUST2045,0.5496,high,regional pattern
+CUST2046,0.5054,high,regional pattern
+CUST2047,0.4388,medium,gender segment pattern
+CUST2048,0.5509,high,satisfaction rating
+CUST2049,0.5424,high,regional pattern
+CUST2050,0.4476,medium,regional pattern
+CUST2051,0.441,medium,recency of last purchase
+CUST2052,0.4814,medium,recency of last purchase
+CUST2053,0.4831,medium,regional pattern
+CUST2054,0.5432,high,regional pattern
+CUST2055,0.5743,high,regional pattern
+CUST2056,0.4605,medium,regional pattern
+CUST2057,0.3601,medium,regional pattern
+CUST2058,0.4013,medium,regional pattern
+CUST2059,0.4578,medium,regional pattern
+CUST2060,0.4295,medium,recency of last purchase
+CUST2061,0.5182,high,satisfaction rating
+CUST2062,0.4964,medium,recency of last purchase
+CUST2063,0.4662,medium,regional pattern
+CUST2064,0.4837,medium,regional pattern
+CUST2065,0.4107,medium,regional pattern
+CUST2066,0.4308,medium,regional pattern
+CUST2067,0.5107,high,regional pattern
+CUST2068,0.4259,medium,regional pattern
+CUST2069,0.4282,medium,regional pattern
+CUST2070,0.6052,high,regional pattern
+CUST2071,0.4181,medium,purchase frequency
+CUST2072,0.5152,high,recency of last purchase
+CUST2073,0.5066,high,purchase frequency
+CUST2074,0.5625,high,satisfaction rating
+CUST2075,0.5468,high,regional pattern
+CUST2076,0.4883,medium,regional pattern
+CUST2077,0.4428,medium,gender segment pattern
+CUST2078,0.6162,high,regional pattern
+CUST2079,0.4618,medium,regional pattern
+CUST2080,0.4945,medium,recency of last purchase
+CUST2081,0.3993,medium,purchase frequency
+CUST2082,0.5047,high,purchase frequency
+CUST2083,0.4503,medium,regional pattern
+CUST2084,0.4539,medium,purchase frequency
+CUST2085,0.4467,medium,recency of last purchase
+CUST2086,0.5508,high,recency of last purchase
+CUST2087,0.5472,high,satisfaction rating
+CUST2088,0.5117,high,regional pattern
+CUST2089,0.6299,high,satisfaction rating
+CUST2090,0.4538,medium,gender segment pattern
+CUST2091,0.4744,medium,recency of last purchase
+CUST2092,0.5326,high,regional pattern
+CUST2093,0.5306,high,gender segment pattern
+CUST2094,0.5288,high,recency of last purchase
+CUST2095,0.601,high,regional pattern
+CUST2096,0.4946,medium,gender segment pattern
+CUST2097,0.5741,high,regional pattern
+CUST2098,0.5414,high,regional pattern
+CUST2099,0.4729,medium,recency of last purchase
+CUST2100,0.5686,high,purchase frequency
+CUST2101,0.5999,high,purchase frequency
+CUST2102,0.5143,high,regional pattern
+CUST2103,0.4441,medium,recency of last purchase
+CUST2104,0.5113,high,regional pattern
+CUST2105,0.5371,high,regional pattern
+CUST2106,0.5073,high,purchase frequency
+CUST2107,0.586,high,regional pattern
+CUST2108,0.5336,high,purchase frequency
+CUST2109,0.3165,medium,regional pattern
+CUST2110,0.5471,high,regional pattern
+CUST2111,0.4171,medium,satisfaction rating
+CUST2112,0.4736,medium,regional pattern
+CUST2113,0.5292,high,regional pattern
+CUST2114,0.4904,medium,gender segment pattern
+CUST2115,0.562,high,regional pattern
+CUST2116,0.5439,high,satisfaction rating
+CUST2117,0.5789,high,satisfaction rating
+CUST2118,0.6423,high,recency of last purchase
+CUST2119,0.4704,medium,satisfaction rating
+CUST2120,0.6015,high,regional pattern
+CUST2121,0.5678,high,satisfaction rating
+CUST2122,0.3682,medium,regional pattern
+CUST2123,0.4234,medium,regional pattern
+CUST2124,0.4412,medium,gender segment pattern
+CUST2125,0.5361,high,recency of last purchase
+CUST2126,0.478,medium,recency of last purchase
+CUST2127,0.4193,medium,satisfaction rating
+CUST2128,0.4127,medium,regional pattern
+CUST2129,0.5221,high,recency of last purchase
+CUST2130,0.4919,medium,regional pattern
+CUST2131,0.4511,medium,purchase frequency
+CUST2132,0.5964,high,regional pattern
+CUST2133,0.4472,medium,purchase frequency
+CUST2134,0.5037,high,regional pattern
+CUST2135,0.546,high,regional pattern
+CUST2136,0.5369,high,purchase frequency
+CUST2137,0.5527,high,purchase frequency
+CUST2138,0.5954,high,satisfaction rating
+CUST2139,0.4921,medium,recency of last purchase
+CUST2140,0.6354,high,regional pattern
+CUST2141,0.4856,medium,regional pattern
+CUST2142,0.6192,high,purchase frequency
+CUST2143,0.5205,high,purchase frequency
+CUST2144,0.5308,high,recency of last purchase
+CUST2145,0.4409,medium,recency of last purchase
+CUST2146,0.5149,high,regional pattern
+CUST2147,0.4782,medium,recency of last purchase
+CUST2148,0.5921,high,regional pattern
+CUST2149,0.4163,medium,regional pattern
+CUST2150,0.4938,medium,regional pattern
+CUST2151,0.4318,medium,recency of last purchase
+CUST2152,0.4139,medium,regional pattern
+CUST2153,0.4706,medium,satisfaction rating
+CUST2154,0.548,high,regional pattern
+CUST2155,0.5684,high,satisfaction rating
+CUST2156,0.3616,medium,regional pattern
+CUST2157,0.5622,high,purchase frequency
+CUST2158,0.3987,medium,recency of last purchase
+CUST2159,0.5252,high,regional pattern
+CUST2160,0.4873,medium,regional pattern
+CUST2161,0.442,medium,regional pattern
+CUST2162,0.5323,high,recency of last purchase
+CUST2163,0.4316,medium,gender segment pattern
+CUST2164,0.3884,medium,satisfaction rating
+CUST2165,0.4619,medium,regional pattern
+CUST2166,0.396,medium,regional pattern
+CUST2167,0.426,medium,regional pattern
+CUST2168,0.4302,medium,regional pattern
+CUST2169,0.4805,medium,regional pattern
+CUST2170,0.4233,medium,regional pattern
+CUST2171,0.5049,high,recency of last purchase
+CUST2172,0.4401,medium,regional pattern
+CUST2173,0.6137,high,recency of last purchase
+CUST2174,0.5366,high,regional pattern
+CUST2175,0.4963,medium,recency of last purchase
+CUST2176,0.5697,high,regional pattern
+CUST2177,0.4616,medium,recency of last purchase
+CUST2178,0.5502,high,recency of last purchase
+CUST2179,0.4408,medium,regional pattern
+CUST2180,0.5379,high,recency of last purchase
+CUST2181,0.4628,medium,regional pattern
+CUST2182,0.4895,medium,satisfaction rating
+CUST2183,0.4531,medium,regional pattern
+CUST2184,0.5975,high,regional pattern
+CUST2185,0.4937,medium,purchase frequency
+CUST2186,0.5636,high,regional pattern
+CUST2187,0.5359,high,regional pattern
+CUST2188,0.4648,medium,gender segment pattern
+CUST2189,0.415,medium,purchase frequency
+CUST2190,0.5496,high,regional pattern
+CUST2191,0.5195,high,purchase frequency
+CUST2192,0.6423,high,recency of last purchase
+CUST2193,0.4482,medium,regional pattern
+CUST2194,0.4346,medium,regional pattern
+CUST2195,0.3768,medium,regional pattern
+CUST2196,0.4164,medium,regional pattern
+CUST2197,0.5344,high,purchase frequency
+CUST2198,0.4035,medium,regional pattern
+CUST2199,0.5159,high,purchase frequency
+CUST2200,0.4363,medium,regional pattern
+CUST2201,0.4141,medium,regional pattern
+CUST2202,0.5239,high,regional pattern
+CUST2203,0.4046,medium,purchase frequency
+CUST2204,0.5548,high,purchase frequency
+CUST2205,0.4549,medium,purchase frequency
+CUST2206,0.427,medium,regional pattern
+CUST2207,0.5123,high,regional pattern
+CUST2208,0.5942,high,regional pattern
+CUST2209,0.3645,medium,recency of last purchase
+CUST2210,0.4636,medium,regional pattern
+CUST2211,0.5231,high,satisfaction rating
+CUST2212,0.4402,medium,regional pattern
+CUST2213,0.53,high,regional pattern
+CUST2214,0.4948,medium,regional pattern
+CUST2215,0.4562,medium,gender segment pattern
+CUST2216,0.453,medium,satisfaction rating
+CUST2217,0.3391,medium,regional pattern
+CUST2218,0.5629,high,satisfaction rating
+CUST2219,0.595,high,recency of last purchase
+CUST2220,0.4104,medium,purchase frequency
+CUST2221,0.5138,high,regional pattern
+CUST2222,0.4794,medium,recency of last purchase
+CUST2223,0.4836,medium,regional pattern
+CUST2224,0.45,medium,satisfaction rating
+CUST2225,0.5428,high,regional pattern
+CUST2226,0.4566,medium,satisfaction rating
+CUST2227,0.5946,high,purchase frequency
+CUST2228,0.5327,high,recency of last purchase
+CUST2229,0.4507,medium,regional pattern
+CUST2230,0.5843,high,purchase frequency
+CUST2231,0.5943,high,satisfaction rating
+CUST2232,0.5701,high,recency of last purchase
+CUST2233,0.5416,high,satisfaction rating
+CUST2234,0.5486,high,recency of last purchase
+CUST2235,0.4761,medium,satisfaction rating
+CUST2236,0.5239,high,regional pattern
+CUST2237,0.4495,medium,purchase frequency
+CUST2238,0.5698,high,regional pattern
+CUST2239,0.5108,high,regional pattern
+CUST2240,0.5103,high,purchase frequency
+CUST2241,0.5194,high,recency of last purchase
+CUST2242,0.5453,high,regional pattern
+CUST2243,0.5718,high,satisfaction rating
+CUST2244,0.411,medium,satisfaction rating
+CUST2245,0.4569,medium,purchase frequency
+CUST2246,0.5408,high,satisfaction rating
+CUST2247,0.4383,medium,recency of last purchase
+CUST2248,0.4317,medium,regional pattern
+CUST2249,0.5283,high,gender segment pattern
+CUST2250,0.3672,medium,regional pattern
+CUST2251,0.682,high,satisfaction rating
+CUST2252,0.426,medium,regional pattern
+CUST2253,0.5317,high,regional pattern
+CUST2254,0.5384,high,recency of last purchase
+CUST2255,0.5715,high,regional pattern
+CUST2256,0.5686,high,recency of last purchase
+CUST2257,0.4069,medium,purchase frequency
+CUST2258,0.4478,medium,satisfaction rating
+CUST2259,0.5664,high,recency of last purchase
+CUST2260,0.4618,medium,purchase frequency
+CUST2261,0.5083,high,regional pattern
+CUST2262,0.5122,high,recency of last purchase
+CUST2263,0.4418,medium,regional pattern
+CUST2264,0.5434,high,regional pattern
+CUST2265,0.541,high,recency of last purchase
+CUST2266,0.5049,high,purchase frequency
+CUST2267,0.342,medium,regional pattern
+CUST2268,0.5242,high,recency of last purchase
+CUST2269,0.5712,high,regional pattern
+CUST2270,0.4885,medium,regional pattern
+CUST2271,0.5086,high,purchase frequency
+CUST2272,0.447,medium,recency of last purchase
+CUST2273,0.6434,high,recency of last purchase
+CUST2274,0.4162,medium,purchase frequency
+CUST2275,0.4225,medium,satisfaction rating
+CUST2276,0.5818,high,regional pattern
+CUST2277,0.4654,medium,satisfaction rating
+CUST2278,0.459,medium,regional pattern
+CUST2279,0.4279,medium,purchase frequency
+CUST2280,0.4579,medium,gender segment pattern
+CUST2281,0.4073,medium,recency of last purchase
+CUST2282,0.4559,medium,regional pattern
+CUST2283,0.4981,medium,gender segment pattern
+CUST2284,0.4739,medium,regional pattern
+CUST2285,0.3963,medium,regional pattern
+CUST2286,0.6096,high,satisfaction rating
+CUST2287,0.4645,medium,regional pattern
+CUST2288,0.5735,high,regional pattern
+CUST2289,0.4962,medium,regional pattern
+CUST2290,0.5542,high,regional pattern
+CUST2291,0.4764,medium,gender segment pattern
+CUST2292,0.5734,high,satisfaction rating
+CUST2293,0.501,high,satisfaction rating
+CUST2294,0.4123,medium,regional pattern
+CUST2295,0.5515,high,regional pattern
+CUST2296,0.4782,medium,regional pattern
+CUST2297,0.4883,medium,recency of last purchase
+CUST2298,0.4551,medium,regional pattern
+CUST2299,0.4412,medium,satisfaction rating
+CUST2300,0.5692,high,regional pattern
+CUST2301,0.4431,medium,gender segment pattern
+CUST2302,0.5209,high,regional pattern
+CUST2303,0.4348,medium,purchase frequency
+CUST2304,0.501,high,recency of last purchase
+CUST2305,0.4457,medium,recency of last purchase
+CUST2306,0.3929,medium,purchase frequency
+CUST2307,0.5382,high,recency of last purchase
+CUST2308,0.5352,high,satisfaction rating
+CUST2309,0.5519,high,satisfaction rating
+CUST2310,0.4863,medium,purchase frequency
+CUST2311,0.4924,medium,satisfaction rating
+CUST2312,0.5841,high,regional pattern
+CUST2313,0.4969,medium,gender segment pattern
+CUST2314,0.5445,high,satisfaction rating
+CUST2315,0.4681,medium,satisfaction rating
+CUST2316,0.5265,high,regional pattern
+CUST2317,0.5412,high,recency of last purchase
+CUST2318,0.5177,high,gender segment pattern
+CUST2319,0.4901,medium,regional pattern
+CUST2320,0.4625,medium,purchase frequency
+CUST2321,0.5135,high,regional pattern
+CUST2322,0.4059,medium,purchase frequency
+CUST2323,0.5203,high,regional pattern
+CUST2324,0.4494,medium,gender segment pattern
+CUST2325,0.5024,high,regional pattern
+CUST2326,0.4397,medium,purchase frequency
+CUST2327,0.6388,high,regional pattern
+CUST2328,0.4361,medium,recency of last purchase
+CUST2329,0.5569,high,recency of last purchase
+CUST2330,0.4809,medium,regional pattern
+CUST2331,0.4475,medium,recency of last purchase
+CUST2332,0.64,high,regional pattern
+CUST2333,0.4309,medium,regional pattern
+CUST2334,0.5472,high,regional pattern
+CUST2335,0.4612,medium,purchase frequency
+CUST2336,0.4762,medium,regional pattern
+CUST2337,0.5117,high,regional pattern
+CUST2338,0.3797,medium,regional pattern
+CUST2339,0.5271,high,purchase frequency
+CUST2340,0.4936,medium,recency of last purchase
+CUST2341,0.6339,high,regional pattern
+CUST2342,0.5645,high,regional pattern
+CUST2343,0.4833,medium,regional pattern
+CUST2344,0.5816,high,regional pattern
+CUST2345,0.5247,high,regional pattern
+CUST2346,0.6066,high,satisfaction rating
+CUST2347,0.474,medium,purchase frequency
+CUST2348,0.5689,high,purchase frequency
+CUST2349,0.5084,high,recency of last purchase
+CUST2350,0.5411,high,regional pattern
+CUST2351,0.4359,medium,gender segment pattern
+CUST2352,0.4141,medium,recency of last purchase
+CUST2353,0.5051,high,regional pattern
+CUST2354,0.4875,medium,regional pattern
+CUST2355,0.48,medium,recency of last purchase
+CUST2356,0.6259,high,satisfaction rating
+CUST2357,0.4902,medium,regional pattern
+CUST2358,0.4827,medium,recency of last purchase
+CUST2359,0.558,high,satisfaction rating
+CUST2360,0.3793,medium,regional pattern
+CUST2361,0.5361,high,purchase frequency
+CUST2362,0.4169,medium,recency of last purchase
+CUST2363,0.599,high,regional pattern
+CUST2364,0.5094,high,recency of last purchase
+CUST2365,0.5788,high,regional pattern
+CUST2366,0.5686,high,regional pattern
+CUST2367,0.4529,medium,recency of last purchase
+CUST2368,0.4672,medium,gender segment pattern
+CUST2369,0.6004,high,recency of last purchase
+CUST2370,0.4911,medium,regional pattern
+CUST2371,0.4411,medium,recency of last purchase
+CUST2372,0.4878,medium,regional pattern
+CUST2373,0.5094,high,regional pattern
+CUST2374,0.5698,high,satisfaction rating
+CUST2375,0.3643,medium,regional pattern
+CUST2376,0.5249,high,regional pattern
+CUST2377,0.4815,medium,purchase frequency
+CUST2378,0.5719,high,purchase frequency
+CUST2379,0.5603,high,recency of last purchase
+CUST2380,0.495,medium,recency of last purchase
+CUST2381,0.3692,medium,satisfaction rating
+CUST2382,0.5044,high,purchase frequency
+CUST2383,0.5251,high,recency of last purchase
+CUST2384,0.5012,high,regional pattern
+CUST2385,0.6023,high,regional pattern
+CUST2386,0.4361,medium,regional pattern
+CUST2387,0.5313,high,regional pattern
+CUST2388,0.4201,medium,satisfaction rating
+CUST2389,0.4148,medium,purchase frequency
+CUST2390,0.5782,high,regional pattern
+CUST2391,0.5496,high,recency of last purchase
+CUST2392,0.6522,high,recency of last purchase
+CUST2393,0.4311,medium,regional pattern
+CUST2394,0.4302,medium,regional pattern
+CUST2395,0.4206,medium,regional pattern
+CUST2396,0.4115,medium,regional pattern
+CUST2397,0.5491,high,regional pattern
+CUST2398,0.4915,medium,recency of last purchase
+CUST2399,0.4826,medium,purchase frequency
+CUST2400,0.4371,medium,regional pattern
+CUST2401,0.5185,high,regional pattern
+CUST2402,0.5253,high,gender segment pattern
+CUST2403,0.5109,high,recency of last purchase
+CUST2404,0.4647,medium,regional pattern
+CUST2405,0.4295,medium,purchase frequency
+CUST2406,0.5729,high,regional pattern
+CUST2407,0.5804,high,regional pattern
+CUST2408,0.5924,high,recency of last purchase
+CUST2409,0.5637,high,recency of last purchase
+CUST2410,0.399,medium,satisfaction rating
+CUST2411,0.5024,high,purchase frequency
+CUST2412,0.4489,medium,recency of last purchase
+CUST2413,0.429,medium,recency of last purchase
+CUST2414,0.4398,medium,purchase frequency
+CUST2415,0.4376,medium,regional pattern
+CUST2416,0.4785,medium,satisfaction rating
+CUST2417,0.4243,medium,regional pattern
+CUST2418,0.4312,medium,regional pattern
+CUST2419,0.4614,medium,regional pattern
+CUST2420,0.4893,medium,purchase frequency
+CUST2421,0.4801,medium,regional pattern
+CUST2422,0.5596,high,recency of last purchase
+CUST2423,0.474,medium,regional pattern
+CUST2424,0.4155,medium,regional pattern
+CUST2425,0.4622,medium,regional pattern
+CUST2426,0.4716,medium,purchase frequency
+CUST2427,0.477,medium,satisfaction rating
+CUST2428,0.4894,medium,satisfaction rating
+CUST2429,0.5606,high,satisfaction rating
+CUST2430,0.4968,medium,regional pattern
+CUST2431,0.4159,medium,purchase frequency
+CUST2432,0.357,medium,regional pattern
+CUST2433,0.5192,high,gender segment pattern
+CUST2434,0.4695,medium,purchase frequency
+CUST2435,0.5263,high,regional pattern
+CUST2436,0.4552,medium,regional pattern
+CUST2437,0.4605,medium,gender segment pattern
+CUST2438,0.4794,medium,satisfaction rating
+CUST2439,0.5063,high,purchase frequency
+CUST2440,0.4762,medium,regional pattern
+CUST2441,0.4551,medium,recency of last purchase
+CUST2442,0.4621,medium,gender segment pattern
+CUST2443,0.543,high,recency of last purchase
+CUST2444,0.5902,high,purchase frequency
+CUST2445,0.5634,high,regional pattern
+CUST2446,0.5125,high,regional pattern
+CUST2447,0.4342,medium,regional pattern
+CUST2448,0.4921,medium,satisfaction rating
+CUST2449,0.6292,high,satisfaction rating
+CUST2450,0.4773,medium,regional pattern
+CUST2451,0.5146,high,purchase frequency
+CUST2452,0.6421,high,recency of last purchase
+CUST2453,0.4751,medium,regional pattern
+CUST2454,0.5418,high,recency of last purchase
+CUST2455,0.3592,medium,regional pattern
+CUST2456,0.6424,high,satisfaction rating
+CUST2457,0.3635,medium,regional pattern
+CUST2458,0.5149,high,satisfaction rating
+CUST2459,0.6945,high,satisfaction rating
+CUST2460,0.4884,medium,gender segment pattern
+CUST2461,0.5449,high,regional pattern
+CUST2462,0.4918,medium,satisfaction rating
+CUST2463,0.5357,high,gender segment pattern
+CUST2464,0.4698,medium,regional pattern
+CUST2465,0.5628,high,regional pattern
+CUST2466,0.5671,high,recency of last purchase
+CUST2467,0.4617,medium,regional pattern
+CUST2468,0.5458,high,regional pattern
+CUST2469,0.3968,medium,regional pattern
+CUST2470,0.4923,medium,gender segment pattern
+CUST2471,0.5237,high,regional pattern
+CUST2472,0.51,high,regional pattern
+CUST2473,0.4656,medium,recency of last purchase
+CUST2474,0.4864,medium,recency of last purchase
+CUST2475,0.4632,medium,regional pattern
+CUST2476,0.3961,medium,purchase frequency
+CUST2477,0.45,medium,regional pattern
+CUST2478,0.4679,medium,gender segment pattern
+CUST2479,0.597,high,recency of last purchase
+CUST2480,0.6121,high,purchase frequency
+CUST2481,0.5441,high,regional pattern
+CUST2482,0.6163,high,satisfaction rating
+CUST2483,0.3761,medium,regional pattern
+CUST2484,0.4226,medium,regional pattern
+CUST2485,0.5094,high,purchase frequency
+CUST2486,0.5283,high,recency of last purchase
+CUST2487,0.4561,medium,regional pattern
+CUST2488,0.5912,high,regional pattern
+CUST2489,0.5802,high,recency of last purchase
+CUST2490,0.4539,medium,gender segment pattern
+CUST2491,0.4859,medium,purchase frequency
+CUST2492,0.7038,high,satisfaction rating
+CUST2493,0.5037,high,purchase frequency
+CUST2494,0.355,medium,regional pattern
+CUST2495,0.4604,medium,regional pattern
+CUST2496,0.4674,medium,purchase frequency
+CUST2497,0.5554,high,regional pattern
+CUST2498,0.472,medium,purchase frequency
+CUST2499,0.6048,high,satisfaction rating
+CUST2500,0.5539,high,regional pattern
+CUST2501,0.5604,high,satisfaction rating
+CUST2502,0.5245,high,recency of last purchase
+CUST2503,0.52,high,purchase frequency
+CUST2504,0.5009,high,purchase frequency
+CUST2505,0.5882,high,regional pattern
+CUST2506,0.5198,high,purchase frequency
+CUST2507,0.444,medium,regional pattern
+CUST2508,0.4584,medium,regional pattern
+CUST2509,0.5293,high,regional pattern
+CUST2510,0.5274,high,satisfaction rating
+CUST2511,0.4884,medium,recency of last purchase
+CUST2512,0.4572,medium,regional pattern
+CUST2513,0.4206,medium,regional pattern
+CUST2514,0.5764,high,regional pattern
+CUST2515,0.4669,medium,regional pattern
+CUST2516,0.5568,high,regional pattern
+CUST2517,0.4379,medium,satisfaction rating
+CUST2518,0.5235,high,recency of last purchase
+CUST2519,0.4523,medium,recency of last purchase
+CUST2520,0.4818,medium,regional pattern
+CUST2521,0.4784,medium,satisfaction rating
+CUST2522,0.5221,high,regional pattern
+CUST2523,0.3982,medium,purchase frequency
+CUST2524,0.4126,medium,regional pattern
+CUST2525,0.4666,medium,recency of last purchase
+CUST2526,0.3713,medium,recency of last purchase
+CUST2527,0.5067,high,purchase frequency
+CUST2528,0.5037,high,satisfaction rating
+CUST2529,0.5211,high,satisfaction rating
+CUST2530,0.6074,high,regional pattern
+CUST2531,0.4083,medium,purchase frequency
+CUST2532,0.4374,medium,purchase frequency
+CUST2533,0.4656,medium,regional pattern
+CUST2534,0.3744,medium,regional pattern
+CUST2535,0.5352,high,regional pattern
+CUST2536,0.5198,high,purchase frequency
+CUST2537,0.4943,medium,regional pattern
+CUST2538,0.581,high,regional pattern
+CUST2539,0.5193,high,regional pattern
+CUST2540,0.4907,medium,recency of last purchase
+CUST2541,0.4883,medium,regional pattern
+CUST2542,0.3935,medium,regional pattern
+CUST2543,0.506,high,recency of last purchase
+CUST2544,0.5094,high,purchase frequency
+CUST2545,0.5518,high,purchase frequency
+CUST2546,0.5379,high,regional pattern
+CUST2547,0.5722,high,recency of last purchase
+CUST2548,0.4165,medium,recency of last purchase
+CUST2549,0.4723,medium,regional pattern
+CUST2550,0.5072,high,regional pattern
+CUST2551,0.446,medium,regional pattern
+CUST2552,0.5321,high,regional pattern
+CUST2553,0.5307,high,satisfaction rating
+CUST2554,0.5227,high,regional pattern
+CUST2555,0.496,medium,purchase frequency
+CUST2556,0.4739,medium,purchase frequency
+CUST2557,0.4444,medium,purchase frequency
+CUST2558,0.4275,medium,purchase frequency
+CUST2559,0.4553,medium,recency of last purchase
+CUST2560,0.5462,high,purchase frequency
+CUST2561,0.5445,high,regional pattern
+CUST2562,0.4979,medium,regional pattern
+CUST2563,0.6289,high,regional pattern
+CUST2564,0.4647,medium,regional pattern
+CUST2565,0.5292,high,satisfaction rating
+CUST2566,0.5016,high,regional pattern
+CUST2567,0.5757,high,recency of last purchase
+CUST2568,0.5038,high,regional pattern
+CUST2569,0.5882,high,regional pattern
+CUST2570,0.4823,medium,regional pattern
+CUST2571,0.5433,high,purchase frequency
+CUST2572,0.4875,medium,recency of last purchase
+CUST2573,0.5923,high,regional pattern
+CUST2574,0.5027,high,regional pattern
+CUST2575,0.393,medium,regional pattern
+CUST2576,0.4203,medium,recency of last purchase
+CUST2577,0.4202,medium,regional pattern
+CUST2578,0.5115,high,recency of last purchase
+CUST2579,0.5896,high,regional pattern
+CUST2580,0.544,high,recency of last purchase
+CUST2581,0.614,high,recency of last purchase
+CUST2582,0.4441,medium,regional pattern
+CUST2583,0.4027,medium,regional pattern
+CUST2584,0.6223,high,regional pattern
+CUST2585,0.5983,high,satisfaction rating
+CUST2586,0.4484,medium,recency of last purchase
+CUST2587,0.4797,medium,satisfaction rating
+CUST2588,0.5153,high,regional pattern
+CUST2589,0.5323,high,regional pattern
+CUST2590,0.4755,medium,satisfaction rating
+CUST2591,0.5082,high,recency of last purchase
+CUST2592,0.6081,high,satisfaction rating
+CUST2593,0.4845,medium,regional pattern
+CUST2594,0.5546,high,satisfaction rating
+CUST2595,0.559,high,satisfaction rating
+CUST2596,0.4454,medium,regional pattern
+CUST2597,0.4332,medium,regional pattern
+CUST2598,0.5875,high,satisfaction rating
+CUST2599,0.4263,medium,recency of last purchase
+CUST2600,0.5783,high,regional pattern
+CUST2601,0.5017,high,regional pattern
+CUST2602,0.5639,high,recency of last purchase
+CUST2603,0.5191,high,recency of last purchase
+CUST2604,0.6034,high,satisfaction rating
+CUST2605,0.4586,medium,gender segment pattern
+CUST2606,0.4524,medium,regional pattern
+CUST2607,0.5264,high,regional pattern
+CUST2608,0.4646,medium,regional pattern
+CUST2609,0.5165,high,recency of last purchase
+CUST2610,0.4808,medium,purchase frequency
+CUST2611,0.5252,high,regional pattern
+CUST2612,0.5215,high,purchase frequency
+CUST2613,0.4945,medium,regional pattern
+CUST2614,0.5673,high,recency of last purchase
+CUST2615,0.4365,medium,recency of last purchase
+CUST2616,0.5496,high,regional pattern
+CUST2617,0.5365,high,purchase frequency
+CUST2618,0.4241,medium,regional pattern
+CUST2619,0.4351,medium,purchase frequency
+CUST2620,0.493,medium,regional pattern
+CUST2621,0.4619,medium,recency of last purchase
+CUST2622,0.5443,high,regional pattern
+CUST2623,0.6005,high,satisfaction rating
+CUST2624,0.5338,high,purchase frequency
+CUST2625,0.4988,medium,purchase frequency
+CUST2626,0.5939,high,regional pattern
+CUST2627,0.4012,medium,regional pattern
+CUST2628,0.5019,high,satisfaction rating
+CUST2629,0.5281,high,purchase frequency
+CUST2630,0.5097,high,purchase frequency
+CUST2631,0.5183,high,regional pattern
+CUST2632,0.4481,medium,regional pattern
+CUST2633,0.4286,medium,recency of last purchase
+CUST2634,0.5095,high,purchase frequency
+CUST2635,0.3936,medium,regional pattern
+CUST2636,0.6323,high,regional pattern
+CUST2637,0.539,high,regional pattern
+CUST2638,0.4259,medium,purchase frequency
+CUST2639,0.633,high,satisfaction rating
+CUST2640,0.5476,high,regional pattern
+CUST2641,0.4966,medium,purchase frequency
+CUST2642,0.4702,medium,purchase frequency
+CUST2643,0.5758,high,recency of last purchase
+CUST2644,0.4374,medium,purchase frequency
+CUST2645,0.6378,high,satisfaction rating
+CUST2646,0.3737,medium,regional pattern
+CUST2647,0.4894,medium,regional pattern
+CUST2648,0.5637,high,purchase frequency
+CUST2649,0.5741,high,recency of last purchase
+CUST2650,0.4287,medium,regional pattern
+CUST2651,0.5661,high,regional pattern
+CUST2652,0.4945,medium,satisfaction rating
+CUST2653,0.5229,high,regional pattern
+CUST2654,0.5201,high,recency of last purchase
+CUST2655,0.5325,high,recency of last purchase
+CUST2656,0.3996,medium,recency of last purchase
+CUST2657,0.5021,high,recency of last purchase
+CUST2658,0.3928,medium,regional pattern
+CUST2659,0.4741,medium,regional pattern
+CUST2660,0.4939,medium,recency of last purchase
+CUST2661,0.477,medium,satisfaction rating
+CUST2662,0.6717,high,satisfaction rating
+CUST2663,0.5826,high,regional pattern
+CUST2664,0.5634,high,regional pattern
+CUST2665,0.4434,medium,purchase frequency
+CUST2666,0.5147,high,purchase frequency
+CUST2667,0.537,high,satisfaction rating
+CUST2668,0.5603,high,satisfaction rating
+CUST2669,0.5528,high,gender segment pattern
+CUST2670,0.6035,high,regional pattern
+CUST2671,0.5565,high,recency of last purchase
+CUST2672,0.546,high,recency of last purchase
+CUST2673,0.4839,medium,regional pattern
+CUST2674,0.4666,medium,regional pattern
+CUST2675,0.3146,medium,regional pattern
+CUST2676,0.4465,medium,regional pattern
+CUST2677,0.5714,high,regional pattern
+CUST2678,0.541,high,purchase frequency
+CUST2679,0.5133,high,gender segment pattern
+CUST2680,0.6143,high,regional pattern
+CUST2681,0.5274,high,recency of last purchase
+CUST2682,0.4879,medium,regional pattern
+CUST2683,0.4934,medium,purchase frequency
+CUST2684,0.4795,medium,regional pattern
+CUST2685,0.4221,medium,recency of last purchase
+CUST2686,0.5724,high,regional pattern
+CUST2687,0.3267,medium,regional pattern
+CUST2688,0.5209,high,recency of last purchase
+CUST2689,0.492,medium,satisfaction rating
+CUST2690,0.4632,medium,recency of last purchase
+CUST2691,0.4819,medium,gender segment pattern
+CUST2692,0.4252,medium,regional pattern
+CUST2693,0.4191,medium,regional pattern
+CUST2694,0.4981,medium,regional pattern
+CUST2695,0.3514,medium,regional pattern
+CUST2696,0.4696,medium,regional pattern
+CUST2697,0.5732,high,regional pattern
+CUST2698,0.658,high,regional pattern
+CUST2699,0.5647,high,satisfaction rating
+CUST2700,0.4437,medium,purchase frequency
+CUST2701,0.5197,high,gender segment pattern
+CUST2702,0.5452,high,regional pattern
+CUST2703,0.3961,medium,recency of last purchase
+CUST2704,0.5781,high,regional pattern
+CUST2705,0.5209,high,recency of last purchase
+CUST2706,0.3577,medium,regional pattern
+CUST2707,0.4911,medium,recency of last purchase
+CUST2708,0.4461,medium,purchase frequency
+CUST2709,0.5871,high,satisfaction rating
+CUST2710,0.5709,high,regional pattern
+CUST2711,0.4977,medium,regional pattern
+CUST2712,0.4502,medium,regional pattern
+CUST2713,0.5752,high,recency of last purchase
+CUST2714,0.5085,high,gender segment pattern
+CUST2715,0.5009,high,regional pattern
+CUST2716,0.6882,high,recency of last purchase
+CUST2717,0.5545,high,regional pattern
+CUST2718,0.5299,high,satisfaction rating
+CUST2719,0.563,high,regional pattern
+CUST2720,0.5353,high,recency of last purchase
+CUST2721,0.4073,medium,regional pattern
+CUST2722,0.4455,medium,purchase frequency
+CUST2723,0.3737,medium,regional pattern
+CUST2724,0.4966,medium,gender segment pattern
+CUST2725,0.4727,medium,recency of last purchase
+CUST2726,0.5653,high,recency of last purchase
+CUST2727,0.5342,high,satisfaction rating
+CUST2728,0.4863,medium,recency of last purchase
+CUST2729,0.568,high,regional pattern
+CUST2730,0.4394,medium,gender segment pattern
+CUST2731,0.6387,high,regional pattern
+CUST2732,0.4829,medium,recency of last purchase
+CUST2733,0.4725,medium,recency of last purchase
+CUST2734,0.5173,high,satisfaction rating
+CUST2735,0.4229,medium,regional pattern
+CUST2736,0.5304,high,purchase frequency
+CUST2737,0.5812,high,recency of last purchase
+CUST2738,0.5437,high,satisfaction rating
+CUST2739,0.5647,high,regional pattern
+CUST2740,0.4964,medium,recency of last purchase
+CUST2741,0.5073,high,recency of last purchase
+CUST2742,0.4693,medium,regional pattern
+CUST2743,0.6058,high,recency of last purchase
+CUST2744,0.5617,high,regional pattern
+CUST2745,0.5273,high,satisfaction rating
+CUST2746,0.5536,high,satisfaction rating
+CUST2747,0.4127,medium,regional pattern
+CUST2748,0.4418,medium,regional pattern
+CUST2749,0.4492,medium,regional pattern
+CUST2750,0.4235,medium,recency of last purchase
+CUST2751,0.4049,medium,regional pattern
+CUST2752,0.4601,medium,satisfaction rating
+CUST2753,0.391,medium,regional pattern
+CUST2754,0.5632,high,recency of last purchase
+CUST2755,0.5086,high,gender segment pattern
+CUST2756,0.5652,high,regional pattern
+CUST2757,0.4659,medium,satisfaction rating
+CUST2758,0.5052,high,recency of last purchase
+CUST2759,0.578,high,regional pattern
+CUST2760,0.4382,medium,purchase frequency
+CUST2761,0.5473,high,recency of last purchase
+CUST2762,0.5466,high,regional pattern
+CUST2763,0.3677,medium,recency of last purchase
+CUST2764,0.5317,high,regional pattern
+CUST2765,0.5462,high,regional pattern
+CUST2766,0.451,medium,recency of last purchase
+CUST2767,0.5213,high,purchase frequency
+CUST2768,0.4522,medium,regional pattern
+CUST2769,0.4105,medium,regional pattern
+CUST2770,0.5908,high,satisfaction rating
+CUST2771,0.4137,medium,regional pattern
+CUST2772,0.4387,medium,recency of last purchase
+CUST2773,0.4087,medium,regional pattern
+CUST2774,0.3931,medium,regional pattern
+CUST2775,0.5,medium,purchase frequency
+CUST2776,0.4461,medium,purchase frequency
+CUST2777,0.4591,medium,recency of last purchase
+CUST2778,0.4994,medium,purchase frequency
+CUST2779,0.5267,high,regional pattern
+CUST2780,0.4717,medium,regional pattern
+CUST2781,0.5317,high,satisfaction rating
+CUST2782,0.5124,high,regional pattern
+CUST2783,0.4232,medium,regional pattern
+CUST2784,0.4895,medium,regional pattern
+CUST2785,0.4997,medium,purchase frequency
+CUST2786,0.5547,high,account tenure
+CUST2787,0.4297,medium,purchase frequency
+CUST2788,0.5103,high,regional pattern
+CUST2789,0.425,medium,recency of last purchase
+CUST2790,0.4884,medium,purchase frequency
+CUST2791,0.4753,medium,recency of last purchase
+CUST2792,0.4608,medium,purchase frequency
+CUST2793,0.4692,medium,regional pattern
+CUST2794,0.5657,high,regional pattern
+CUST2795,0.4397,medium,regional pattern
+CUST2796,0.5168,high,purchase frequency
+CUST2797,0.4605,medium,purchase frequency
+CUST2798,0.5646,high,satisfaction rating
+CUST2799,0.5701,high,recency of last purchase
+CUST2800,0.5443,high,recency of last purchase
+CUST2801,0.5041,high,recency of last purchase
+CUST2802,0.7367,high,satisfaction rating
+CUST2803,0.5028,high,regional pattern
+CUST2804,0.3638,medium,recency of last purchase
+CUST2805,0.4573,medium,purchase frequency
+CUST2806,0.5001,high,regional pattern
+CUST2807,0.5525,high,regional pattern
+CUST2808,0.4033,medium,regional pattern
+CUST2809,0.6598,high,satisfaction rating
+CUST2810,0.5016,high,regional pattern
+CUST2811,0.4969,medium,satisfaction rating
+CUST2812,0.5822,high,satisfaction rating
+CUST2813,0.4947,medium,regional pattern
+CUST2814,0.6598,high,recency of last purchase
+CUST2815,0.6198,high,regional pattern
+CUST2816,0.4193,medium,regional pattern
+CUST2817,0.3924,medium,regional pattern
+CUST2818,0.4877,medium,recency of last purchase
+CUST2819,0.3635,medium,regional pattern
+CUST2820,0.5588,high,recency of last purchase
+CUST2821,0.4152,medium,purchase frequency
+CUST2822,0.4889,medium,gender segment pattern
+CUST2823,0.597,high,regional pattern
+CUST2824,0.5281,high,regional pattern
+CUST2825,0.45,medium,purchase frequency
+CUST2826,0.5982,high,regional pattern
+CUST2827,0.4774,medium,recency of last purchase
+CUST2828,0.5592,high,purchase frequency
+CUST2829,0.5046,high,regional pattern
+CUST2830,0.514,high,purchase frequency
+CUST2831,0.4906,medium,recency of last purchase
+CUST2832,0.5146,high,regional pattern
+CUST2833,0.5755,high,regional pattern
+CUST2834,0.5716,high,regional pattern
+CUST2835,0.6423,high,satisfaction rating
+CUST2836,0.5003,high,recency of last purchase
+CUST2837,0.6447,high,purchase frequency
+CUST2838,0.5762,high,recency of last purchase
+CUST2839,0.4919,medium,recency of last purchase
+CUST2840,0.5171,high,gender segment pattern
+CUST2841,0.5865,high,recency of last purchase
+CUST2842,0.4304,medium,recency of last purchase
+CUST2843,0.5452,high,regional pattern
+CUST2844,0.536,high,regional pattern
+CUST2845,0.5918,high,satisfaction rating
+CUST2846,0.4538,medium,satisfaction rating
+CUST2847,0.5268,high,regional pattern
+CUST2848,0.5446,high,satisfaction rating
+CUST2849,0.5293,high,regional pattern
+CUST2850,0.4294,medium,regional pattern
+CUST2851,0.5348,high,recency of last purchase
+CUST2852,0.5185,high,satisfaction rating
+CUST2853,0.4639,medium,recency of last purchase
+CUST2854,0.5609,high,satisfaction rating
+CUST2855,0.3475,medium,regional pattern
+CUST2856,0.5292,high,satisfaction rating
+CUST2857,0.4714,medium,purchase frequency
+CUST2858,0.4369,medium,purchase frequency
+CUST2859,0.4665,medium,purchase frequency
+CUST2860,0.5202,high,regional pattern
+CUST2861,0.4463,medium,purchase frequency
+CUST2862,0.454,medium,recency of last purchase
+CUST2863,0.5359,high,satisfaction rating
+CUST2864,0.5072,high,purchase frequency
+CUST2865,0.5198,high,regional pattern
+CUST2866,0.464,medium,recency of last purchase
+CUST2867,0.5778,high,satisfaction rating
+CUST2868,0.5374,high,purchase frequency
+CUST2869,0.426,medium,regional pattern
+CUST2870,0.4082,medium,regional pattern
+CUST2871,0.4962,medium,regional pattern
+CUST2872,0.5017,high,purchase frequency
+CUST2873,0.5188,high,purchase frequency
+CUST2874,0.525,high,regional pattern
+CUST2875,0.4592,medium,recency of last purchase
+CUST2876,0.4907,medium,recency of last purchase
+CUST2877,0.5291,high,satisfaction rating
+CUST2878,0.4274,medium,regional pattern
+CUST2879,0.6099,high,regional pattern
+CUST2880,0.5475,high,regional pattern
+CUST2881,0.4489,medium,regional pattern
+CUST2882,0.6168,high,satisfaction rating
+CUST2883,0.5014,high,purchase frequency
+CUST2884,0.4364,medium,purchase frequency
+CUST2885,0.5514,high,purchase frequency
+CUST2886,0.4594,medium,satisfaction rating
+CUST2887,0.4755,medium,regional pattern
+CUST2888,0.5135,high,regional pattern
+CUST2889,0.4897,medium,regional pattern
+CUST2890,0.4911,medium,recency of last purchase
+CUST2891,0.534,high,regional pattern
+CUST2892,0.4553,medium,gender segment pattern
+CUST2893,0.5104,high,regional pattern
+CUST2894,0.462,medium,gender segment pattern
+CUST2895,0.5036,high,recency of last purchase
+CUST2896,0.453,medium,regional pattern
+CUST2897,0.5718,high,satisfaction rating
+CUST2898,0.565,high,regional pattern
+CUST2899,0.4553,medium,regional pattern
+CUST2900,0.6123,high,regional pattern
+CUST2901,0.4763,medium,recency of last purchase
+CUST2902,0.4226,medium,regional pattern
+CUST2903,0.4543,medium,regional pattern
+CUST2904,0.4364,medium,regional pattern
+CUST2905,0.58,high,regional pattern
+CUST2906,0.5235,high,purchase frequency
+CUST2907,0.4618,medium,recency of last purchase
+CUST2908,0.5181,high,recency of last purchase
+CUST2909,0.4672,medium,purchase frequency
+CUST2910,0.4261,medium,gender segment pattern
+CUST2911,0.4093,medium,regional pattern
+CUST2912,0.4822,medium,regional pattern
+CUST2913,0.5592,high,regional pattern
+CUST2914,0.6285,high,regional pattern
+CUST2915,0.4048,medium,recency of last purchase
+CUST2916,0.3986,medium,purchase frequency
+CUST2917,0.4888,medium,regional pattern
+CUST2918,0.5456,high,regional pattern
+CUST2919,0.5444,high,recency of last purchase
+CUST2920,0.5916,high,regional pattern
+CUST2921,0.5388,high,regional pattern
+CUST2922,0.5163,high,regional pattern
+CUST2923,0.5373,high,recency of last purchase
+CUST2924,0.4703,medium,purchase frequency
+CUST2925,0.6258,high,recency of last purchase
+CUST2926,0.5093,high,purchase frequency
+CUST2927,0.5511,high,purchase frequency
+CUST2928,0.557,high,recency of last purchase
+CUST2929,0.5246,high,purchase frequency
+CUST2930,0.5235,high,purchase frequency
+CUST2931,0.4764,medium,purchase frequency
+CUST2932,0.4938,medium,regional pattern
+CUST2933,0.3666,medium,purchase frequency
+CUST2934,0.5703,high,recency of last purchase
+CUST2935,0.5035,high,satisfaction rating
+CUST2936,0.4554,medium,recency of last purchase
+CUST2937,0.5349,high,satisfaction rating
+CUST2938,0.5742,high,satisfaction rating
+CUST2939,0.4553,medium,regional pattern
+CUST2940,0.4436,medium,regional pattern
+CUST2941,0.5073,high,gender segment pattern
+CUST2942,0.5801,high,purchase frequency
+CUST2943,0.5133,high,satisfaction rating
+CUST2944,0.4317,medium,regional pattern
+CUST2945,0.5947,high,satisfaction rating
+CUST2946,0.3825,medium,regional pattern
+CUST2947,0.5067,high,satisfaction rating
+CUST2948,0.4416,medium,satisfaction rating
+CUST2949,0.4485,medium,purchase frequency
+CUST2950,0.5511,high,purchase frequency
+CUST2951,0.4714,medium,regional pattern
+CUST2952,0.5714,high,regional pattern
+CUST2953,0.4276,medium,regional pattern
+CUST2954,0.435,medium,purchase frequency
+CUST2955,0.4506,medium,recency of last purchase
+CUST2956,0.6259,high,regional pattern
+CUST2957,0.4703,medium,regional pattern
+CUST2958,0.5293,high,purchase frequency
+CUST2959,0.5023,high,regional pattern
+CUST2960,0.377,medium,regional pattern
+CUST2961,0.3951,medium,purchase frequency
+CUST2962,0.3703,medium,regional pattern
+CUST2963,0.3643,medium,satisfaction rating
+CUST2964,0.5615,high,regional pattern
+CUST2965,0.4686,medium,purchase frequency
+CUST2966,0.6157,high,regional pattern
+CUST2967,0.3932,medium,regional pattern
+CUST2968,0.4885,medium,purchase frequency
+CUST2969,0.5916,high,recency of last purchase
+CUST2970,0.5106,high,regional pattern
+CUST2971,0.4587,medium,regional pattern
+CUST2972,0.5183,high,regional pattern
+CUST2973,0.3803,medium,regional pattern
+CUST2974,0.5226,high,regional pattern
+CUST2975,0.508,high,recency of last purchase
+CUST2976,0.4251,medium,regional pattern
+CUST2977,0.4992,medium,recency of last purchase
+CUST2978,0.4391,medium,regional pattern
+CUST2979,0.5564,high,recency of last purchase
+CUST2980,0.4836,medium,regional pattern
+CUST2981,0.5384,high,satisfaction rating
+CUST2982,0.4531,medium,regional pattern
+CUST2983,0.5716,high,satisfaction rating
+CUST2984,0.651,high,satisfaction rating
+CUST2985,0.423,medium,regional pattern
+CUST2986,0.4019,medium,purchase frequency
+CUST2987,0.4711,medium,purchase frequency
+CUST2988,0.4698,medium,regional pattern
+CUST2989,0.5597,high,satisfaction rating
+CUST2990,0.4662,medium,recency of last purchase
+CUST2991,0.6019,high,satisfaction rating
+CUST2992,0.4835,medium,purchase frequency
+CUST2993,0.6513,high,recency of last purchase
+CUST2994,0.5512,high,satisfaction rating
+CUST2995,0.4482,medium,regional pattern
+CUST2996,0.443,medium,regional pattern
+CUST2997,0.6146,high,regional pattern
+CUST2998,0.4681,medium,purchase frequency
+CUST2999,0.5298,high,regional pattern
