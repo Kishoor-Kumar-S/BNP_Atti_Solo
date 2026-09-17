@@ -4,6 +4,8 @@ import dotenv from "dotenv";
 import { pool } from "./db/pool";
 
 import customersRouter from "./routes/customers";
+import productsRouter from "./routes/products";
+import ordersRouter from "./routes/orders";
 
 dotenv.config();
 
@@ -23,6 +25,8 @@ app.get("/health", async (_req, res) => {
 });
 
 app.use("/api/customers", customersRouter);
+app.use("/api/products", productsRouter);
+app.use("/api/orders", ordersRouter);
 
 app.use((_req, res) => {
   res.status(404).json({ error: "Not found" });
