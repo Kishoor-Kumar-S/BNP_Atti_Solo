@@ -3,9 +3,10 @@
  * into Postgres.
  *
  * Churn predictions: reads ml/churn/output/predictions.csv if present
- * (source = 'model'); falls back to a heuristic mock (source = 'mock')
- * if the real model hasn't been run yet. Same pattern for sales
- * forecasts once feature/sales-ml lands.
+ * (source = 'model'); falls back to a heuristic mock (source = 'mock').
+ *
+ * Sales forecasts: reads ml/sales-demand/output/forecast.csv if present
+ * (source = 'model'); falls back to a heuristic mock (source = 'mock').
  *
  * Run from the backend/ folder:
  *   npm run seed
@@ -22,6 +23,7 @@ const pool = new Pool({ connectionString: process.env.DATABASE_URL });
 
 const PROCESSED_DIR = path.join(__dirname, "..", "..", "..", "data", "processed");
 const CHURN_PREDICTIONS_PATH = path.join(__dirname, "..", "..", "..", "ml", "churn", "output", "predictions.csv");
+const SALES_FORECAST_PATH = path.join(__dirname, "..", "..", "..", "ml", "sales-demand", "output", "forecast.csv");
 
 interface Customer {
   customer_id: string;
@@ -59,6 +61,13 @@ interface ChurnPredictionRow {
   top_factor: string;
 }
 
+interface SalesForecastRow {
+  product_name: string;
+  period: string;
+  predicted_units: string;
+  predicted_revenue: string;
+}
+
 /** Minimal CSV parser — fine for this dataset (no embedded commas/quotes). */
 function parseCsv<T>(filePath: string): T[] {
   const content = fs.readFileSync(filePath, "utf-8").trim();
@@ -85,7 +94,6 @@ function requireProcessedFile(name: string): string {
   return filePath;
 }
 
-/** Heuristic mock churn prediction — used only if the real model CSV isn't present. */
 function mockChurnPrediction(c: Customer): {
   churn_probability: number;
   risk_tier: string;
@@ -186,12 +194,6 @@ async function seedOrders(client: import("pg").PoolClient) {
   console.log(`Seeded ${orders.length} orders.`);
 }
 
-/**
- * Churn predictions — CSV-or-mock fallback pattern.
- * If ml/churn/output/predictions.csv exists (real model ran), use it
- * with source='model'. Otherwise generate the heuristic mock with
- * source='mock'.
- */
 async function seedChurnPredictions(client: import("pg").PoolClient, customers: Customer[]) {
   if (fs.existsSync(CHURN_PREDICTIONS_PATH)) {
     console.log("Real churn predictions.csv found — using model output (source: model).");
@@ -230,23 +232,39 @@ async function seedChurnPredictions(client: import("pg").PoolClient, customers: 
   }
 }
 
-async function seedMockSalesForecasts(client: import("pg").PoolClient) {
-  const file = requireProcessedFile("products.csv");
-  const products = parseCsv<Product>(file);
+/**
+ * Sales forecasts — CSV-or-mock fallback pattern, same as churn.
+ */
+async function seedSalesForecasts(client: import("pg").PoolClient) {
+  if (fs.existsSync(SALES_FORECAST_PATH)) {
+    console.log("Real sales forecast.csv found — using model output (source: model).");
+    const rows = parseCsv<SalesForecastRow>(SALES_FORECAST_PATH);
 
-  // Still mock — feature/sales-ml hasn't merged yet. Same CSV-or-mock
-  // pattern will apply here once ml/sales-demand/output/forecast.csv exists.
-  for (const p of products.slice(0, 50)) {
-    const predictedUnits = Math.round(20 + Math.random() * 80);
-    const predictedRevenue = Math.round(predictedUnits * p.unit_price * 100) / 100;
+    for (const row of rows) {
+      await client.query(
+        `INSERT INTO sales_forecasts (product_name, period, predicted_units, predicted_revenue, source)
+         VALUES ($1, $2, $3, $4, 'model')`,
+        [row.product_name, row.period, Number(row.predicted_units), Number(row.predicted_revenue)]
+      );
+    }
+    console.log(`Seeded ${rows.length} real sales forecasts (source: model).`);
+  } else {
+    console.log("No forecast.csv found — falling back to mock sales forecasts (source: mock).");
+    const file = requireProcessedFile("products.csv");
+    const products = parseCsv<Product>(file);
 
-    await client.query(
-      `INSERT INTO sales_forecasts (product_name, period, predicted_units, predicted_revenue, source)
-       VALUES ($1, $2, $3, $4, 'mock')`,
-      [p.product_name, "next_quarter", predictedUnits, predictedRevenue]
-    );
+    for (const p of products.slice(0, 50)) {
+      const predictedUnits = Math.round(20 + Math.random() * 80);
+      const predictedRevenue = Math.round(predictedUnits * p.unit_price * 100) / 100;
+
+      await client.query(
+        `INSERT INTO sales_forecasts (product_name, period, predicted_units, predicted_revenue, source)
+         VALUES ($1, $2, $3, $4, 'mock')`,
+        [p.product_name, "next_quarter", predictedUnits, predictedRevenue]
+      );
+    }
+    console.log(`Seeded mock sales forecasts for 50 products (source: mock).`);
   }
-  console.log(`Seeded mock sales forecasts for 50 products (source: mock).`);
 }
 
 async function main() {
@@ -260,7 +278,7 @@ async function main() {
     await seedProducts(client);
     await seedOrders(client);
     await seedChurnPredictions(client, customers);
-    await seedMockSalesForecasts(client);
+    await seedSalesForecasts(client);
     await client.query("COMMIT");
 
     console.log("Seed complete.");
