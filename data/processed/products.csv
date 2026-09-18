@@ -1,0 +1,2001 @@
+product_id,product_name,category,unit_price
+PROD200,Football,Sports,78.21
+PROD201,Refrigerator,Home,64.02
+PROD202,Hoodie,Clothing,604.14
+PROD203,Conditioner,Beauty,84.66
+PROD204,Smartwatch,Electronics,62.66
+PROD205,Hoodie,Clothing,221.61
+PROD206,Tablet,Electronics,175.74
+PROD207,Jacket,Clothing,9.56
+PROD208,Nail Polish,Beauty,1525.8
+PROD209,Camera,Electronics,337.24
+PROD210,Dumbbells,Sports,203.05
+PROD211,Headphones,Electronics,940.17
+PROD212,Vacuum Cleaner,Home,168.79
+PROD213,Perfume,Beauty,236.77
+PROD214,Cycling Helmet,Sports,130.32
+PROD215,Face Wash,Beauty,333.99
+PROD216,Football,Sports,1875.08
+PROD217,Cricket Bat,Sports,211.24
+PROD218,Sneakers,Clothing,1702.39
+PROD219,Refrigerator,Home,199.58
+PROD220,Cricket Bat,Sports,242.03
+PROD221,Dress,Clothing,50.78
+PROD222,Smartphone,Electronics,89.87
+PROD223,Camera,Electronics,52.34
+PROD224,Lipstick,Beauty,232.67
+PROD225,Sneakers,Clothing,142.89
+PROD226,T-Shirt,Clothing,44.69
+PROD227,Tennis Racket,Sports,139.3
+PROD228,Sofa,Home,149.65
+PROD229,Laptop,Electronics,157.1
+PROD230,Basketball,Sports,182.53
+PROD231,Dress,Clothing,31.95
+PROD232,Cycling Helmet,Sports,804.77
+PROD233,Shirt,Clothing,332.38
+PROD234,Cricket Bat,Sports,1292.65
+PROD235,Tablet,Electronics,36.39
+PROD236,Camera,Electronics,79.19
+PROD237,Blender,Home,94.06
+PROD238,Basketball,Sports,786.48
+PROD239,Sneakers,Clothing,20.55
+PROD240,Sneakers,Clothing,203.23
+PROD241,Dumbbells,Sports,65.07
+PROD242,Cricket Bat,Sports,1954.64
+PROD243,Smartphone,Electronics,18.98
+PROD244,Football,Sports,654.56
+PROD245,Headphones,Electronics,334.17
+PROD246,Jacket,Clothing,219.75
+PROD247,Lamp,Home,223.05
+PROD248,Headphones,Electronics,149.88
+PROD249,Bluetooth Speaker,Electronics,165.27
+PROD250,Gaming Console,Electronics,222.62
+PROD251,Bluetooth Speaker,Electronics,45.17
+PROD252,Basketball,Sports,136.95
+PROD253,Nail Polish,Beauty,323.04
+PROD254,Smartphone,Electronics,104.0
+PROD255,Lamp,Home,251.6
+PROD256,Shirt,Clothing,472.04
+PROD257,Tennis Racket,Sports,21.85
+PROD258,Jeans,Clothing,295.22
+PROD259,Running Shoes,Sports,362.26
+PROD260,Cycling Helmet,Sports,286.73
+PROD261,Smartphone,Electronics,34.68
+PROD262,Sneakers,Clothing,370.97
+PROD263,Camera,Electronics,841.95
+PROD264,Sofa,Home,1795.65
+PROD265,Smartwatch,Electronics,459.56
+PROD266,Hoodie,Clothing,193.86
+PROD267,Cycling Helmet,Sports,180.63
+PROD268,Lipstick,Beauty,1217.67
+PROD269,Smartwatch,Electronics,262.1
+PROD270,Jeans,Clothing,466.13
+PROD271,Laptop,Electronics,365.16
+PROD272,Bluetooth Speaker,Electronics,24.08
+PROD273,Sofa,Home,167.47
+PROD274,Bluetooth Speaker,Electronics,44.36
+PROD275,Dumbbells,Sports,157.7
+PROD276,Blender,Home,244.5
+PROD277,Tablet,Electronics,1519.11
+PROD278,Face Wash,Beauty,160.26
+PROD279,Foundation,Beauty,154.0
+PROD280,Perfume,Beauty,119.16
+PROD281,Refrigerator,Home,68.21
+PROD282,Headphones,Electronics,112.63
+PROD283,Basketball,Sports,269.36
+PROD284,Dress,Clothing,1032.49
+PROD285,Tablet,Electronics,253.07
+PROD286,Laptop,Electronics,189.41
+PROD287,Refrigerator,Home,1495.51
+PROD288,Gaming Console,Electronics,384.7
+PROD289,Sofa,Home,256.4
+PROD290,Chair,Home,289.7
+PROD291,Dining Table,Home,27.0
+PROD292,Moisturizer,Beauty,279.83
+PROD293,Headphones,Electronics,290.29
+PROD294,Yoga Mat,Sports,259.26
+PROD295,Gaming Console,Electronics,159.25
+PROD296,Tennis Racket,Sports,62.41
+PROD297,Smartwatch,Electronics,107.73
+PROD298,T-Shirt,Clothing,556.57
+PROD299,Headphones,Electronics,990.57
+PROD300,Nail Polish,Beauty,140.71
+PROD301,Yoga Mat,Sports,38.59
+PROD302,Moisturizer,Beauty,196.79
+PROD303,Basketball,Sports,84.34
+PROD304,Foundation,Beauty,760.96
+PROD305,Smartphone,Electronics,716.3
+PROD306,Chair,Home,396.36
+PROD307,Cycling Helmet,Sports,805.84
+PROD308,Vacuum Cleaner,Home,107.67
+PROD309,Perfume,Beauty,233.34
+PROD310,Perfume,Beauty,353.8
+PROD311,Jeans,Clothing,221.28
+PROD312,Lipstick,Beauty,247.78
+PROD313,Yoga Mat,Sports,1810.76
+PROD314,Sofa,Home,164.62
+PROD315,Tablet,Electronics,57.48
+PROD316,Vacuum Cleaner,Home,431.26
+PROD317,Dress,Clothing,205.69
+PROD318,Hoodie,Clothing,338.72
+PROD319,Lipstick,Beauty,174.49
+PROD320,Tablet,Electronics,102.01
+PROD321,Shirt,Clothing,389.99
+PROD322,Face Wash,Beauty,21.57
+PROD323,Gaming Console,Electronics,649.18
+PROD324,Running Shoes,Sports,964.88
+PROD325,Lamp,Home,201.06
+PROD326,Smartwatch,Electronics,178.81
+PROD327,Headphones,Electronics,167.69
+PROD328,Bluetooth Speaker,Electronics,19.56
+PROD329,Shampoo,Beauty,170.27
+PROD330,Smartwatch,Electronics,968.05
+PROD331,Tablet,Electronics,184.34
+PROD332,Skirt,Clothing,332.14
+PROD333,Tennis Racket,Sports,42.65
+PROD334,Cycling Helmet,Sports,21.3
+PROD335,Microwave,Home,111.78
+PROD336,Face Wash,Beauty,103.26
+PROD337,Headphones,Electronics,5.48
+PROD338,Cycling Helmet,Sports,151.96
+PROD339,Sneakers,Clothing,152.78
+PROD340,Cycling Helmet,Sports,179.86
+PROD341,Sneakers,Clothing,218.72
+PROD342,T-Shirt,Clothing,177.72
+PROD343,Conditioner,Beauty,224.37
+PROD344,Dress,Clothing,283.6
+PROD345,Skirt,Clothing,167.0
+PROD346,Jeans,Clothing,121.06
+PROD347,Headphones,Electronics,433.59
+PROD348,Lamp,Home,230.28
+PROD349,Nail Polish,Beauty,8.24
+PROD350,Shirt,Clothing,634.46
+PROD351,Nail Polish,Beauty,156.77
+PROD352,Microwave,Home,172.17
+PROD353,Jacket,Clothing,1308.29
+PROD354,Face Wash,Beauty,773.0
+PROD355,Sneakers,Clothing,37.35
+PROD356,Jacket,Clothing,210.51
+PROD357,Hoodie,Clothing,184.94
+PROD358,Lamp,Home,34.88
+PROD359,Foundation,Beauty,23.82
+PROD360,Yoga Mat,Sports,241.3
+PROD361,Tennis Racket,Sports,292.25
+PROD362,Blender,Home,139.58
+PROD363,Running Shoes,Sports,400.08
+PROD364,Vacuum Cleaner,Home,901.2
+PROD365,Blender,Home,597.67
+PROD366,Running Shoes,Sports,77.76
+PROD367,Cricket Bat,Sports,15.8
+PROD368,Running Shoes,Sports,151.98
+PROD369,Shirt,Clothing,35.32
+PROD370,Basketball,Sports,161.03
+PROD371,Sneakers,Clothing,621.17
+PROD372,Skirt,Clothing,261.65
+PROD373,Lamp,Home,332.86
+PROD374,Shampoo,Beauty,68.45
+PROD375,Smartphone,Electronics,274.96
+PROD376,Bluetooth Speaker,Electronics,859.4
+PROD377,Cricket Bat,Sports,103.64
+PROD378,Perfume,Beauty,993.48
+PROD379,Lipstick,Beauty,348.34
+PROD380,Microwave,Home,18.7
+PROD381,T-Shirt,Clothing,1543.22
+PROD382,Headphones,Electronics,183.2
+PROD383,Smartwatch,Electronics,215.88
+PROD384,Running Shoes,Sports,1071.13
+PROD385,Cricket Bat,Sports,22.07
+PROD386,Jacket,Clothing,200.21
+PROD387,Tennis Racket,Sports,678.67
+PROD388,Microwave,Home,689.37
+PROD389,Skirt,Clothing,180.98
+PROD390,Camera,Electronics,148.34
+PROD391,Bluetooth Speaker,Electronics,127.83
+PROD392,Lipstick,Beauty,187.02
+PROD393,T-Shirt,Clothing,175.71
+PROD394,Conditioner,Beauty,39.74
+PROD395,Dumbbells,Sports,199.73
+PROD396,Jeans,Clothing,30.76
+PROD397,Headphones,Electronics,429.25
+PROD398,Shirt,Clothing,122.72
+PROD399,Hoodie,Clothing,504.16
+PROD400,Shampoo,Beauty,483.12
+PROD401,Shirt,Clothing,138.92
+PROD402,Vacuum Cleaner,Home,299.78
+PROD403,Dress,Clothing,296.68
+PROD404,Bluetooth Speaker,Electronics,63.16
+PROD405,Headphones,Electronics,1484.8
+PROD406,Yoga Mat,Sports,263.02
+PROD407,Vacuum Cleaner,Home,1212.26
+PROD408,Shirt,Clothing,1790.4
+PROD409,Sneakers,Clothing,582.62
+PROD410,Moisturizer,Beauty,181.32
+PROD411,Cricket Bat,Sports,174.87
+PROD412,Refrigerator,Home,462.9
+PROD413,Headphones,Electronics,490.01
+PROD414,Chair,Home,1068.34
+PROD415,Smartphone,Electronics,151.03
+PROD416,Refrigerator,Home,152.35
+PROD417,Lipstick,Beauty,277.17
+PROD418,Moisturizer,Beauty,90.95
+PROD419,Cricket Bat,Sports,813.9
+PROD420,Shampoo,Beauty,262.87
+PROD421,Running Shoes,Sports,173.2
+PROD422,Perfume,Beauty,398.18
+PROD423,Moisturizer,Beauty,211.82
+PROD424,Dumbbells,Sports,255.77
+PROD425,Dumbbells,Sports,63.52
+PROD426,Cricket Bat,Sports,317.31
+PROD427,Cycling Helmet,Sports,436.16
+PROD428,Cycling Helmet,Sports,366.64
+PROD429,Shirt,Clothing,347.76
+PROD430,Basketball,Sports,220.93
+PROD431,Sofa,Home,1331.03
+PROD432,Chair,Home,134.4
+PROD433,Sofa,Home,133.25
+PROD434,Cycling Helmet,Sports,210.26
+PROD435,Vacuum Cleaner,Home,80.21
+PROD436,T-Shirt,Clothing,133.84
+PROD437,Perfume,Beauty,286.69
+PROD438,Smartphone,Electronics,55.18
+PROD439,Tennis Racket,Sports,25.75
+PROD440,Lamp,Home,7.42
+PROD441,Jeans,Clothing,430.28
+PROD442,Bluetooth Speaker,Electronics,307.95
+PROD443,Lipstick,Beauty,235.7
+PROD444,Cycling Helmet,Sports,174.95
+PROD445,Conditioner,Beauty,232.39
+PROD446,Vacuum Cleaner,Home,266.75
+PROD447,Gaming Console,Electronics,32.82
+PROD448,Conditioner,Beauty,597.36
+PROD449,Conditioner,Beauty,147.45
+PROD450,Running Shoes,Sports,91.92
+PROD451,Skirt,Clothing,89.68
+PROD452,Blender,Home,269.62
+PROD453,Jeans,Clothing,214.01
+PROD454,Headphones,Electronics,368.2
+PROD455,Cricket Bat,Sports,560.24
+PROD456,Dumbbells,Sports,262.89
+PROD457,Football,Sports,113.52
+PROD458,Dining Table,Home,78.71
+PROD459,Smartphone,Electronics,283.52
+PROD460,Headphones,Electronics,174.45
+PROD461,Skirt,Clothing,165.34
+PROD462,Conditioner,Beauty,274.67
+PROD463,Smartwatch,Electronics,73.91
+PROD464,Foundation,Beauty,330.52
+PROD465,Lipstick,Beauty,1865.18
+PROD466,Skirt,Clothing,1624.53
+PROD467,Lamp,Home,222.38
+PROD468,Jeans,Clothing,190.6
+PROD469,Blender,Home,157.4
+PROD470,Dress,Clothing,97.56
+PROD471,Skirt,Clothing,43.76
+PROD472,Vacuum Cleaner,Home,238.3
+PROD473,Moisturizer,Beauty,247.28
+PROD474,Dining Table,Home,341.04
+PROD475,Moisturizer,Beauty,730.44
+PROD476,Headphones,Electronics,14.55
+PROD477,Dining Table,Home,224.89
+PROD478,Bluetooth Speaker,Electronics,244.49
+PROD479,Running Shoes,Sports,284.09
+PROD480,Bluetooth Speaker,Electronics,239.57
+PROD481,Yoga Mat,Sports,102.62
+PROD482,Headphones,Electronics,26.61
+PROD483,Camera,Electronics,281.71
+PROD484,Hoodie,Clothing,498.41
+PROD485,Jacket,Clothing,150.77
+PROD486,Jacket,Clothing,112.52
+PROD487,Vacuum Cleaner,Home,194.81
+PROD488,Perfume,Beauty,209.41
+PROD489,Shampoo,Beauty,494.41
+PROD490,Lamp,Home,187.03
+PROD491,Football,Sports,314.88
+PROD492,Laptop,Electronics,233.87
+PROD493,Cycling Helmet,Sports,171.07
+PROD494,Moisturizer,Beauty,155.44
+PROD495,Shampoo,Beauty,789.5
+PROD496,Smartwatch,Electronics,232.75
+PROD497,Dress,Clothing,1786.22
+PROD498,T-Shirt,Clothing,216.99
+PROD499,Camera,Electronics,10.88
+PROD500,Conditioner,Beauty,1226.18
+PROD501,Sofa,Home,460.02
+PROD502,Cricket Bat,Sports,217.3
+PROD503,Gaming Console,Electronics,120.62
+PROD504,Smartwatch,Electronics,90.23
+PROD505,Smartwatch,Electronics,737.62
+PROD506,Smartphone,Electronics,658.94
+PROD507,Face Wash,Beauty,121.19
+PROD508,Dumbbells,Sports,583.41
+PROD509,Cricket Bat,Sports,242.39
+PROD510,Camera,Electronics,84.73
+PROD511,Cricket Bat,Sports,399.32
+PROD512,Microwave,Home,96.56
+PROD513,Shirt,Clothing,211.81
+PROD514,Smartwatch,Electronics,227.67
+PROD515,Perfume,Beauty,65.36
+PROD516,Nail Polish,Beauty,51.02
+PROD517,Blender,Home,462.3
+PROD518,Perfume,Beauty,126.46
+PROD519,Dining Table,Home,65.2
+PROD520,Cricket Bat,Sports,116.64
+PROD521,Microwave,Home,140.63
+PROD522,Bluetooth Speaker,Electronics,152.53
+PROD523,Dumbbells,Sports,285.44
+PROD524,Perfume,Beauty,136.3
+PROD525,Gaming Console,Electronics,556.7
+PROD526,Jeans,Clothing,231.25
+PROD527,Shampoo,Beauty,105.05
+PROD528,Smartwatch,Electronics,11.73
+PROD529,Basketball,Sports,230.61
+PROD530,Tablet,Electronics,188.23
+PROD531,Vacuum Cleaner,Home,28.65
+PROD532,Smartwatch,Electronics,175.42
+PROD533,Foundation,Beauty,180.09
+PROD534,Blender,Home,284.73
+PROD535,Basketball,Sports,231.43
+PROD536,Cricket Bat,Sports,137.29
+PROD537,Shirt,Clothing,210.01
+PROD538,Gaming Console,Electronics,348.76
+PROD539,Laptop,Electronics,219.21
+PROD540,Vacuum Cleaner,Home,104.03
+PROD541,Face Wash,Beauty,360.74
+PROD542,Blender,Home,208.01
+PROD543,Camera,Electronics,235.36
+PROD544,Conditioner,Beauty,6.45
+PROD545,Laptop,Electronics,205.55
+PROD546,Smartwatch,Electronics,224.15
+PROD547,Blender,Home,115.98
+PROD548,Laptop,Electronics,26.33
+PROD549,Basketball,Sports,172.3
+PROD550,Blender,Home,374.37
+PROD551,Jeans,Clothing,296.71
+PROD552,Skirt,Clothing,575.92
+PROD553,Tablet,Electronics,214.73
+PROD554,Dining Table,Home,416.03
+PROD555,Football,Sports,219.47
+PROD556,Lipstick,Beauty,34.42
+PROD557,Blender,Home,128.99
+PROD558,Dress,Clothing,148.19
+PROD559,Running Shoes,Sports,343.33
+PROD560,Sneakers,Clothing,146.28
+PROD561,Sneakers,Clothing,165.06
+PROD562,Vacuum Cleaner,Home,222.3
+PROD563,Vacuum Cleaner,Home,662.89
+PROD564,Shampoo,Beauty,134.18
+PROD565,Camera,Electronics,57.06
+PROD566,Smartphone,Electronics,668.04
+PROD567,Lamp,Home,348.12
+PROD568,Skirt,Clothing,76.13
+PROD569,Sneakers,Clothing,89.75
+PROD570,Basketball,Sports,390.53
+PROD571,Vacuum Cleaner,Home,725.84
+PROD572,Camera,Electronics,604.52
+PROD573,Dumbbells,Sports,316.46
+PROD574,Microwave,Home,75.21
+PROD575,Face Wash,Beauty,399.54
+PROD576,T-Shirt,Clothing,12.03
+PROD577,Dining Table,Home,54.72
+PROD578,Tablet,Electronics,122.74
+PROD579,Headphones,Electronics,23.7
+PROD580,Refrigerator,Home,181.5
+PROD581,Conditioner,Beauty,195.6
+PROD582,Lipstick,Beauty,107.92
+PROD583,Camera,Electronics,577.66
+PROD584,Basketball,Sports,81.15
+PROD585,Gaming Console,Electronics,68.54
+PROD586,Running Shoes,Sports,193.43
+PROD587,Blender,Home,276.7
+PROD588,Basketball,Sports,51.83
+PROD589,Vacuum Cleaner,Home,133.73
+PROD590,Smartphone,Electronics,52.44
+PROD591,Cricket Bat,Sports,1499.71
+PROD592,Foundation,Beauty,562.84
+PROD593,Lamp,Home,1366.86
+PROD594,Smartphone,Electronics,290.28
+PROD595,Dumbbells,Sports,134.53
+PROD596,Dumbbells,Sports,434.16
+PROD597,Perfume,Beauty,44.89
+PROD598,Face Wash,Beauty,158.19
+PROD599,Yoga Mat,Sports,130.46
+PROD600,Gaming Console,Electronics,90.5
+PROD601,Sneakers,Clothing,132.55
+PROD602,Laptop,Electronics,315.0
+PROD603,Microwave,Home,19.5
+PROD604,Headphones,Electronics,74.49
+PROD605,Skirt,Clothing,539.41
+PROD606,T-Shirt,Clothing,101.02
+PROD607,Lipstick,Beauty,1263.8
+PROD608,Face Wash,Beauty,643.24
+PROD609,Lamp,Home,217.29
+PROD610,Moisturizer,Beauty,94.79
+PROD611,Tablet,Electronics,305.8
+PROD612,Headphones,Electronics,41.08
+PROD613,Tennis Racket,Sports,155.84
+PROD614,Jacket,Clothing,410.16
+PROD615,Sneakers,Clothing,350.48
+PROD616,Face Wash,Beauty,216.64
+PROD617,Perfume,Beauty,75.2
+PROD618,Shampoo,Beauty,17.09
+PROD619,Sneakers,Clothing,4.22
+PROD620,Lipstick,Beauty,89.67
+PROD621,Vacuum Cleaner,Home,57.72
+PROD622,Jacket,Clothing,288.26
+PROD623,Skirt,Clothing,37.13
+PROD624,Smartphone,Electronics,1799.69
+PROD625,Headphones,Electronics,367.19
+PROD626,Shirt,Clothing,174.1
+PROD627,Laptop,Electronics,208.23
+PROD628,Conditioner,Beauty,106.21
+PROD629,Moisturizer,Beauty,93.51
+PROD630,Basketball,Sports,409.61
+PROD631,Moisturizer,Beauty,397.5
+PROD632,Shirt,Clothing,65.33
+PROD633,Dumbbells,Sports,83.72
+PROD634,Chair,Home,368.73
+PROD635,Sneakers,Clothing,148.77
+PROD636,Shampoo,Beauty,302.58
+PROD637,Skirt,Clothing,34.76
+PROD638,Moisturizer,Beauty,347.58
+PROD639,Dining Table,Home,43.74
+PROD640,Skirt,Clothing,123.64
+PROD641,Headphones,Electronics,96.8
+PROD642,Headphones,Electronics,64.18
+PROD643,Running Shoes,Sports,1409.68
+PROD644,Sofa,Home,276.06
+PROD645,Camera,Electronics,104.88
+PROD646,Camera,Electronics,552.26
+PROD647,Blender,Home,1510.04
+PROD648,Smartwatch,Electronics,300.19
+PROD649,Cricket Bat,Sports,90.89
+PROD650,Jeans,Clothing,260.15
+PROD651,Shampoo,Beauty,38.72
+PROD652,Chair,Home,178.02
+PROD653,Dumbbells,Sports,388.51
+PROD654,Blender,Home,191.94
+PROD655,Shirt,Clothing,48.2
+PROD656,Dining Table,Home,25.98
+PROD657,Nail Polish,Beauty,391.53
+PROD658,Dumbbells,Sports,455.29
+PROD659,Lamp,Home,1137.99
+PROD660,Foundation,Beauty,207.28
+PROD661,Refrigerator,Home,324.54
+PROD662,Shampoo,Beauty,206.15
+PROD663,Smartphone,Electronics,1493.98
+PROD664,Sneakers,Clothing,553.36
+PROD665,Vacuum Cleaner,Home,178.28
+PROD666,Tablet,Electronics,638.11
+PROD667,Blender,Home,225.32
+PROD668,Basketball,Sports,133.5
+PROD669,Football,Sports,213.51
+PROD670,Conditioner,Beauty,185.37
+PROD671,Skirt,Clothing,87.8
+PROD672,Perfume,Beauty,97.78
+PROD673,Dress,Clothing,197.6
+PROD674,Dining Table,Home,532.09
+PROD675,Shirt,Clothing,196.12
+PROD676,Dumbbells,Sports,313.86
+PROD677,T-Shirt,Clothing,417.52
+PROD678,Jeans,Clothing,124.76
+PROD679,Smartwatch,Electronics,90.21
+PROD680,Sneakers,Clothing,277.47
+PROD681,Laptop,Electronics,132.87
+PROD682,Sneakers,Clothing,132.82
+PROD683,Chair,Home,554.08
+PROD684,Shampoo,Beauty,190.43
+PROD685,Tablet,Electronics,228.34
+PROD686,Tennis Racket,Sports,975.01
+PROD687,Conditioner,Beauty,62.15
+PROD688,Shirt,Clothing,537.56
+PROD689,Lamp,Home,472.65
+PROD690,Camera,Electronics,109.16
+PROD691,Bluetooth Speaker,Electronics,261.49
+PROD692,Cricket Bat,Sports,69.48
+PROD693,Shirt,Clothing,1481.71
+PROD694,Hoodie,Clothing,189.21
+PROD695,Face Wash,Beauty,271.14
+PROD696,Camera,Electronics,396.81
+PROD697,Skirt,Clothing,836.76
+PROD698,Lipstick,Beauty,71.96
+PROD699,Shirt,Clothing,1601.28
+PROD700,Perfume,Beauty,582.99
+PROD701,Basketball,Sports,307.14
+PROD702,Shirt,Clothing,193.22
+PROD703,Camera,Electronics,996.56
+PROD704,Microwave,Home,965.67
+PROD705,Dress,Clothing,134.86
+PROD706,T-Shirt,Clothing,59.06
+PROD707,Gaming Console,Electronics,163.78
+PROD708,Dining Table,Home,204.26
+PROD709,Vacuum Cleaner,Home,162.05
+PROD710,Sneakers,Clothing,124.82
+PROD711,Vacuum Cleaner,Home,81.49
+PROD712,Face Wash,Beauty,36.04
+PROD713,Jeans,Clothing,243.55
+PROD714,Tablet,Electronics,428.54
+PROD715,Bluetooth Speaker,Electronics,234.67
+PROD716,Dining Table,Home,142.25
+PROD717,Dress,Clothing,116.18
+PROD718,Sneakers,Clothing,321.74
+PROD719,Smartphone,Electronics,266.97
+PROD720,Bluetooth Speaker,Electronics,283.96
+PROD721,Dress,Clothing,382.28
+PROD722,Cycling Helmet,Sports,217.42
+PROD723,Lipstick,Beauty,57.75
+PROD724,Camera,Electronics,256.45
+PROD725,Tablet,Electronics,300.55
+PROD726,Smartphone,Electronics,75.6
+PROD727,Sofa,Home,1582.47
+PROD728,Microwave,Home,199.61
+PROD729,Moisturizer,Beauty,75.76
+PROD730,Lamp,Home,169.33
+PROD731,Cricket Bat,Sports,279.79
+PROD732,Blender,Home,18.93
+PROD733,Lamp,Home,147.55
+PROD734,Headphones,Electronics,82.68
+PROD735,Vacuum Cleaner,Home,178.63
+PROD736,Shirt,Clothing,22.44
+PROD737,Headphones,Electronics,443.38
+PROD738,Yoga Mat,Sports,189.41
+PROD739,Perfume,Beauty,440.91
+PROD740,Smartwatch,Electronics,944.82
+PROD741,Blender,Home,892.74
+PROD742,Blender,Home,589.28
+PROD743,Jacket,Clothing,233.33
+PROD744,Lipstick,Beauty,168.05
+PROD745,Gaming Console,Electronics,227.34
+PROD746,Lamp,Home,164.42
+PROD747,Tablet,Electronics,577.99
+PROD748,Refrigerator,Home,293.23
+PROD749,Yoga Mat,Sports,188.99
+PROD750,Lipstick,Beauty,904.56
+PROD751,Skirt,Clothing,1220.25
+PROD752,Cycling Helmet,Sports,34.17
+PROD753,Shampoo,Beauty,152.91
+PROD754,Blender,Home,28.96
+PROD755,Jeans,Clothing,167.97
+PROD756,Dress,Clothing,329.43
+PROD757,Lamp,Home,1543.19
+PROD758,Dining Table,Home,524.51
+PROD759,Jacket,Clothing,342.38
+PROD760,Face Wash,Beauty,164.78
+PROD761,Moisturizer,Beauty,159.26
+PROD762,Chair,Home,33.22
+PROD763,Blender,Home,1815.34
+PROD764,Smartwatch,Electronics,17.0
+PROD765,Camera,Electronics,108.08
+PROD766,Jacket,Clothing,18.44
+PROD767,Running Shoes,Sports,330.36
+PROD768,Moisturizer,Beauty,138.99
+PROD769,Laptop,Electronics,45.15
+PROD770,Dining Table,Home,266.24
+PROD771,Lamp,Home,127.91
+PROD772,Perfume,Beauty,49.35
+PROD773,Camera,Electronics,12.69
+PROD774,Skirt,Clothing,55.16
+PROD775,Smartphone,Electronics,228.64
+PROD776,Bluetooth Speaker,Electronics,554.17
+PROD777,Yoga Mat,Sports,559.72
+PROD778,Hoodie,Clothing,319.61
+PROD779,Camera,Electronics,71.54
+PROD780,Jeans,Clothing,36.79
+PROD781,T-Shirt,Clothing,1276.55
+PROD782,Sneakers,Clothing,683.35
+PROD783,Lipstick,Beauty,137.79
+PROD784,Shampoo,Beauty,309.26
+PROD785,Nail Polish,Beauty,43.08
+PROD786,Cricket Bat,Sports,659.12
+PROD787,Shirt,Clothing,177.67
+PROD788,Dress,Clothing,215.02
+PROD789,Face Wash,Beauty,978.5
+PROD790,Chair,Home,180.39
+PROD791,Microwave,Home,275.98
+PROD792,Laptop,Electronics,105.63
+PROD793,Refrigerator,Home,427.02
+PROD794,Microwave,Home,93.14
+PROD795,Dumbbells,Sports,58.61
+PROD796,Jacket,Clothing,261.37
+PROD797,Perfume,Beauty,697.6
+PROD798,Sofa,Home,612.55
+PROD799,Cricket Bat,Sports,150.44
+PROD800,Dumbbells,Sports,118.23
+PROD801,Microwave,Home,1043.23
+PROD802,Cycling Helmet,Sports,619.73
+PROD803,Skirt,Clothing,449.28
+PROD804,Dumbbells,Sports,1181.37
+PROD805,Sneakers,Clothing,56.24
+PROD806,Moisturizer,Beauty,458.76
+PROD807,Yoga Mat,Sports,4.92
+PROD808,Microwave,Home,314.8
+PROD809,Perfume,Beauty,475.45
+PROD810,Bluetooth Speaker,Electronics,224.82
+PROD811,Shampoo,Beauty,187.96
+PROD812,Jacket,Clothing,123.54
+PROD813,Conditioner,Beauty,384.32
+PROD814,Laptop,Electronics,158.27
+PROD815,Face Wash,Beauty,252.11
+PROD816,Face Wash,Beauty,174.23
+PROD817,Blender,Home,150.89
+PROD818,Smartphone,Electronics,169.91
+PROD819,Laptop,Electronics,94.81
+PROD820,Moisturizer,Beauty,168.81
+PROD821,Skirt,Clothing,415.64
+PROD822,Microwave,Home,24.21
+PROD823,Gaming Console,Electronics,132.42
+PROD824,Face Wash,Beauty,177.1
+PROD825,Basketball,Sports,239.59
+PROD826,Smartphone,Electronics,165.39
+PROD827,Cricket Bat,Sports,445.44
+PROD828,Tennis Racket,Sports,562.29
+PROD829,Chair,Home,108.56
+PROD830,Skirt,Clothing,908.4
+PROD831,Smartphone,Electronics,1904.04
+PROD832,Running Shoes,Sports,313.25
+PROD833,Dining Table,Home,174.86
+PROD834,Cricket Bat,Sports,207.22
+PROD835,Sofa,Home,232.51
+PROD836,Lamp,Home,67.19
+PROD837,Lipstick,Beauty,111.88
+PROD838,Running Shoes,Sports,924.05
+PROD839,Basketball,Sports,85.08
+PROD840,Smartwatch,Electronics,179.5
+PROD841,Shirt,Clothing,73.15
+PROD842,Shirt,Clothing,180.64
+PROD843,Conditioner,Beauty,160.41
+PROD844,Conditioner,Beauty,110.39
+PROD845,Hoodie,Clothing,202.22
+PROD846,Microwave,Home,147.21
+PROD847,Running Shoes,Sports,211.08
+PROD848,Face Wash,Beauty,57.73
+PROD849,Jeans,Clothing,786.08
+PROD850,Shampoo,Beauty,77.67
+PROD851,Jeans,Clothing,85.4
+PROD852,Dumbbells,Sports,1165.65
+PROD853,Face Wash,Beauty,49.06
+PROD854,Basketball,Sports,164.98
+PROD855,Vacuum Cleaner,Home,286.43
+PROD856,Chair,Home,83.74
+PROD857,Dumbbells,Sports,196.16
+PROD858,Perfume,Beauty,694.93
+PROD859,Face Wash,Beauty,467.28
+PROD860,Sneakers,Clothing,146.17
+PROD861,Smartwatch,Electronics,41.76
+PROD862,Microwave,Home,111.45
+PROD863,Chair,Home,835.56
+PROD864,Smartphone,Electronics,660.78
+PROD865,Jeans,Clothing,150.11
+PROD866,Smartphone,Electronics,283.26
+PROD867,Lipstick,Beauty,986.68
+PROD868,Yoga Mat,Sports,169.24
+PROD869,Shirt,Clothing,192.21
+PROD870,Perfume,Beauty,27.97
+PROD871,Tennis Racket,Sports,170.74
+PROD872,Vacuum Cleaner,Home,124.97
+PROD873,Perfume,Beauty,78.19
+PROD874,Sofa,Home,301.07
+PROD875,Gaming Console,Electronics,51.81
+PROD876,Conditioner,Beauty,817.55
+PROD877,Tablet,Electronics,470.4
+PROD878,Refrigerator,Home,244.14
+PROD879,Gaming Console,Electronics,95.2
+PROD880,Tennis Racket,Sports,670.66
+PROD881,Lipstick,Beauty,213.06
+PROD882,Blender,Home,36.45
+PROD883,Conditioner,Beauty,3.53
+PROD884,Conditioner,Beauty,1951.85
+PROD885,Dress,Clothing,12.39
+PROD886,Blender,Home,28.48
+PROD887,Dumbbells,Sports,853.97
+PROD888,Tablet,Electronics,149.49
+PROD889,Running Shoes,Sports,46.66
+PROD890,Lipstick,Beauty,130.19
+PROD891,Tablet,Electronics,528.2
+PROD892,Tablet,Electronics,189.18
+PROD893,Refrigerator,Home,45.62
+PROD894,Camera,Electronics,86.53
+PROD895,Dress,Clothing,19.37
+PROD896,Headphones,Electronics,356.89
+PROD897,Basketball,Sports,219.58
+PROD898,Chair,Home,1371.02
+PROD899,Running Shoes,Sports,29.54
+PROD900,Conditioner,Beauty,155.45
+PROD901,Headphones,Electronics,25.49
+PROD902,Cricket Bat,Sports,18.68
+PROD903,Gaming Console,Electronics,1143.02
+PROD904,Running Shoes,Sports,17.62
+PROD905,Foundation,Beauty,167.43
+PROD906,Football,Sports,244.85
+PROD907,Lipstick,Beauty,73.97
+PROD908,Skirt,Clothing,898.76
+PROD909,Refrigerator,Home,209.36
+PROD910,Blender,Home,143.04
+PROD911,Shirt,Clothing,164.34
+PROD912,Blender,Home,188.11
+PROD913,Jeans,Clothing,343.89
+PROD914,Perfume,Beauty,291.77
+PROD915,Gaming Console,Electronics,289.38
+PROD916,Dress,Clothing,184.92
+PROD917,Cricket Bat,Sports,95.6
+PROD918,Tablet,Electronics,12.05
+PROD919,Blender,Home,877.48
+PROD920,Chair,Home,129.11
+PROD921,Chair,Home,699.1
+PROD922,Bluetooth Speaker,Electronics,10.32
+PROD923,Dress,Clothing,196.1
+PROD924,Smartphone,Electronics,173.64
+PROD925,Hoodie,Clothing,206.65
+PROD926,Camera,Electronics,477.57
+PROD927,Skirt,Clothing,68.9
+PROD928,Foundation,Beauty,238.83
+PROD929,Dumbbells,Sports,120.28
+PROD930,Smartwatch,Electronics,880.32
+PROD931,Yoga Mat,Sports,425.19
+PROD932,Jacket,Clothing,436.81
+PROD933,Basketball,Sports,54.65
+PROD934,Shampoo,Beauty,178.57
+PROD935,Shirt,Clothing,18.43
+PROD936,Perfume,Beauty,162.13
+PROD937,Dining Table,Home,215.86
+PROD938,Dumbbells,Sports,448.02
+PROD939,Moisturizer,Beauty,202.23
+PROD940,Perfume,Beauty,412.98
+PROD941,Dumbbells,Sports,187.53
+PROD942,Bluetooth Speaker,Electronics,140.81
+PROD943,Headphones,Electronics,66.97
+PROD944,Microwave,Home,73.09
+PROD945,Dining Table,Home,1326.91
+PROD946,Foundation,Beauty,187.35
+PROD947,Shampoo,Beauty,421.14
+PROD948,Microwave,Home,107.87
+PROD949,Chair,Home,185.96
+PROD950,Basketball,Sports,180.94
+PROD951,Yoga Mat,Sports,138.8
+PROD952,Smartwatch,Electronics,856.16
+PROD953,Face Wash,Beauty,206.67
+PROD954,Tablet,Electronics,175.1
+PROD955,Moisturizer,Beauty,174.92
+PROD956,Smartphone,Electronics,406.39
+PROD957,Laptop,Electronics,190.94
+PROD958,Smartphone,Electronics,453.96
+PROD959,Football,Sports,186.85
+PROD960,Face Wash,Beauty,136.28
+PROD961,Smartphone,Electronics,187.92
+PROD962,Face Wash,Beauty,1779.7
+PROD963,Football,Sports,107.63
+PROD964,Vacuum Cleaner,Home,312.62
+PROD965,Face Wash,Beauty,296.94
+PROD966,Blender,Home,604.99
+PROD967,Microwave,Home,267.93
+PROD968,Skirt,Clothing,452.36
+PROD969,Sneakers,Clothing,890.55
+PROD970,Jacket,Clothing,345.88
+PROD971,Moisturizer,Beauty,104.9
+PROD972,Tennis Racket,Sports,469.38
+PROD973,Running Shoes,Sports,1603.98
+PROD974,Chair,Home,94.71
+PROD975,Sofa,Home,356.64
+PROD976,Perfume,Beauty,1866.7
+PROD977,Moisturizer,Beauty,163.7
+PROD978,Cycling Helmet,Sports,155.82
+PROD979,Refrigerator,Home,106.1
+PROD980,Conditioner,Beauty,1612.53
+PROD981,Camera,Electronics,62.63
+PROD982,Laptop,Electronics,119.67
+PROD983,Dumbbells,Sports,521.39
+PROD984,Foundation,Beauty,206.37
+PROD985,Nail Polish,Beauty,415.32
+PROD986,Headphones,Electronics,591.74
+PROD987,Dress,Clothing,80.74
+PROD988,Nail Polish,Beauty,306.56
+PROD989,Gaming Console,Electronics,355.84
+PROD990,Refrigerator,Home,1830.76
+PROD991,Conditioner,Beauty,160.18
+PROD992,Face Wash,Beauty,617.63
+PROD993,Football,Sports,535.52
+PROD994,Sneakers,Clothing,182.19
+PROD995,Refrigerator,Home,93.02
+PROD996,Dining Table,Home,166.0
+PROD997,Sofa,Home,70.69
+PROD998,Running Shoes,Sports,389.13
+PROD999,Yoga Mat,Sports,775.47
+PROD1000,Smartphone,Electronics,275.37
+PROD1001,Shirt,Clothing,70.36
+PROD1002,Nail Polish,Beauty,584.12
+PROD1003,Moisturizer,Beauty,275.07
+PROD1004,Blender,Home,228.54
+PROD1005,Chair,Home,206.83
+PROD1006,Shampoo,Beauty,164.25
+PROD1007,Dumbbells,Sports,59.56
+PROD1008,Football,Sports,321.07
+PROD1009,Smartphone,Electronics,1727.6
+PROD1010,Perfume,Beauty,636.4
+PROD1011,Shirt,Clothing,3.22
+PROD1012,Dining Table,Home,412.53
+PROD1013,Jacket,Clothing,6.28
+PROD1014,Lipstick,Beauty,220.15
+PROD1015,Shirt,Clothing,386.61
+PROD1016,Jacket,Clothing,133.37
+PROD1017,Smartwatch,Electronics,159.66
+PROD1018,Moisturizer,Beauty,777.63
+PROD1019,Tennis Racket,Sports,160.33
+PROD1020,Lipstick,Beauty,281.82
+PROD1021,Foundation,Beauty,32.79
+PROD1022,Shampoo,Beauty,64.02
+PROD1023,Vacuum Cleaner,Home,219.25
+PROD1024,Headphones,Electronics,240.97
+PROD1025,Lipstick,Beauty,109.65
+PROD1026,Tablet,Electronics,147.48
+PROD1027,Shampoo,Beauty,285.81
+PROD1028,Shirt,Clothing,247.44
+PROD1029,Dumbbells,Sports,392.68
+PROD1030,Smartwatch,Electronics,571.02
+PROD1031,Conditioner,Beauty,193.46
+PROD1032,Chair,Home,212.68
+PROD1033,Hoodie,Clothing,630.94
+PROD1034,Dumbbells,Sports,1649.05
+PROD1035,Vacuum Cleaner,Home,235.74
+PROD1036,Yoga Mat,Sports,280.06
+PROD1037,Chair,Home,407.36
+PROD1038,Football,Sports,15.74
+PROD1039,Gaming Console,Electronics,192.7
+PROD1040,Chair,Home,69.18
+PROD1041,Skirt,Clothing,579.37
+PROD1042,Yoga Mat,Sports,394.58
+PROD1043,Skirt,Clothing,225.37
+PROD1044,Jeans,Clothing,134.1
+PROD1045,Vacuum Cleaner,Home,271.53
+PROD1046,Bluetooth Speaker,Electronics,185.23
+PROD1047,Tablet,Electronics,659.34
+PROD1048,Cricket Bat,Sports,115.48
+PROD1049,Sneakers,Clothing,216.91
+PROD1050,Shirt,Clothing,565.54
+PROD1051,Tennis Racket,Sports,1146.75
+PROD1052,Sneakers,Clothing,308.27
+PROD1053,Football,Sports,35.94
+PROD1054,Tennis Racket,Sports,59.83
+PROD1055,Perfume,Beauty,71.23
+PROD1056,Refrigerator,Home,57.8
+PROD1057,Cycling Helmet,Sports,168.42
+PROD1058,Shirt,Clothing,459.91
+PROD1059,Lamp,Home,553.7
+PROD1060,Dining Table,Home,109.72
+PROD1061,Football,Sports,185.49
+PROD1062,Vacuum Cleaner,Home,120.62
+PROD1063,Smartphone,Electronics,12.13
+PROD1064,Foundation,Beauty,125.67
+PROD1065,Lamp,Home,257.64
+PROD1066,Yoga Mat,Sports,271.11
+PROD1067,Nail Polish,Beauty,163.32
+PROD1068,Dumbbells,Sports,392.26
+PROD1069,Shampoo,Beauty,13.61
+PROD1070,Hoodie,Clothing,216.65
+PROD1071,Sofa,Home,16.71
+PROD1072,Sofa,Home,175.08
+PROD1073,Hoodie,Clothing,14.48
+PROD1074,Dress,Clothing,278.55
+PROD1075,Dining Table,Home,214.18
+PROD1076,Yoga Mat,Sports,230.54
+PROD1077,Jacket,Clothing,389.52
+PROD1078,Dumbbells,Sports,51.37
+PROD1079,Jeans,Clothing,122.69
+PROD1080,Skirt,Clothing,330.62
+PROD1081,Hoodie,Clothing,158.04
+PROD1082,Moisturizer,Beauty,206.38
+PROD1083,Cricket Bat,Sports,79.18
+PROD1084,Dining Table,Home,255.14
+PROD1085,Yoga Mat,Sports,37.3
+PROD1086,Shirt,Clothing,204.47
+PROD1087,Cricket Bat,Sports,67.58
+PROD1088,Football,Sports,120.78
+PROD1089,Running Shoes,Sports,11.14
+PROD1090,Tablet,Electronics,1928.31
+PROD1091,T-Shirt,Clothing,90.22
+PROD1092,Gaming Console,Electronics,571.94
+PROD1093,Refrigerator,Home,294.41
+PROD1094,Moisturizer,Beauty,68.21
+PROD1095,Sneakers,Clothing,134.68
+PROD1096,Chair,Home,295.07
+PROD1097,Football,Sports,168.3
+PROD1098,Yoga Mat,Sports,134.51
+PROD1099,Tennis Racket,Sports,203.05
+PROD1100,Smartphone,Electronics,645.38
+PROD1101,Smartwatch,Electronics,395.81
+PROD1102,T-Shirt,Clothing,326.37
+PROD1103,Shampoo,Beauty,1200.43
+PROD1104,Smartphone,Electronics,772.71
+PROD1105,Jeans,Clothing,23.66
+PROD1106,Skirt,Clothing,285.94
+PROD1107,Sneakers,Clothing,412.26
+PROD1108,Bluetooth Speaker,Electronics,111.59
+PROD1109,Running Shoes,Sports,135.86
+PROD1110,Dumbbells,Sports,652.41
+PROD1111,Sneakers,Clothing,27.29
+PROD1112,Jacket,Clothing,113.52
+PROD1113,Smartphone,Electronics,162.82
+PROD1114,Lamp,Home,12.45
+PROD1115,Skirt,Clothing,105.53
+PROD1116,Skirt,Clothing,177.37
+PROD1117,Laptop,Electronics,236.75
+PROD1118,Dumbbells,Sports,89.84
+PROD1119,Sneakers,Clothing,236.87
+PROD1120,Microwave,Home,485.77
+PROD1121,Yoga Mat,Sports,223.3
+PROD1122,Lamp,Home,141.79
+PROD1123,Basketball,Sports,316.21
+PROD1124,Blender,Home,253.96
+PROD1125,Dining Table,Home,314.54
+PROD1126,Headphones,Electronics,183.6
+PROD1127,Refrigerator,Home,326.2
+PROD1128,Conditioner,Beauty,203.29
+PROD1129,Jeans,Clothing,287.98
+PROD1130,Vacuum Cleaner,Home,1187.15
+PROD1131,Tennis Racket,Sports,41.26
+PROD1132,Shampoo,Beauty,442.11
+PROD1133,Lipstick,Beauty,157.4
+PROD1134,Tennis Racket,Sports,840.86
+PROD1135,Refrigerator,Home,267.94
+PROD1136,Sofa,Home,221.07
+PROD1137,Shirt,Clothing,198.6
+PROD1138,Dumbbells,Sports,1782.82
+PROD1139,Tablet,Electronics,246.91
+PROD1140,Cricket Bat,Sports,41.5
+PROD1141,Cricket Bat,Sports,49.54
+PROD1142,Jacket,Clothing,394.99
+PROD1143,Yoga Mat,Sports,117.48
+PROD1144,Football,Sports,262.89
+PROD1145,Foundation,Beauty,113.64
+PROD1146,Dress,Clothing,871.85
+PROD1147,Laptop,Electronics,470.37
+PROD1148,Cycling Helmet,Sports,349.45
+PROD1149,Perfume,Beauty,246.71
+PROD1150,Skirt,Clothing,219.88
+PROD1151,Vacuum Cleaner,Home,38.9
+PROD1152,Foundation,Beauty,235.66
+PROD1153,Blender,Home,1880.02
+PROD1154,Cricket Bat,Sports,55.52
+PROD1155,Perfume,Beauty,73.02
+PROD1156,T-Shirt,Clothing,1802.85
+PROD1157,Sneakers,Clothing,778.38
+PROD1158,Bluetooth Speaker,Electronics,128.14
+PROD1159,Basketball,Sports,175.21
+PROD1160,Basketball,Sports,178.84
+PROD1161,Dining Table,Home,100.8
+PROD1162,Smartwatch,Electronics,469.18
+PROD1163,Sneakers,Clothing,395.18
+PROD1164,T-Shirt,Clothing,66.9
+PROD1165,Sneakers,Clothing,228.96
+PROD1166,Perfume,Beauty,150.3
+PROD1167,Chair,Home,77.12
+PROD1168,Lamp,Home,72.21
+PROD1169,Camera,Electronics,196.33
+PROD1170,Moisturizer,Beauty,3.79
+PROD1171,Dining Table,Home,106.22
+PROD1172,Nail Polish,Beauty,180.75
+PROD1173,Camera,Electronics,296.92
+PROD1174,Jacket,Clothing,29.5
+PROD1175,Tablet,Electronics,31.86
+PROD1176,Basketball,Sports,145.88
+PROD1177,Camera,Electronics,296.35
+PROD1178,Camera,Electronics,488.66
+PROD1179,Lipstick,Beauty,132.21
+PROD1180,Jacket,Clothing,213.5
+PROD1181,Hoodie,Clothing,160.9
+PROD1182,Lipstick,Beauty,58.81
+PROD1183,Camera,Electronics,211.84
+PROD1184,Sneakers,Clothing,1982.82
+PROD1185,Tennis Racket,Sports,9.93
+PROD1186,Jeans,Clothing,7.25
+PROD1187,Bluetooth Speaker,Electronics,21.48
+PROD1188,Chair,Home,211.96
+PROD1189,Blender,Home,231.71
+PROD1190,Conditioner,Beauty,186.02
+PROD1191,Smartphone,Electronics,437.26
+PROD1192,Perfume,Beauty,139.94
+PROD1193,Smartphone,Electronics,125.24
+PROD1194,Refrigerator,Home,404.7
+PROD1195,Perfume,Beauty,141.68
+PROD1196,Cricket Bat,Sports,297.66
+PROD1197,Football,Sports,36.92
+PROD1198,Cycling Helmet,Sports,11.28
+PROD1199,Cricket Bat,Sports,62.25
+PROD1200,Foundation,Beauty,317.92
+PROD1201,Face Wash,Beauty,273.87
+PROD1202,Laptop,Electronics,408.29
+PROD1203,Sofa,Home,168.28
+PROD1204,Yoga Mat,Sports,365.91
+PROD1205,Shirt,Clothing,54.74
+PROD1206,Perfume,Beauty,343.61
+PROD1207,Perfume,Beauty,144.61
+PROD1208,Cricket Bat,Sports,232.44
+PROD1209,Bluetooth Speaker,Electronics,379.58
+PROD1210,Refrigerator,Home,95.69
+PROD1211,Running Shoes,Sports,349.76
+PROD1212,Hoodie,Clothing,9.35
+PROD1213,Skirt,Clothing,869.42
+PROD1214,Smartwatch,Electronics,328.95
+PROD1215,Yoga Mat,Sports,204.01
+PROD1216,Lipstick,Beauty,246.98
+PROD1217,T-Shirt,Clothing,324.78
+PROD1218,Lipstick,Beauty,288.74
+PROD1219,Jacket,Clothing,259.66
+PROD1220,Microwave,Home,93.98
+PROD1221,Yoga Mat,Sports,617.67
+PROD1222,Football,Sports,208.08
+PROD1223,Refrigerator,Home,352.3
+PROD1224,Yoga Mat,Sports,1129.55
+PROD1225,Running Shoes,Sports,578.42
+PROD1226,Smartphone,Electronics,179.48
+PROD1227,Sofa,Home,157.13
+PROD1228,Dumbbells,Sports,21.02
+PROD1229,Shampoo,Beauty,251.82
+PROD1230,Hoodie,Clothing,158.76
+PROD1231,Gaming Console,Electronics,384.21
+PROD1232,Sofa,Home,456.94
+PROD1233,Blender,Home,60.37
+PROD1234,Headphones,Electronics,88.97
+PROD1235,Tennis Racket,Sports,110.67
+PROD1236,Shampoo,Beauty,791.7
+PROD1237,Cycling Helmet,Sports,811.8
+PROD1238,Sneakers,Clothing,71.4
+PROD1239,Smartwatch,Electronics,164.17
+PROD1240,Skirt,Clothing,439.94
+PROD1241,Shirt,Clothing,156.82
+PROD1242,Running Shoes,Sports,62.14
+PROD1243,Jacket,Clothing,34.67
+PROD1244,Skirt,Clothing,1707.78
+PROD1245,Moisturizer,Beauty,264.01
+PROD1246,T-Shirt,Clothing,87.51
+PROD1247,Conditioner,Beauty,243.13
+PROD1248,Bluetooth Speaker,Electronics,880.36
+PROD1249,Lamp,Home,793.56
+PROD1250,Lipstick,Beauty,100.04
+PROD1251,Moisturizer,Beauty,207.64
+PROD1252,Laptop,Electronics,96.98
+PROD1253,Conditioner,Beauty,149.0
+PROD1254,Laptop,Electronics,451.57
+PROD1255,Smartphone,Electronics,292.96
+PROD1256,Jeans,Clothing,1825.62
+PROD1257,Skirt,Clothing,152.66
+PROD1258,Football,Sports,190.72
+PROD1259,Cycling Helmet,Sports,632.95
+PROD1260,Dumbbells,Sports,181.65
+PROD1261,Vacuum Cleaner,Home,109.38
+PROD1262,Chair,Home,159.55
+PROD1263,Face Wash,Beauty,688.6
+PROD1264,Refrigerator,Home,232.71
+PROD1265,Smartphone,Electronics,266.97
+PROD1266,T-Shirt,Clothing,21.76
+PROD1267,Hoodie,Clothing,845.1
+PROD1268,Shampoo,Beauty,162.4
+PROD1269,Bluetooth Speaker,Electronics,168.82
+PROD1270,Foundation,Beauty,51.61
+PROD1271,Jacket,Clothing,257.69
+PROD1272,Skirt,Clothing,90.01
+PROD1273,Lamp,Home,8.45
+PROD1274,Skirt,Clothing,135.26
+PROD1275,Dumbbells,Sports,435.92
+PROD1276,Dumbbells,Sports,186.66
+PROD1277,Cycling Helmet,Sports,60.8
+PROD1278,Skirt,Clothing,52.29
+PROD1279,Football,Sports,325.42
+PROD1280,Nail Polish,Beauty,204.08
+PROD1281,Vacuum Cleaner,Home,236.78
+PROD1282,Chair,Home,920.25
+PROD1283,Lamp,Home,248.76
+PROD1284,Cricket Bat,Sports,44.12
+PROD1285,Jacket,Clothing,1330.98
+PROD1286,Sneakers,Clothing,65.75
+PROD1287,Tablet,Electronics,573.06
+PROD1288,Lamp,Home,384.45
+PROD1289,Face Wash,Beauty,61.45
+PROD1290,Gaming Console,Electronics,476.48
+PROD1291,Football,Sports,542.87
+PROD1292,Foundation,Beauty,491.48
+PROD1293,Sneakers,Clothing,309.37
+PROD1294,Skirt,Clothing,4.8
+PROD1295,Lipstick,Beauty,247.22
+PROD1296,Shampoo,Beauty,121.04
+PROD1297,Perfume,Beauty,146.91
+PROD1298,Cycling Helmet,Sports,1319.96
+PROD1299,Running Shoes,Sports,84.26
+PROD1300,Gaming Console,Electronics,313.24
+PROD1301,Laptop,Electronics,261.8
+PROD1302,Tennis Racket,Sports,366.08
+PROD1303,Refrigerator,Home,302.55
+PROD1304,Lipstick,Beauty,72.5
+PROD1305,Running Shoes,Sports,1194.42
+PROD1306,Moisturizer,Beauty,136.82
+PROD1307,Headphones,Electronics,1491.08
+PROD1308,Tennis Racket,Sports,175.08
+PROD1309,Skirt,Clothing,446.47
+PROD1310,Headphones,Electronics,204.18
+PROD1311,Chair,Home,964.5
+PROD1312,Shirt,Clothing,134.3
+PROD1313,Smartwatch,Electronics,228.67
+PROD1314,Smartphone,Electronics,360.22
+PROD1315,Vacuum Cleaner,Home,99.05
+PROD1316,Smartphone,Electronics,212.47
+PROD1317,Vacuum Cleaner,Home,14.12
+PROD1318,Running Shoes,Sports,258.37
+PROD1319,Tennis Racket,Sports,141.45
+PROD1320,Moisturizer,Beauty,52.81
+PROD1321,Chair,Home,169.81
+PROD1322,Laptop,Electronics,111.99
+PROD1323,Lipstick,Beauty,564.3
+PROD1324,Face Wash,Beauty,244.71
+PROD1325,Dumbbells,Sports,603.87
+PROD1326,Foundation,Beauty,232.11
+PROD1327,Microwave,Home,50.52
+PROD1328,Cycling Helmet,Sports,407.04
+PROD1329,Moisturizer,Beauty,212.92
+PROD1330,Conditioner,Beauty,119.35
+PROD1331,Smartphone,Electronics,36.75
+PROD1332,Basketball,Sports,113.88
+PROD1333,Dumbbells,Sports,168.95
+PROD1334,Hoodie,Clothing,9.9
+PROD1335,Dining Table,Home,200.24
+PROD1336,Lipstick,Beauty,45.59
+PROD1337,Sneakers,Clothing,42.19
+PROD1338,Foundation,Beauty,198.73
+PROD1339,T-Shirt,Clothing,339.6
+PROD1340,Sneakers,Clothing,72.73
+PROD1341,Microwave,Home,215.41
+PROD1342,Smartwatch,Electronics,91.74
+PROD1343,Bluetooth Speaker,Electronics,57.28
+PROD1344,Tablet,Electronics,155.31
+PROD1345,Dress,Clothing,776.04
+PROD1346,Blender,Home,269.9
+PROD1347,Moisturizer,Beauty,224.54
+PROD1348,Tennis Racket,Sports,211.38
+PROD1349,Lamp,Home,64.8
+PROD1350,Hoodie,Clothing,189.04
+PROD1351,Smartwatch,Electronics,309.54
+PROD1352,Running Shoes,Sports,221.26
+PROD1353,Conditioner,Beauty,235.28
+PROD1354,Sneakers,Clothing,1010.74
+PROD1355,Yoga Mat,Sports,38.46
+PROD1356,Dress,Clothing,38.54
+PROD1357,Laptop,Electronics,373.1
+PROD1358,Tablet,Electronics,150.26
+PROD1359,Nail Polish,Beauty,183.51
+PROD1360,Jeans,Clothing,348.89
+PROD1361,Football,Sports,113.81
+PROD1362,Sneakers,Clothing,25.64
+PROD1363,Perfume,Beauty,66.08
+PROD1364,Blender,Home,177.6
+PROD1365,Moisturizer,Beauty,408.87
+PROD1366,Cricket Bat,Sports,86.47
+PROD1367,Yoga Mat,Sports,615.92
+PROD1368,Conditioner,Beauty,662.46
+PROD1369,Blender,Home,490.33
+PROD1370,Blender,Home,379.99
+PROD1371,Football,Sports,260.34
+PROD1372,Sofa,Home,223.82
+PROD1373,Chair,Home,268.72
+PROD1374,Running Shoes,Sports,142.76
+PROD1375,Shampoo,Beauty,118.26
+PROD1376,Jeans,Clothing,166.92
+PROD1377,Jacket,Clothing,1356.12
+PROD1378,Skirt,Clothing,328.73
+PROD1379,Foundation,Beauty,38.73
+PROD1380,T-Shirt,Clothing,201.67
+PROD1381,Football,Sports,8.3
+PROD1382,Football,Sports,130.65
+PROD1383,Tennis Racket,Sports,299.8
+PROD1384,Smartwatch,Electronics,321.99
+PROD1385,Dumbbells,Sports,409.8
+PROD1386,Dress,Clothing,119.69
+PROD1387,Perfume,Beauty,632.36
+PROD1388,Moisturizer,Beauty,332.94
+PROD1389,Microwave,Home,378.98
+PROD1390,Dining Table,Home,601.94
+PROD1391,Tablet,Electronics,76.39
+PROD1392,Lamp,Home,247.03
+PROD1393,Sneakers,Clothing,215.7
+PROD1394,Laptop,Electronics,474.15
+PROD1395,Yoga Mat,Sports,6.64
+PROD1396,Face Wash,Beauty,757.47
+PROD1397,Cycling Helmet,Sports,384.35
+PROD1398,Blender,Home,252.19
+PROD1399,Cricket Bat,Sports,561.99
+PROD1400,Cricket Bat,Sports,156.84
+PROD1401,Conditioner,Beauty,948.96
+PROD1402,Football,Sports,217.24
+PROD1403,Conditioner,Beauty,197.39
+PROD1404,Moisturizer,Beauty,99.21
+PROD1405,Dumbbells,Sports,176.86
+PROD1406,Microwave,Home,259.64
+PROD1407,Hoodie,Clothing,581.93
+PROD1408,Dining Table,Home,297.19
+PROD1409,Microwave,Home,349.74
+PROD1410,Jacket,Clothing,603.4
+PROD1411,Football,Sports,88.5
+PROD1412,Laptop,Electronics,144.34
+PROD1413,Bluetooth Speaker,Electronics,927.7
+PROD1414,Laptop,Electronics,3.64
+PROD1415,Camera,Electronics,98.84
+PROD1416,Sneakers,Clothing,121.81
+PROD1417,Nail Polish,Beauty,204.64
+PROD1418,Perfume,Beauty,168.35
+PROD1419,Perfume,Beauty,240.51
+PROD1420,Jeans,Clothing,13.55
+PROD1421,Smartwatch,Electronics,352.52
+PROD1422,Headphones,Electronics,640.56
+PROD1423,Jeans,Clothing,212.95
+PROD1424,T-Shirt,Clothing,161.64
+PROD1425,Dress,Clothing,144.78
+PROD1426,Tennis Racket,Sports,222.44
+PROD1427,Gaming Console,Electronics,29.69
+PROD1428,Microwave,Home,101.16
+PROD1429,Bluetooth Speaker,Electronics,167.51
+PROD1430,Perfume,Beauty,108.05
+PROD1431,Face Wash,Beauty,332.43
+PROD1432,Yoga Mat,Sports,680.64
+PROD1433,Cricket Bat,Sports,255.08
+PROD1434,Microwave,Home,114.89
+PROD1435,Sneakers,Clothing,192.6
+PROD1436,Smartwatch,Electronics,138.94
+PROD1437,Football,Sports,1427.64
+PROD1438,T-Shirt,Clothing,24.99
+PROD1439,Headphones,Electronics,61.64
+PROD1440,Football,Sports,537.06
+PROD1441,Face Wash,Beauty,212.08
+PROD1442,Jeans,Clothing,243.58
+PROD1443,Bluetooth Speaker,Electronics,992.4
+PROD1444,Sneakers,Clothing,610.13
+PROD1445,Nail Polish,Beauty,61.51
+PROD1446,Dining Table,Home,699.76
+PROD1447,Camera,Electronics,1111.66
+PROD1448,Running Shoes,Sports,43.79
+PROD1449,Smartwatch,Electronics,27.02
+PROD1450,Cricket Bat,Sports,124.78
+PROD1451,Cricket Bat,Sports,169.03
+PROD1452,T-Shirt,Clothing,133.46
+PROD1453,Football,Sports,4.87
+PROD1454,Conditioner,Beauty,526.33
+PROD1455,Dumbbells,Sports,654.83
+PROD1456,Perfume,Beauty,328.15
+PROD1457,Sneakers,Clothing,106.11
+PROD1458,Dining Table,Home,102.14
+PROD1459,Basketball,Sports,194.13
+PROD1460,Dumbbells,Sports,193.65
+PROD1461,Perfume,Beauty,35.03
+PROD1462,Refrigerator,Home,30.41
+PROD1463,Cricket Bat,Sports,375.98
+PROD1464,Cricket Bat,Sports,289.06
+PROD1465,Conditioner,Beauty,124.07
+PROD1466,Bluetooth Speaker,Electronics,563.9
+PROD1467,Sofa,Home,198.64
+PROD1468,Conditioner,Beauty,248.56
+PROD1469,Perfume,Beauty,218.97
+PROD1470,Running Shoes,Sports,915.31
+PROD1471,Skirt,Clothing,323.13
+PROD1472,Vacuum Cleaner,Home,50.14
+PROD1473,Dress,Clothing,1991.63
+PROD1474,Dumbbells,Sports,382.55
+PROD1475,Chair,Home,29.84
+PROD1476,Bluetooth Speaker,Electronics,140.01
+PROD1477,Camera,Electronics,32.62
+PROD1478,Foundation,Beauty,529.1
+PROD1479,Cycling Helmet,Sports,10.29
+PROD1480,Hoodie,Clothing,142.15
+PROD1481,Smartwatch,Electronics,145.91
+PROD1482,Hoodie,Clothing,105.25
+PROD1483,Blender,Home,97.62
+PROD1484,Gaming Console,Electronics,214.28
+PROD1485,Headphones,Electronics,203.87
+PROD1486,Sneakers,Clothing,104.25
+PROD1487,Face Wash,Beauty,42.2
+PROD1488,Perfume,Beauty,417.98
+PROD1489,Camera,Electronics,115.36
+PROD1490,Dining Table,Home,51.56
+PROD1491,T-Shirt,Clothing,201.74
+PROD1492,Shirt,Clothing,5.47
+PROD1493,Microwave,Home,90.05
+PROD1494,Jeans,Clothing,96.8
+PROD1495,Sneakers,Clothing,242.91
+PROD1496,Smartwatch,Electronics,346.43
+PROD1497,Dress,Clothing,272.76
+PROD1498,Yoga Mat,Sports,125.7
+PROD1499,Foundation,Beauty,71.6
+PROD1500,Running Shoes,Sports,182.98
+PROD1501,Face Wash,Beauty,45.81
+PROD1502,Bluetooth Speaker,Electronics,221.45
+PROD1503,Lipstick,Beauty,185.94
+PROD1504,Jacket,Clothing,842.3
+PROD1505,Skirt,Clothing,1871.19
+PROD1506,Camera,Electronics,618.69
+PROD1507,Cricket Bat,Sports,165.97
+PROD1508,Smartphone,Electronics,241.95
+PROD1509,Basketball,Sports,207.24
+PROD1510,Gaming Console,Electronics,428.21
+PROD1511,Refrigerator,Home,224.13
+PROD1512,Moisturizer,Beauty,77.19
+PROD1513,Tennis Racket,Sports,64.16
+PROD1514,Dining Table,Home,618.94
+PROD1515,Dumbbells,Sports,86.78
+PROD1516,Sofa,Home,266.0
+PROD1517,Laptop,Electronics,195.92
+PROD1518,Shirt,Clothing,136.75
+PROD1519,Smartwatch,Electronics,7.43
+PROD1520,Microwave,Home,691.59
+PROD1521,Sofa,Home,500.26
+PROD1522,Sofa,Home,221.95
+PROD1523,Running Shoes,Sports,381.19
+PROD1524,Smartwatch,Electronics,255.16
+PROD1525,Lipstick,Beauty,197.79
+PROD1526,Face Wash,Beauty,147.52
+PROD1527,Perfume,Beauty,65.92
+PROD1528,Refrigerator,Home,949.4
+PROD1529,Camera,Electronics,1629.13
+PROD1530,Shirt,Clothing,110.64
+PROD1531,Running Shoes,Sports,119.46
+PROD1532,Vacuum Cleaner,Home,258.65
+PROD1533,Jeans,Clothing,690.54
+PROD1534,Sneakers,Clothing,68.17
+PROD1535,Yoga Mat,Sports,172.68
+PROD1536,Sofa,Home,330.61
+PROD1537,Sofa,Home,71.44
+PROD1538,Hoodie,Clothing,253.84
+PROD1539,Tennis Racket,Sports,309.98
+PROD1540,Refrigerator,Home,879.8
+PROD1541,Running Shoes,Sports,50.77
+PROD1542,Sofa,Home,542.24
+PROD1543,Conditioner,Beauty,54.93
+PROD1544,Jeans,Clothing,184.96
+PROD1545,Shirt,Clothing,144.7
+PROD1546,Lipstick,Beauty,622.99
+PROD1547,Shampoo,Beauty,175.45
+PROD1548,Running Shoes,Sports,212.73
+PROD1549,Yoga Mat,Sports,119.35
+PROD1550,Shirt,Clothing,151.31
+PROD1551,Foundation,Beauty,445.52
+PROD1552,Smartphone,Electronics,1700.0
+PROD1553,Hoodie,Clothing,22.68
+PROD1554,Tennis Racket,Sports,20.48
+PROD1555,Hoodie,Clothing,169.2
+PROD1556,Moisturizer,Beauty,167.54
+PROD1557,Camera,Electronics,111.39
+PROD1558,Moisturizer,Beauty,188.9
+PROD1559,Smartwatch,Electronics,324.54
+PROD1560,Cycling Helmet,Sports,62.99
+PROD1561,Jeans,Clothing,471.05
+PROD1562,Camera,Electronics,23.01
+PROD1563,Headphones,Electronics,115.09
+PROD1564,Blender,Home,1588.58
+PROD1565,Moisturizer,Beauty,130.33
+PROD1566,Lamp,Home,12.04
+PROD1567,Refrigerator,Home,246.03
+PROD1568,T-Shirt,Clothing,908.2
+PROD1569,Moisturizer,Beauty,150.0
+PROD1570,Shirt,Clothing,142.08
+PROD1571,Microwave,Home,379.56
+PROD1572,Nail Polish,Beauty,102.98
+PROD1573,Headphones,Electronics,253.18
+PROD1574,T-Shirt,Clothing,194.77
+PROD1575,Yoga Mat,Sports,684.85
+PROD1576,Sofa,Home,79.84
+PROD1577,Dumbbells,Sports,59.01
+PROD1578,Nail Polish,Beauty,291.0
+PROD1579,Cricket Bat,Sports,159.4
+PROD1580,Sneakers,Clothing,755.57
+PROD1581,Foundation,Beauty,191.24
+PROD1582,Skirt,Clothing,161.58
+PROD1583,Jeans,Clothing,15.82
+PROD1584,Microwave,Home,796.22
+PROD1585,Jeans,Clothing,205.61
+PROD1586,Microwave,Home,271.7
+PROD1587,Smartphone,Electronics,46.96
+PROD1588,Sofa,Home,1221.69
+PROD1589,Conditioner,Beauty,423.54
+PROD1590,Foundation,Beauty,179.2
+PROD1591,Smartwatch,Electronics,37.03
+PROD1592,Bluetooth Speaker,Electronics,118.63
+PROD1593,Cricket Bat,Sports,259.76
+PROD1594,T-Shirt,Clothing,169.48
+PROD1595,Smartphone,Electronics,99.51
+PROD1596,Dining Table,Home,1615.8
+PROD1597,Refrigerator,Home,1785.74
+PROD1598,Tennis Racket,Sports,83.28
+PROD1599,Lipstick,Beauty,43.76
+PROD1600,Vacuum Cleaner,Home,415.22
+PROD1601,Cycling Helmet,Sports,261.32
+PROD1602,Bluetooth Speaker,Electronics,266.39
+PROD1603,Shampoo,Beauty,132.31
+PROD1604,Laptop,Electronics,384.68
+PROD1605,Dumbbells,Sports,1914.38
+PROD1606,Skirt,Clothing,679.41
+PROD1607,Conditioner,Beauty,145.38
+PROD1608,Chair,Home,219.08
+PROD1609,Dumbbells,Sports,90.87
+PROD1610,Smartphone,Electronics,36.01
+PROD1611,Bluetooth Speaker,Electronics,388.06
+PROD1612,Laptop,Electronics,81.82
+PROD1613,Moisturizer,Beauty,107.4
+PROD1614,Conditioner,Beauty,656.65
+PROD1615,Dumbbells,Sports,213.07
+PROD1616,Sneakers,Clothing,259.9
+PROD1617,Moisturizer,Beauty,1499.25
+PROD1618,Laptop,Electronics,161.93
+PROD1619,Jacket,Clothing,229.55
+PROD1620,Jeans,Clothing,298.18
+PROD1621,Foundation,Beauty,1299.21
+PROD1622,Hoodie,Clothing,172.69
+PROD1623,Cycling Helmet,Sports,479.12
+PROD1624,Smartwatch,Electronics,140.61
+PROD1625,Lipstick,Beauty,208.33
+PROD1626,Cricket Bat,Sports,100.62
+PROD1627,Football,Sports,6.64
+PROD1628,Camera,Electronics,131.34
+PROD1629,Camera,Electronics,1092.39
+PROD1630,Dumbbells,Sports,409.65
+PROD1631,Lamp,Home,155.73
+PROD1632,Cricket Bat,Sports,226.08
+PROD1633,Laptop,Electronics,1695.0
+PROD1634,Dress,Clothing,100.53
+PROD1635,Microwave,Home,751.06
+PROD1636,Vacuum Cleaner,Home,454.17
+PROD1637,Headphones,Electronics,299.3
+PROD1638,Perfume,Beauty,234.74
+PROD1639,Sofa,Home,221.69
+PROD1640,Sofa,Home,744.56
+PROD1641,T-Shirt,Clothing,400.07
+PROD1642,Tablet,Electronics,390.99
+PROD1643,Lipstick,Beauty,111.28
+PROD1644,Hoodie,Clothing,260.36
+PROD1645,Face Wash,Beauty,228.34
+PROD1646,Sofa,Home,149.01
+PROD1647,Shampoo,Beauty,602.62
+PROD1648,Foundation,Beauty,323.71
+PROD1649,Sneakers,Clothing,204.33
+PROD1650,Laptop,Electronics,271.08
+PROD1651,Football,Sports,153.01
+PROD1652,Dumbbells,Sports,230.35
+PROD1653,Tennis Racket,Sports,67.11
+PROD1654,Laptop,Electronics,17.4
+PROD1655,Smartwatch,Electronics,697.2
+PROD1656,Yoga Mat,Sports,976.01
+PROD1657,Lipstick,Beauty,240.13
+PROD1658,Dress,Clothing,81.84
+PROD1659,Running Shoes,Sports,126.39
+PROD1660,Shirt,Clothing,50.66
+PROD1661,Laptop,Electronics,1034.24
+PROD1662,Dining Table,Home,43.76
+PROD1663,Lipstick,Beauty,85.89
+PROD1664,Lipstick,Beauty,271.63
+PROD1665,Nail Polish,Beauty,8.14
+PROD1666,Hoodie,Clothing,594.86
+PROD1667,Jeans,Clothing,170.65
+PROD1668,Camera,Electronics,358.17
+PROD1669,Shampoo,Beauty,623.62
+PROD1670,Sofa,Home,666.92
+PROD1671,Chair,Home,240.82
+PROD1672,Face Wash,Beauty,72.58
+PROD1673,Nail Polish,Beauty,86.11
+PROD1674,Perfume,Beauty,28.47
+PROD1675,Football,Sports,501.52
+PROD1676,Laptop,Electronics,916.46
+PROD1677,Skirt,Clothing,339.31
+PROD1678,Microwave,Home,589.66
+PROD1679,Moisturizer,Beauty,214.73
+PROD1680,Cycling Helmet,Sports,913.56
+PROD1681,Foundation,Beauty,515.65
+PROD1682,Football,Sports,67.77
+PROD1683,Lipstick,Beauty,485.61
+PROD1684,Perfume,Beauty,176.45
+PROD1685,Blender,Home,8.27
+PROD1686,Conditioner,Beauty,407.74
+PROD1687,Foundation,Beauty,348.65
+PROD1688,Foundation,Beauty,123.75
+PROD1689,Cycling Helmet,Sports,187.84
+PROD1690,Jacket,Clothing,204.11
+PROD1691,Blender,Home,130.04
+PROD1692,Face Wash,Beauty,328.35
+PROD1693,Yoga Mat,Sports,181.01
+PROD1694,T-Shirt,Clothing,20.16
+PROD1695,Camera,Electronics,198.39
+PROD1696,Football,Sports,193.9
+PROD1697,Skirt,Clothing,413.8
+PROD1698,Dress,Clothing,341.64
+PROD1699,Foundation,Beauty,388.6
+PROD1700,Laptop,Electronics,187.87
+PROD1701,Microwave,Home,618.99
+PROD1702,Face Wash,Beauty,1155.2
+PROD1703,Lamp,Home,82.63
+PROD1704,Sofa,Home,262.1
+PROD1705,Tablet,Electronics,738.66
+PROD1706,Sofa,Home,2.91
+PROD1707,Basketball,Sports,486.08
+PROD1708,Dining Table,Home,62.6
+PROD1709,Tablet,Electronics,522.52
+PROD1710,Basketball,Sports,30.67
+PROD1711,Jacket,Clothing,224.96
+PROD1712,Cycling Helmet,Sports,2.85
+PROD1713,Headphones,Electronics,571.46
+PROD1714,Tablet,Electronics,558.66
+PROD1715,Blender,Home,34.92
+PROD1716,Vacuum Cleaner,Home,316.57
+PROD1717,Lamp,Home,243.66
+PROD1718,Sneakers,Clothing,158.84
+PROD1719,Shirt,Clothing,30.74
+PROD1720,Bluetooth Speaker,Electronics,793.8
+PROD1721,Conditioner,Beauty,292.99
+PROD1722,Moisturizer,Beauty,341.04
+PROD1723,Gaming Console,Electronics,205.75
+PROD1724,Gaming Console,Electronics,126.42
+PROD1725,Nail Polish,Beauty,205.06
+PROD1726,Microwave,Home,87.18
+PROD1727,Bluetooth Speaker,Electronics,40.23
+PROD1728,Sneakers,Clothing,375.8
+PROD1729,Nail Polish,Beauty,277.5
+PROD1730,Sofa,Home,122.48
+PROD1731,Jeans,Clothing,114.92
+PROD1732,Vacuum Cleaner,Home,292.53
+PROD1733,Smartwatch,Electronics,239.23
+PROD1734,Foundation,Beauty,120.66
+PROD1735,Yoga Mat,Sports,129.0
+PROD1736,Tennis Racket,Sports,184.41
+PROD1737,Skirt,Clothing,90.24
+PROD1738,Jacket,Clothing,135.02
+PROD1739,Tablet,Electronics,73.1
+PROD1740,Bluetooth Speaker,Electronics,314.7
+PROD1741,Moisturizer,Beauty,195.83
+PROD1742,Skirt,Clothing,226.27
+PROD1743,Sneakers,Clothing,486.7
+PROD1744,Lipstick,Beauty,588.03
+PROD1745,Hoodie,Clothing,841.79
+PROD1746,Lamp,Home,151.42
+PROD1747,Skirt,Clothing,263.28
+PROD1748,Nail Polish,Beauty,129.67
+PROD1749,Hoodie,Clothing,1735.82
+PROD1750,Vacuum Cleaner,Home,89.49
+PROD1751,Chair,Home,84.45
+PROD1752,Shampoo,Beauty,101.16
+PROD1753,Perfume,Beauty,274.23
+PROD1754,Tennis Racket,Sports,62.25
+PROD1755,Chair,Home,323.67
+PROD1756,Refrigerator,Home,960.43
+PROD1757,Dumbbells,Sports,16.74
+PROD1758,Nail Polish,Beauty,202.24
+PROD1759,Nail Polish,Beauty,143.16
+PROD1760,Dumbbells,Sports,1785.86
+PROD1761,Jacket,Clothing,328.43
+PROD1762,Skirt,Clothing,298.07
+PROD1763,T-Shirt,Clothing,506.96
+PROD1764,T-Shirt,Clothing,234.68
+PROD1765,Basketball,Sports,346.97
+PROD1766,Smartwatch,Electronics,347.84
+PROD1767,Chair,Home,121.64
+PROD1768,Jeans,Clothing,323.96
+PROD1769,Cycling Helmet,Sports,171.03
+PROD1770,Nail Polish,Beauty,46.66
+PROD1771,Smartwatch,Electronics,87.07
+PROD1772,Smartphone,Electronics,169.39
+PROD1773,Football,Sports,206.04
+PROD1774,Sneakers,Clothing,131.98
+PROD1775,Tablet,Electronics,22.25
+PROD1776,Jeans,Clothing,124.98
+PROD1777,Vacuum Cleaner,Home,265.51
+PROD1778,Jacket,Clothing,219.54
+PROD1779,Laptop,Electronics,255.15
+PROD1780,Nail Polish,Beauty,264.99
+PROD1781,Skirt,Clothing,253.66
+PROD1782,Shirt,Clothing,215.04
+PROD1783,Laptop,Electronics,1226.37
+PROD1784,Sneakers,Clothing,31.81
+PROD1785,Skirt,Clothing,966.86
+PROD1786,Smartphone,Electronics,196.24
+PROD1787,Sneakers,Clothing,279.32
+PROD1788,Blender,Home,125.73
+PROD1789,Smartwatch,Electronics,480.9
+PROD1790,Shirt,Clothing,359.75
+PROD1791,Sneakers,Clothing,159.41
+PROD1792,Chair,Home,623.01
+PROD1793,Shirt,Clothing,171.77
+PROD1794,Dress,Clothing,140.03
+PROD1795,Sneakers,Clothing,222.75
+PROD1796,Bluetooth Speaker,Electronics,867.89
+PROD1797,Skirt,Clothing,426.44
+PROD1798,Refrigerator,Home,274.02
+PROD1799,Perfume,Beauty,222.6
+PROD1800,Tablet,Electronics,177.18
+PROD1801,Camera,Electronics,506.88
+PROD1802,Laptop,Electronics,142.16
+PROD1803,Vacuum Cleaner,Home,186.9
+PROD1804,Tennis Racket,Sports,46.03
+PROD1805,Hoodie,Clothing,119.98
+PROD1806,Gaming Console,Electronics,428.32
+PROD1807,Camera,Electronics,434.76
+PROD1808,Smartwatch,Electronics,823.43
+PROD1809,Refrigerator,Home,457.86
+PROD1810,Dining Table,Home,101.26
+PROD1811,Headphones,Electronics,96.22
+PROD1812,Football,Sports,231.8
+PROD1813,Laptop,Electronics,322.05
+PROD1814,Sneakers,Clothing,69.27
+PROD1815,Hoodie,Clothing,1699.62
+PROD1816,Cricket Bat,Sports,260.12
+PROD1817,Cricket Bat,Sports,161.93
+PROD1818,Lamp,Home,191.99
+PROD1819,Shirt,Clothing,91.6
+PROD1820,Chair,Home,109.84
+PROD1821,Laptop,Electronics,502.39
+PROD1822,T-Shirt,Clothing,201.65
+PROD1823,Skirt,Clothing,418.77
+PROD1824,Shirt,Clothing,642.34
+PROD1825,Gaming Console,Electronics,935.56
+PROD1826,Basketball,Sports,339.15
+PROD1827,Smartwatch,Electronics,375.92
+PROD1828,Foundation,Beauty,1105.58
+PROD1829,T-Shirt,Clothing,95.07
+PROD1830,Cricket Bat,Sports,166.35
+PROD1831,Football,Sports,476.29
+PROD1832,Football,Sports,498.96
+PROD1833,Moisturizer,Beauty,212.7
+PROD1834,Lipstick,Beauty,1839.2
+PROD1835,Running Shoes,Sports,317.92
+PROD1836,Smartwatch,Electronics,125.84
+PROD1837,Dining Table,Home,53.62
+PROD1838,Bluetooth Speaker,Electronics,223.59
+PROD1839,Sofa,Home,49.19
+PROD1840,Shampoo,Beauty,211.0
+PROD1841,Headphones,Electronics,905.81
+PROD1842,Skirt,Clothing,97.72
+PROD1843,Smartphone,Electronics,410.74
+PROD1844,Hoodie,Clothing,91.62
+PROD1845,Laptop,Electronics,173.84
+PROD1846,Yoga Mat,Sports,255.81
+PROD1847,Nail Polish,Beauty,358.63
+PROD1848,Yoga Mat,Sports,12.28
+PROD1849,Skirt,Clothing,112.04
+PROD1850,Camera,Electronics,1885.06
+PROD1851,Sofa,Home,714.4
+PROD1852,Sneakers,Clothing,277.69
+PROD1853,Laptop,Electronics,108.33
+PROD1854,Headphones,Electronics,1831.4
+PROD1855,Nail Polish,Beauty,524.46
+PROD1856,Shampoo,Beauty,351.58
+PROD1857,Hoodie,Clothing,79.3
+PROD1858,Bluetooth Speaker,Electronics,428.49
+PROD1859,Sofa,Home,63.22
+PROD1860,Perfume,Beauty,137.12
+PROD1861,Football,Sports,209.09
+PROD1862,Camera,Electronics,294.64
+PROD1863,Skirt,Clothing,147.02
+PROD1864,Cycling Helmet,Sports,327.61
+PROD1865,Bluetooth Speaker,Electronics,823.69
+PROD1866,Skirt,Clothing,20.04
+PROD1867,Hoodie,Clothing,175.23
+PROD1868,Chair,Home,330.08
+PROD1869,Camera,Electronics,240.04
+PROD1870,Headphones,Electronics,3.68
+PROD1871,Lipstick,Beauty,323.89
+PROD1872,Face Wash,Beauty,29.26
+PROD1873,Lipstick,Beauty,119.12
+PROD1874,Laptop,Electronics,156.26
+PROD1875,Gaming Console,Electronics,135.47
+PROD1876,T-Shirt,Clothing,814.81
+PROD1877,Headphones,Electronics,403.86
+PROD1878,Foundation,Beauty,163.55
+PROD1879,T-Shirt,Clothing,75.07
+PROD1880,Headphones,Electronics,118.64
+PROD1881,Microwave,Home,53.37
+PROD1882,Cycling Helmet,Sports,101.28
+PROD1883,Laptop,Electronics,86.01
+PROD1884,Microwave,Home,306.85
+PROD1885,Bluetooth Speaker,Electronics,177.19
+PROD1886,Jacket,Clothing,1804.28
+PROD1887,Sofa,Home,25.63
+PROD1888,Jacket,Clothing,18.2
+PROD1889,Tablet,Electronics,200.74
+PROD1890,Lamp,Home,301.07
+PROD1891,Yoga Mat,Sports,383.59
+PROD1892,Perfume,Beauty,159.88
+PROD1893,Headphones,Electronics,96.74
+PROD1894,Yoga Mat,Sports,147.04
+PROD1895,Chair,Home,67.84
+PROD1896,Laptop,Electronics,488.97
+PROD1897,Conditioner,Beauty,257.6
+PROD1898,Smartphone,Electronics,200.49
+PROD1899,Camera,Electronics,80.9
+PROD1900,Tablet,Electronics,157.67
+PROD1901,Shirt,Clothing,104.98
+PROD1902,Foundation,Beauty,62.9
+PROD1903,Chair,Home,145.29
+PROD1904,Camera,Electronics,858.36
+PROD1905,Football,Sports,821.24
+PROD1906,Blender,Home,165.58
+PROD1907,Headphones,Electronics,93.48
+PROD1908,Sofa,Home,227.54
+PROD1909,Jeans,Clothing,259.94
+PROD1910,Shirt,Clothing,232.0
+PROD1911,Tablet,Electronics,184.92
+PROD1912,Jeans,Clothing,186.91
+PROD1913,Refrigerator,Home,82.59
+PROD1914,Sofa,Home,31.93
+PROD1915,Chair,Home,244.96
+PROD1916,Sofa,Home,79.27
+PROD1917,Dumbbells,Sports,27.61
+PROD1918,Camera,Electronics,30.43
+PROD1919,Sneakers,Clothing,870.22
+PROD1920,Jeans,Clothing,175.59
+PROD1921,Dining Table,Home,362.98
+PROD1922,Face Wash,Beauty,473.31
+PROD1923,Foundation,Beauty,156.06
+PROD1924,Dumbbells,Sports,14.15
+PROD1925,Shirt,Clothing,164.04
+PROD1926,Shampoo,Beauty,206.77
+PROD1927,Shirt,Clothing,972.15
+PROD1928,Shirt,Clothing,33.55
+PROD1929,Conditioner,Beauty,227.4
+PROD1930,Laptop,Electronics,262.56
+PROD1931,Dining Table,Home,388.38
+PROD1932,Gaming Console,Electronics,157.06
+PROD1933,Tennis Racket,Sports,171.09
+PROD1934,Lamp,Home,317.36
+PROD1935,Vacuum Cleaner,Home,613.07
+PROD1936,Skirt,Clothing,87.29
+PROD1937,Shirt,Clothing,90.99
+PROD1938,Chair,Home,291.43
+PROD1939,Basketball,Sports,407.69
+PROD1940,Dress,Clothing,52.8
+PROD1941,Vacuum Cleaner,Home,248.17
+PROD1942,Laptop,Electronics,406.4
+PROD1943,Hoodie,Clothing,49.62
+PROD1944,Headphones,Electronics,194.3
+PROD1945,Smartphone,Electronics,141.25
+PROD1946,Hoodie,Clothing,499.41
+PROD1947,Blender,Home,242.33
+PROD1948,Laptop,Electronics,946.91
+PROD1949,Lamp,Home,411.67
+PROD1950,Moisturizer,Beauty,177.74
+PROD1951,Chair,Home,500.06
+PROD1952,Bluetooth Speaker,Electronics,397.85
+PROD1953,Jacket,Clothing,48.17
+PROD1954,Face Wash,Beauty,205.14
+PROD1955,Shirt,Clothing,168.77
+PROD1956,Sneakers,Clothing,246.43
+PROD1957,T-Shirt,Clothing,292.64
+PROD1958,Shampoo,Beauty,203.28
+PROD1959,Laptop,Electronics,931.8
+PROD1960,Football,Sports,117.18
+PROD1961,Football,Sports,39.66
+PROD1962,Face Wash,Beauty,47.52
+PROD1963,Foundation,Beauty,165.16
+PROD1964,Dumbbells,Sports,28.8
+PROD1965,Hoodie,Clothing,64.24
+PROD1966,Tablet,Electronics,493.6
+PROD1967,Jacket,Clothing,180.2
+PROD1968,Football,Sports,121.43
+PROD1969,Shampoo,Beauty,322.7
+PROD1970,Moisturizer,Beauty,527.36
+PROD1971,Jacket,Clothing,101.44
+PROD1972,Shampoo,Beauty,225.41
+PROD1973,Dress,Clothing,554.73
+PROD1974,Nail Polish,Beauty,641.76
+PROD1975,Jacket,Clothing,116.39
+PROD1976,Dumbbells,Sports,277.09
+PROD1977,Smartphone,Electronics,68.3
+PROD1978,Chair,Home,978.54
+PROD1979,Tennis Racket,Sports,1241.77
+PROD1980,Headphones,Electronics,394.54
+PROD1981,Smartwatch,Electronics,5.39
+PROD1982,Yoga Mat,Sports,120.41
+PROD1983,Yoga Mat,Sports,124.3
+PROD1984,Nail Polish,Beauty,179.9
+PROD1985,Jeans,Clothing,151.58
+PROD1986,Refrigerator,Home,165.18
+PROD1987,Running Shoes,Sports,65.76
+PROD1988,Dining Table,Home,123.74
+PROD1989,Basketball,Sports,62.2
+PROD1990,Dress,Clothing,10.18
+PROD1991,Dress,Clothing,178.14
+PROD1992,Lipstick,Beauty,821.69
+PROD1993,Tablet,Electronics,166.66
+PROD1994,Dining Table,Home,715.99
+PROD1995,Cricket Bat,Sports,1397.94
+PROD1996,Bluetooth Speaker,Electronics,307.89
+PROD1997,Shirt,Clothing,146.78
+PROD1998,Headphones,Electronics,82.46
+PROD1999,Yoga Mat,Sports,406.43
+PROD2000,Nail Polish,Beauty,871.44
+PROD2001,Running Shoes,Sports,204.5
+PROD2002,Football,Sports,390.24
+PROD2003,Lamp,Home,295.37
+PROD2004,Moisturizer,Beauty,855.07
+PROD2005,T-Shirt,Clothing,1595.97
+PROD2006,Camera,Electronics,139.58
+PROD2007,Camera,Electronics,493.19
+PROD2008,Perfume,Beauty,3.87
+PROD2009,Face Wash,Beauty,646.02
+PROD2010,Foundation,Beauty,331.29
+PROD2011,Lipstick,Beauty,95.93
+PROD2012,Basketball,Sports,243.85
+PROD2013,Lamp,Home,57.06
+PROD2014,Tennis Racket,Sports,248.2
+PROD2015,Tennis Racket,Sports,40.29
+PROD2016,Lamp,Home,294.37
+PROD2017,Jeans,Clothing,103.64
+PROD2018,Lamp,Home,452.0
+PROD2019,Refrigerator,Home,899.63
+PROD2020,Camera,Electronics,219.62
+PROD2021,Conditioner,Beauty,183.35
+PROD2022,Microwave,Home,634.36
+PROD2023,Smartwatch,Electronics,90.04
+PROD2024,Dumbbells,Sports,132.42
+PROD2025,Shampoo,Beauty,369.9
+PROD2026,Football,Sports,193.98
+PROD2027,Sneakers,Clothing,213.98
+PROD2028,Jacket,Clothing,139.2
+PROD2029,Smartwatch,Electronics,429.99
+PROD2030,Camera,Electronics,204.48
+PROD2031,Nail Polish,Beauty,26.95
+PROD2032,Smartwatch,Electronics,22.66
+PROD2033,Shampoo,Beauty,150.86
+PROD2034,Headphones,Electronics,347.74
+PROD2035,Cycling Helmet,Sports,11.42
+PROD2036,Jacket,Clothing,531.15
+PROD2037,Conditioner,Beauty,1339.0
+PROD2038,Gaming Console,Electronics,809.03
+PROD2039,Hoodie,Clothing,423.72
+PROD2040,Bluetooth Speaker,Electronics,72.44
+PROD2041,Bluetooth Speaker,Electronics,156.44
+PROD2042,Jeans,Clothing,158.08
+PROD2043,Nail Polish,Beauty,644.69
+PROD2044,T-Shirt,Clothing,570.25
+PROD2045,Cricket Bat,Sports,267.0
+PROD2046,Face Wash,Beauty,138.42
+PROD2047,Conditioner,Beauty,71.79
+PROD2048,Basketball,Sports,477.46
+PROD2049,Foundation,Beauty,601.04
+PROD2050,Chair,Home,467.71
+PROD2051,Chair,Home,147.14
+PROD2052,Foundation,Beauty,283.39
+PROD2053,Blender,Home,743.56
+PROD2054,Football,Sports,63.1
+PROD2055,Conditioner,Beauty,189.33
+PROD2056,Sofa,Home,365.3
+PROD2057,Sneakers,Clothing,44.94
+PROD2058,Vacuum Cleaner,Home,556.42
+PROD2059,Lipstick,Beauty,103.42
+PROD2060,Conditioner,Beauty,300.08
+PROD2061,Sneakers,Clothing,117.58
+PROD2062,Jacket,Clothing,1685.5
+PROD2063,Gaming Console,Electronics,331.38
+PROD2064,Cricket Bat,Sports,529.98
+PROD2065,Smartphone,Electronics,642.41
+PROD2066,Shampoo,Beauty,118.68
+PROD2067,Face Wash,Beauty,570.81
+PROD2068,Jacket,Clothing,410.67
+PROD2069,Camera,Electronics,21.9
+PROD2070,Headphones,Electronics,239.88
+PROD2071,Dumbbells,Sports,1761.57
+PROD2072,Yoga Mat,Sports,1081.8
+PROD2073,Cricket Bat,Sports,152.49
+PROD2074,Skirt,Clothing,1955.81
+PROD2075,Bluetooth Speaker,Electronics,92.5
+PROD2076,Dining Table,Home,207.01
+PROD2077,Perfume,Beauty,51.21
+PROD2078,Bluetooth Speaker,Electronics,1358.08
+PROD2079,Lipstick,Beauty,420.35
+PROD2080,Yoga Mat,Sports,418.53
+PROD2081,Blender,Home,192.16
+PROD2082,Jacket,Clothing,410.43
+PROD2083,Refrigerator,Home,170.66
+PROD2084,Cycling Helmet,Sports,32.67
+PROD2085,Vacuum Cleaner,Home,1453.08
+PROD2086,Perfume,Beauty,104.39
+PROD2087,Basketball,Sports,935.95
+PROD2088,Chair,Home,6.43
+PROD2089,Cricket Bat,Sports,334.5
+PROD2090,Football,Sports,72.16
+PROD2091,Laptop,Electronics,198.07
+PROD2092,Skirt,Clothing,1180.59
+PROD2093,Microwave,Home,83.69
+PROD2094,Sneakers,Clothing,228.12
+PROD2095,Microwave,Home,284.69
+PROD2096,Shirt,Clothing,10.34
+PROD2097,Bluetooth Speaker,Electronics,218.72
+PROD2098,Moisturizer,Beauty,211.68
+PROD2099,Vacuum Cleaner,Home,102.92
+PROD2100,T-Shirt,Clothing,277.83
+PROD2101,Jacket,Clothing,224.46
+PROD2102,Cycling Helmet,Sports,277.63
+PROD2103,Conditioner,Beauty,350.36
+PROD2104,Moisturizer,Beauty,213.68
+PROD2105,Tennis Racket,Sports,36.09
+PROD2106,Football,Sports,267.89
+PROD2107,Bluetooth Speaker,Electronics,755.64
+PROD2108,Cycling Helmet,Sports,1725.32
+PROD2109,Dumbbells,Sports,87.1
+PROD2110,T-Shirt,Clothing,104.59
+PROD2111,Sofa,Home,79.28
+PROD2112,Cycling Helmet,Sports,197.22
+PROD2113,Face Wash,Beauty,343.73
+PROD2114,T-Shirt,Clothing,183.62
+PROD2115,Face Wash,Beauty,266.26
+PROD2116,T-Shirt,Clothing,231.08
+PROD2117,Dress,Clothing,261.03
+PROD2118,Microwave,Home,220.35
+PROD2119,Dumbbells,Sports,88.49
+PROD2120,Sofa,Home,229.56
+PROD2121,Camera,Electronics,38.42
+PROD2122,Microwave,Home,35.18
+PROD2123,Tablet,Electronics,96.43
+PROD2124,Basketball,Sports,198.52
+PROD2125,Refrigerator,Home,423.9
+PROD2126,T-Shirt,Clothing,182.16
+PROD2127,Gaming Console,Electronics,978.85
+PROD2128,Microwave,Home,657.06
+PROD2129,Smartphone,Electronics,6.78
+PROD2130,Jacket,Clothing,289.8
+PROD2131,Perfume,Beauty,21.72
+PROD2132,Smartphone,Electronics,780.1
+PROD2133,Bluetooth Speaker,Electronics,460.48
+PROD2134,Lamp,Home,332.45
+PROD2135,T-Shirt,Clothing,66.25
+PROD2136,Face Wash,Beauty,132.92
+PROD2137,Gaming Console,Electronics,187.24
+PROD2138,Refrigerator,Home,1575.87
+PROD2139,Smartphone,Electronics,141.13
+PROD2140,Dress,Clothing,584.37
+PROD2141,Vacuum Cleaner,Home,389.05
+PROD2142,Foundation,Beauty,495.74
+PROD2143,Lamp,Home,19.39
+PROD2144,Football,Sports,444.92
+PROD2145,Hoodie,Clothing,85.87
+PROD2146,Running Shoes,Sports,382.88
+PROD2147,Yoga Mat,Sports,177.29
+PROD2148,Skirt,Clothing,130.54
+PROD2149,Yoga Mat,Sports,1249.74
+PROD2150,Jacket,Clothing,290.81
+PROD2151,Tennis Racket,Sports,366.09
+PROD2152,Shirt,Clothing,34.53
+PROD2153,Perfume,Beauty,112.73
+PROD2154,Moisturizer,Beauty,1019.71
+PROD2155,Laptop,Electronics,74.99
+PROD2156,Nail Polish,Beauty,434.02
+PROD2157,Nail Polish,Beauty,358.32
+PROD2158,Jeans,Clothing,189.52
+PROD2159,Conditioner,Beauty,239.76
+PROD2160,Sofa,Home,43.42
+PROD2161,Vacuum Cleaner,Home,153.87
+PROD2162,Face Wash,Beauty,8.1
+PROD2163,Hoodie,Clothing,325.53
+PROD2164,Cycling Helmet,Sports,211.46
+PROD2165,Shirt,Clothing,293.7
+PROD2166,Dining Table,Home,157.86
+PROD2167,Cycling Helmet,Sports,927.22
+PROD2168,Perfume,Beauty,33.59
+PROD2169,Jeans,Clothing,295.43
+PROD2170,Perfume,Beauty,91.9
+PROD2171,Smartwatch,Electronics,531.37
+PROD2172,Bluetooth Speaker,Electronics,143.44
+PROD2173,Cycling Helmet,Sports,432.84
+PROD2174,Smartphone,Electronics,61.63
+PROD2175,Smartwatch,Electronics,146.29
+PROD2176,Sofa,Home,142.63
+PROD2177,Running Shoes,Sports,281.51
+PROD2178,Skirt,Clothing,314.29
+PROD2179,Jacket,Clothing,628.04
+PROD2180,T-Shirt,Clothing,145.3
+PROD2181,Basketball,Sports,81.86
+PROD2182,Shampoo,Beauty,478.29
+PROD2183,Refrigerator,Home,386.17
+PROD2184,Foundation,Beauty,1902.06
+PROD2185,Bluetooth Speaker,Electronics,11.23
+PROD2186,Camera,Electronics,522.95
+PROD2187,Perfume,Beauty,354.59
+PROD2188,Smartwatch,Electronics,35.7
+PROD2189,Lipstick,Beauty,394.6
+PROD2190,Football,Sports,71.62
+PROD2191,Vacuum Cleaner,Home,260.37
+PROD2192,Tablet,Electronics,281.42
+PROD2193,Dining Table,Home,54.05
+PROD2194,Dress,Clothing,77.92
+PROD2195,Sneakers,Clothing,30.34
+PROD2196,Chair,Home,381.38
+PROD2197,Lipstick,Beauty,305.05
+PROD2198,Face Wash,Beauty,229.14
+PROD2199,Hoodie,Clothing,4.41

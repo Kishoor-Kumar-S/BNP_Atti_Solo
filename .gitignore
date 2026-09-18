@@ -27,7 +27,11 @@ __pycache__/
 *.h5
 
 # Data outputs (generated, not source-controlled)
-data/processed/
+# Data outputs (generated, not source-controlled)
+data/processed/*
+!data/processed/customers.csv
+!data/processed/products.csv
+!data/processed/orders.csv
 ml/churn/output/*
 !ml/churn/output/predictions.csv
 ml/sales-demand/output/*
