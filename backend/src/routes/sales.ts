@@ -51,14 +51,17 @@ router.get("/forecast", async (req, res) => {
  * GET /api/sales/top-products
  * Top 10 products by predicted sales — direct deliverable from spec.
  */
-router.get("/top-products", async (_req, res) => {
+router.get("/top-products", async (req, res) => {
   try {
+    const period = req.query.period === "next_year" ? "next_year" : "next_quarter";
     const result = await pool.query(
       `SELECT * FROM sales_forecasts
+       WHERE period = $1
        ORDER BY predicted_revenue DESC
-       LIMIT 10`
+       LIMIT 10`,
+      [period]
     );
-    res.json({ data: result.rows, source: result.rows[0]?.source ?? "mock" });
+    res.json({ data: result.rows, period, source: result.rows[0]?.source ?? "mock" });
   } catch (err) {
     res.status(500).json({ error: (err as Error).message });
   }

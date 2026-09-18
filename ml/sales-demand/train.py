@@ -5,14 +5,14 @@ IMPORTANT DATASET CONSTRAINT: this dataset has exactly one order per
 customer (no repeat purchase history), so a true per-product time series
 forecast isn't supportable. Instead, this script builds a defensible
 proxy: it aggregates real order revenue/units by (category, month),
-computes each category's average monthly run-rate and month-over-month
-trend, and projects that forward for next quarter — a seasonal/trend
-baseline, not a flat trailing average (the same class of mistake fixed
-in the original session's demand forecasting).
+fits a linear trend per category, and projects it forward for BOTH
+next quarter (3 months) and next year (12 months) — a seasonal/trend
+baseline, not a flat trailing average.
 
 Output contract (matches docs/ENV_CONVENTIONS.md):
     ml/sales-demand/output/forecast.csv
     columns: product_name, period, predicted_units, predicted_revenue
+    period is either 'next_quarter' or 'next_year'
 
 Since real per-product signal doesn't exist, "product_name" here is
 populated with the top products (by historical revenue) within each
@@ -49,9 +49,6 @@ def load_data():
 
 
 def build_category_monthly_trend(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Real monthly revenue/units by category, from actual order_date values.
-    """
     df["month"] = df["order_date"].dt.to_period("M")
     monthly = (
         df.groupby(["category", "month"])
@@ -61,13 +58,13 @@ def build_category_monthly_trend(df: pd.DataFrame) -> pd.DataFrame:
     return monthly
 
 
-def project_next_quarter(monthly: pd.DataFrame) -> pd.DataFrame:
+def project_period(monthly: pd.DataFrame, horizon_months: int) -> pd.DataFrame:
     """
-    Per category: average monthly units/revenue over the observed
-    history, plus a simple linear trend (slope of units/revenue over
-    time), projected 3 months forward and summed for 'next_quarter'.
-    This avoids the flat-trailing-average mistake by actually fitting
-    a trend line rather than repeating the last period's value.
+    Per category: fits a linear trend (units/revenue vs. time index) over
+    the observed monthly history, then projects it forward `horizon_months`
+    and sums the projected values. Same real trend line is reused for
+    both the 3-month and 12-month horizons — just summed over a longer
+    window, not a separately fabricated number.
     """
     results = []
 
@@ -79,15 +76,12 @@ def project_next_quarter(monthly: pd.DataFrame) -> pd.DataFrame:
             units_slope, units_intercept = np.polyfit(x, group["units"], 1)
             revenue_slope, revenue_intercept = np.polyfit(x, group["revenue"], 1)
         else:
-            # Not enough months of history for a trend line — fall back
-            # to flat projection using the single available data point,
-            # explicitly noted rather than silently guessing.
             units_slope, units_intercept = 0, group["units"].iloc[0]
             revenue_slope, revenue_intercept = 0, group["revenue"].iloc[0]
 
-        next_3_months_idx = np.arange(len(group), len(group) + 3)
-        projected_units = np.sum(units_slope * next_3_months_idx + units_intercept)
-        projected_revenue = np.sum(revenue_slope * next_3_months_idx + revenue_intercept)
+        future_idx = np.arange(len(group), len(group) + horizon_months)
+        projected_units = np.sum(units_slope * future_idx + units_intercept)
+        projected_revenue = np.sum(revenue_slope * future_idx + revenue_intercept)
 
         results.append({
             "category": category,
@@ -98,12 +92,11 @@ def project_next_quarter(monthly: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(results)
 
 
-def distribute_to_top_products(df: pd.DataFrame, category_forecast: pd.DataFrame) -> pd.DataFrame:
+def distribute_to_top_products(df: pd.DataFrame, category_forecast: pd.DataFrame, period_label: str) -> pd.DataFrame:
     """
     Distributes each category's projected units/revenue across that
-    category's top N products by historical revenue share. This is an
-    explicit proxy (documented in the module docstring and the data
-    quality report), not a fabricated per-product forecast.
+    category's top N products by historical revenue share, tagged with
+    the given period_label ('next_quarter' or 'next_year').
     """
     product_revenue = (
         df.groupby(["category", "product_name"])["line_total"]
@@ -126,7 +119,7 @@ def distribute_to_top_products(df: pd.DataFrame, category_forecast: pd.DataFrame
         for _, prod_row in cat_products.iterrows():
             rows.append({
                 "product_name": prod_row["product_name"],
-                "period": "next_quarter",
+                "period": period_label,
                 "predicted_units": max(0, round(cat_forecast["predicted_units"] * prod_row["share"])),
                 "predicted_revenue": max(0.0, round(cat_forecast["predicted_revenue"] * prod_row["share"], 2)),
             })
@@ -142,21 +135,31 @@ def main():
     monthly = build_category_monthly_trend(df)
     print(f"\nMonthly history spans {monthly['month'].nunique()} distinct months per category (varies by category).")
 
-    category_forecast = project_next_quarter(monthly)
-    print("\nNext-quarter category-level forecast (real trend-based projection):")
-    print(category_forecast.to_string(index=False))
+    quarter_forecast = project_period(monthly, horizon_months=3)
+    year_forecast = project_period(monthly, horizon_months=12)
 
-    forecast = distribute_to_top_products(df, category_forecast)
+    print("\nNext-quarter category-level forecast (3-month trend projection):")
+    print(quarter_forecast.to_string(index=False))
+    print(f"Total next-quarter: {quarter_forecast['predicted_revenue'].sum():,.2f}")
+
+    print("\nNext-year category-level forecast (12-month trend projection):")
+    print(year_forecast.to_string(index=False))
+    print(f"Total next-year: {year_forecast['predicted_revenue'].sum():,.2f}")
+
+    quarter_products = distribute_to_top_products(df, quarter_forecast, "next_quarter")
+    year_products = distribute_to_top_products(df, year_forecast, "next_year")
+    forecast = pd.concat([quarter_products, year_products], ignore_index=True)
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     forecast.to_csv(FORECAST_PATH, index=False)
 
     print(f"\nForecast written to {FORECAST_PATH}")
-    print(f"{len(forecast)} product-level forecast rows (top {TOP_N_PRODUCTS_PER_CATEGORY} products per category).")
+    print(f"{len(forecast)} total rows ({len(quarter_products)} next_quarter + {len(year_products)} next_year).")
     print("\nNOTE: product-level rows are a category forecast distributed by historical "
           "revenue share, not an independently modeled per-product forecast — documented "
           "limitation due to the dataset having one order per customer (no repeat-purchase "
-          "time series per product).")
+          "time series per product). Both horizons are summed from the SAME fitted trend "
+          "line per category, just over different projection windows.")
 
 
 if __name__ == "__main__":

@@ -141,8 +141,10 @@ export const api = {
     );
   },
 
-  salesTopProducts: () =>
-    request<{ data: SalesForecast[]; source: string }>("/api/sales/top-products"),
+  salesTopProducts: (period: "next_quarter" | "next_year" = "next_quarter") =>
+    request<{ data: SalesForecast[]; period: string; source: string }>(
+      `/api/sales/top-products?period=${period}`
+    ),
 
   salesForecast: (params: { page?: number; limit?: number; period?: string } = {}) => {
     const qs = new URLSearchParams();
