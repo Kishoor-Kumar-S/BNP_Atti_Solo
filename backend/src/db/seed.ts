@@ -14,12 +14,7 @@
 
 import fs from "fs";
 import path from "path";
-import { Pool } from "pg";
-import dotenv from "dotenv";
-
-dotenv.config();
-
-const pool = new Pool({ connectionString: process.env.DATABASE_URL });
+import { pool } from "./pool";
 
 const PROCESSED_DIR = path.join(__dirname, "..", "..", "..", "data", "processed");
 const CHURN_PREDICTIONS_PATH = path.join(__dirname, "..", "..", "..", "ml", "churn", "output", "predictions.csv");
