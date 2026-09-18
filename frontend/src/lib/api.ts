@@ -71,6 +71,13 @@ export interface ChurnDriver {
   pct: string;
 }
 
+export interface RevenueAtRisk {
+  at_risk_customer_count: string;
+  at_risk_revenue: string;
+  pct_of_total_revenue: string;
+  source: string;
+}
+
 export interface SalesForecast {
   id: number;
   product_name: string;
@@ -121,6 +128,8 @@ export const api = {
 
   churnDrivers: () =>
     request<{ data: ChurnDriver[]; note: string; source: string }>("/api/churn/drivers"),
+
+  churnRevenueAtRisk: () => request<RevenueAtRisk>("/api/churn/revenue-at-risk"),
 
   churnPredictions: (params: { page?: number; limit?: number; risk_tier?: string } = {}) => {
     const qs = new URLSearchParams();
