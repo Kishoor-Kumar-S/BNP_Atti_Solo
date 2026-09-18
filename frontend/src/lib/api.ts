@@ -144,6 +144,16 @@ export const api = {
   salesTopProducts: () =>
     request<{ data: SalesForecast[]; source: string }>("/api/sales/top-products"),
 
+  salesForecast: (params: { page?: number; limit?: number; period?: string } = {}) => {
+    const qs = new URLSearchParams();
+    if (params.page) qs.set("page", String(params.page));
+    if (params.limit) qs.set("limit", String(params.limit));
+    if (params.period) qs.set("period", params.period);
+    return request<{ data: SalesForecast[]; pagination: Pagination; source: string }>(
+      `/api/sales/forecast?${qs.toString()}`
+    );
+  },
+
   salesDemandByCategory: () =>
     request<{ data: DemandByCategory[]; source: string }>("/api/sales/demand-by-category"),
 
