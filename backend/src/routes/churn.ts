@@ -147,4 +147,31 @@ router.get("/drivers", async (_req, res) => {
   }
 });
 
+/**
+ * GET /api/churn/revenue-at-risk
+ * Real total order revenue attributable to customers in high/critical
+ * risk tiers — an honest "potential revenue at risk" figure, computed
+ * from actual order history, not estimated or fabricated.
+ */
+router.get("/revenue-at-risk", async (_req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT
+         COUNT(DISTINCT c.customer_id) AS at_risk_customer_count,
+         COALESCE(SUM(o.line_total), 0) AS at_risk_revenue,
+         ROUND(
+           COALESCE(SUM(o.line_total), 0)::numeric
+           / NULLIF((SELECT SUM(line_total) FROM orders), 0) * 100, 1
+         ) AS pct_of_total_revenue
+       FROM churn_predictions cp
+       JOIN customers c ON c.customer_id = cp.customer_id
+       LEFT JOIN orders o ON o.customer_id = c.customer_id
+       WHERE cp.risk_tier IN ('high', 'critical')`
+    );
+    res.json({ ...result.rows[0], source: "real" });
+  } catch (err) {
+    res.status(500).json({ error: (err as Error).message });
+  }
+});
+
 export default router;
