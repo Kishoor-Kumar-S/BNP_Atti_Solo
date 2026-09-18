@@ -9,6 +9,11 @@ const router = Router();
  * churn snapshot, sales snapshot, and top signals. Each block's source
  * is read from the actual data (not hardcoded), so it correctly
  * reflects mock vs model once real ML output is seeded.
+ *
+ * Sales forecast query is filtered to period='next_quarter' — without
+ * this, once sales_forecasts holds both next_quarter and next_year rows,
+ * ORDER BY predicted_revenue would surface next_year rows (much larger
+ * numbers) instead, silently mixing incompatible time horizons.
  */
 router.get("/summary", async (_req, res) => {
   try {
@@ -35,7 +40,8 @@ router.get("/summary", async (_req, res) => {
       ),
       pool.query(
         `SELECT product_name, predicted_units, predicted_revenue, source
-         FROM sales_forecasts ORDER BY predicted_revenue DESC LIMIT 5`
+         FROM sales_forecasts WHERE period = 'next_quarter'
+         ORDER BY predicted_revenue DESC LIMIT 5`
       ),
       pool.query(
         `SELECT p.category, SUM(o.quantity) AS total_units
