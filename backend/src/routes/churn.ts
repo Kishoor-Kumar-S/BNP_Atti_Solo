@@ -124,4 +124,54 @@ router.get("/trends", async (_req, res) => {
   }
 });
 
+/**
+ * GET /api/churn/drivers
+ * Real distribution of top_factor across all churn predictions — a
+ * legitimate proxy for "churn drivers" since we don't store per-feature
+ * importance scores. This is an actual count/percentage of what factor
+ * the model flagged as most influential per customer, not a fabricated
+ * feature-importance ranking.
+ */
+router.get("/drivers", async (_req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT top_factor, COUNT(*) AS customer_count,
+              ROUND(COUNT(*)::numeric / (SELECT COUNT(*) FROM churn_predictions) * 100, 1) AS pct
+       FROM churn_predictions
+       GROUP BY top_factor
+       ORDER BY customer_count DESC`
+    );
+    res.json({ data: result.rows, note: "Real distribution of model-flagged top factors, not per-feature importance scores.", source: "model" });
+  } catch (err) {
+    res.status(500).json({ error: (err as Error).message });
+  }
+});
+
+/**
+ * GET /api/churn/revenue-at-risk
+ * Real total order revenue attributable to customers in high/critical
+ * risk tiers — an honest "potential revenue at risk" figure, computed
+ * from actual order history, not estimated or fabricated.
+ */
+router.get("/revenue-at-risk", async (_req, res) => {
+  try {
+    const result = await pool.query(
+      `SELECT
+         COUNT(DISTINCT c.customer_id) AS at_risk_customer_count,
+         COALESCE(SUM(o.line_total), 0) AS at_risk_revenue,
+         ROUND(
+           COALESCE(SUM(o.line_total), 0)::numeric
+           / NULLIF((SELECT SUM(line_total) FROM orders), 0) * 100, 1
+         ) AS pct_of_total_revenue
+       FROM churn_predictions cp
+       JOIN customers c ON c.customer_id = cp.customer_id
+       LEFT JOIN orders o ON o.customer_id = c.customer_id
+       WHERE cp.risk_tier IN ('high', 'critical')`
+    );
+    res.json({ ...result.rows[0], source: "real" });
+  } catch (err) {
+    res.status(500).json({ error: (err as Error).message });
+  }
+});
+
 export default router;
